@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
             element.classList.add('incorrect');
             highlightCorrectAnswer(correctAnswer);
         }
-        document.getElementById('result').textContent = resultText;
+        // document.getElementById('result').textContent = resultText;
         updateScore();
     };
 

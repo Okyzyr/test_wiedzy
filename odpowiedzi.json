@@ -163,7 +163,7 @@
       },
       {
         "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
-        "correct_answer": "2%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "correct_answer": "2%",
         "incorrect_answers": [
           "1%",
           "3%",
