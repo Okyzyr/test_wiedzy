@@ -172,7 +172,7 @@
       },
       {
         "question": "Koszt kampanii wyniósł 5000 zł, a pozyskano 100 leadów. Jaki był CPL?",
-        "correct_answer": "50 zł.",
+        "correct_answer": "50 zł",
         "incorrect_answers": [
           "20 zł",
           "100 zł",
