@@ -1296,7 +1296,7 @@
     },
     {
         "question": "Jakie narzędzia służą do analizy ruchu na stronie internetowej?",
-        "correct_answer": "Google Analytics, CMS (Content Management System).",
+        "correct_answer": "Google Analytics, Google Search Console, HotJar, Yandex.Metrica.",
         "incorrect_answers": [
             "SEO tools i narzędzia do zarządzania bazą danych.",
             "Systemy zarządzania treścią i narzędzia antywirusowe.",
