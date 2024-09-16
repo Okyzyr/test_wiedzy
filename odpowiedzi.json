@@ -1899,7 +1899,7 @@
       },
 
     {
-        "question": "Co to jest SEO?",
+        "question": "* Co to jest SEO?",
         "correct_answer": "Search Engine Optimization",
         "incorrect_answers": [
         "Social Media Optimization",
@@ -1908,7 +1908,7 @@
         ]
     },
     {
-        "question": "Jakie są podstawowe metryki w analizie ruchu internetowego?",
+        "question": "* Jakie są podstawowe metryki w analizie ruchu internetowego?",
         "correct_answer": "Wszystkie wymienione",
         "incorrect_answers": [
         "CPC, CPM, CPA",
@@ -1917,7 +1917,7 @@
         ]
     },
     {
-        "question": "Co oznacza termin 'konwersja' w marketingu internetowym?",
+        "question": "* Co oznacza termin 'konwersja' w marketingu internetowym?",
         "correct_answer": "Osiągnięcie określonego celu przez użytkownika",
         "incorrect_answers": [
         "Zmiana ustawień kampanii",
@@ -1926,7 +1926,7 @@
         ]
     },
     {
-        "question": "Jaki jest główny cel stosowania remarketingu?",
+        "question": "* Jaki jest główny cel stosowania remarketingu?",
         "correct_answer": "Ponowne dotarcie do użytkowników, którzy odwiedzili stronę",
         "incorrect_answers": [
         "Zwiększenie ruchu na stronie",
@@ -1935,7 +1935,7 @@
         ]
     },
     {
-        "question": "Co to jest content marketing?",
+        "question": "* Co to jest content marketing?",
         "correct_answer": "Tworzenie i dystrybucja wartościowych treści dla odbiorców",
         "incorrect_answers": [
         "Promocja treści przez influencerów",
@@ -1944,7 +1944,7 @@
         ]
     },
     {
-        "question": "Jakie narzędzie jest najlepsze do mierzenia efektywności SEO?",
+        "question": "* Jakie narzędzie jest najlepsze do mierzenia efektywności SEO?",
         "correct_answer": "Google Analytics",
         "incorrect_answers": [
         "Google AdWords",
@@ -1953,7 +1953,7 @@
         ]
     },
     {
-        "question": "Co to jest lead generation?",
+        "question": "* Co to jest lead generation?",
         "correct_answer": "Proces zdobywania nowych klientów",
         "incorrect_answers": [
         "Monitorowanie ruchu na stronie",
@@ -1962,7 +1962,7 @@
         ]
     },
     {
-        "question": "Jaką rolę odgrywa 'Call to Action' w kampanii reklamowej?",
+        "question": "* Jaką rolę odgrywa 'Call to Action' w kampanii reklamowej?",
         "correct_answer": "Zachęca użytkowników do podjęcia określonej akcji",
         "incorrect_answers": [
         "Informuje użytkowników o marce",
@@ -1971,7 +1971,7 @@
         ]
     },
     {
-        "question": "Co to jest bounce rate?",
+        "question": "* Co to jest bounce rate?",
         "correct_answer": "Procent użytkowników, którzy opuścili stronę po obejrzeniu tylko jednej strony",
         "incorrect_answers": [
         "Procent użytkowników, którzy opuścili stronę przed załadowaniem",
@@ -1980,7 +1980,7 @@
         ]
     },
     {
-        "question": "Jakie są korzyści z używania mediów społecznościowych w biznesie?",
+        "question": "* Jakie są korzyści z używania mediów społecznościowych w biznesie?",
         "correct_answer": "Budowanie relacji z klientami, promocja marki, generowanie ruchu",
         "incorrect_answers": [
         "Tylko zwiększenie sprzedaży",
@@ -1989,7 +1989,7 @@
         ]
     },
     {
-        "question": "Co to jest 'responsive web design'?",
+        "question": "* Co to jest 'responsive web design'?",
         "correct_answer": "Design, który dynamicznie się dostosowuje do rozmiaru ekranu urządzenia",
         "incorrect_answers": [
         "Design oparty na najnowszych trendach",
@@ -1998,7 +1998,7 @@
         ]
     },
     {
-        "question": "Jakie działania wchodzą w skład procesu optymalizacji konwersji (CRO)?",
+        "question": "* Jakie działania wchodzą w skład procesu optymalizacji konwersji (CRO)?",
         "correct_answer": "Testowanie A/B, analiza ścieżek użytkowników, dostosowywanie treści",
         "incorrect_answers": [
         "Wybór kolorów strony, logo",
@@ -2007,7 +2007,7 @@
         ]
     },
     {
-        "question": "Co to jest 'pay-per-click' (PPC) advertising?",
+        "question": "* Co to jest 'pay-per-click' (PPC) advertising?",
         "correct_answer": "Model reklamowy, w którym płaci się za każde kliknięcie w reklamę",
         "incorrect_answers": [
         "Model, w którym płaci się za każde wyświetlenie reklamy",
@@ -2016,7 +2016,7 @@
         ]
     },
     {
-        "question": "Jakie są główne zalety e-mail marketingu?",
+        "question": "* Jakie są główne zalety e-mail marketingu?",
         "correct_answer": "Wszystkie wymienione",
         "incorrect_answers": [
         "Niski koszt, wysoka personalizacja, mierzalność",
@@ -2025,7 +2025,7 @@
         ]
     },
     {
-        "question": "Co oznacza termin 'mobile marketing'?",
+        "question": "* Co oznacza termin 'mobile marketing'?",
         "correct_answer": "Marketing realizowany na urządzeniach mobilnych, takich jak smartfony i tablety",
         "incorrect_answers": [
         "Marketing realizowany za pomocą aplikacji mobilnych",
@@ -2034,7 +2034,7 @@
         ]
     },
     {
-        "question": "Co to jest Google AdSense?",
+        "question": "* Co to jest Google AdSense?",
         "correct_answer": "Program, który pozwala wydawcom internetowym zarabiać na umieszczaniu reklam",
         "incorrect_answers": [
         "Narzędzie do zarządzania kampaniami reklamowymi",
@@ -2043,7 +2043,7 @@
         ]
     },
     {
-        "question": "Jakie techniki należą do 'Black Hat SEO'?",
+        "question": "* Jakie techniki należą do 'Black Hat SEO'?",
         "correct_answer": "Kupowanie linków, ukryte teksty, 'keyword stuffing'",
         "incorrect_answers": [
         "Optymalizacja meta tagów, budowanie linków, tworzenie wartościowych treści",
@@ -2052,7 +2052,7 @@
         ]
     },
     {
-        "question": "Co to jest 'influencer marketing'?",
+        "question": "* Co to jest 'influencer marketing'?",
         "correct_answer": "Marketing za pomocą liderów opinii w mediach społecznościowych",
         "incorrect_answers": [
         "Marketing za pomocą celebrytów w telewizji",
@@ -2061,7 +2061,7 @@
         ]
     },
     {
-        "question": "Jakie są korzyści z używania analityki internetowej?",
+        "question": "* Jakie są korzyści z używania analityki internetowej?",
         "correct_answer": "Wszystkie wymienione",
         "incorrect_answers": [
         "Pozwala na śledzenie ruchu na stronie",
@@ -2070,7 +2070,7 @@
         ]
     },
     {
-        "question": "Co to jest 'viral marketing'?",
+        "question": "* Co to jest 'viral marketing'?",
         "correct_answer": "Marketing, który naturalnie rozprzestrzenia się wśród użytkowników",
         "incorrect_answers": [
         "Marketing za pomocą wirusów komputerowych",
@@ -2079,13 +2079,148 @@
         ]
     },
     {
-        "question": "Co to jest 'affiliate marketing'?",
+        "question": "* Co to jest 'affiliate marketing'?",
         "correct_answer": "Program partnerski, gdzie partnerzy zarabiają prowizję za promowanie produktów",
         "incorrect_answers": [
         "Model marketingowy, w którym płaci się za konwersje",
         "Bezpośrednia sprzedaż produktów przez internet",
         "Forma marketingu bezpośredniego"
         ]
-    }
-          
+    },
+    {
+        "question": "* Co to jest 'digital footprint'?",
+        "correct_answer": "Ślad cyfrowy pozostawiony przez działania użytkownika w internecie",
+        "incorrect_answers": [
+          "Usługa marketingu cyfrowego",
+          "Narzędzie do analizy danych",
+          "Kampania reklamowa w mediach społecznościowych"
+        ]
+      },
+      {
+        "question": "* Jakie są elementy skutecznej kampanii e-mail marketingowej?",
+        "correct_answer": "Atrakcyjny temat, spersonalizowana treść, silne wezwanie do działania",
+        "incorrect_answers": [
+          "Duża liczba wysłanych e-maili, krótka treść, minimalne grafiki",
+          "Szybka odpowiedź na wiadomości odbiorców, ogólny temat, jednorazowe wysyłki",
+          "Automatyzacja wysyłki, dowolne tematy, jednorodna treść"
+        ]
+      },
+      {
+        "question": "* Co to jest 'lookalike audience' w reklamie na Facebooku?",
+        "correct_answer": "Grupa odbiorców o podobnych cechach do obecnych klientów",
+        "incorrect_answers": [
+          "Odbiorcy, którzy polubili stronę konkurencji",
+          "Użytkownicy, którzy często komentują posty",
+          "Odbiorcy korzystający z tej samej przeglądarki internetowej"
+        ]
+      },
+      {
+        "question": "* Jakie są główne korzyści z używania Google Ads?",
+        "correct_answer": "Zwiększenie ruchu, lepsza widoczność, generowanie leadów",
+        "incorrect_answers": [
+          "Automatyczne publikowanie treści, zwiększenie liczby obserwujących, optymalizacja SEO",
+          "Zmniejszenie kosztów reklamy, zwiększenie zaangażowania, bezpośrednia sprzedaż",
+          "Monitorowanie konkurencji, zarządzanie społecznością, raporty w czasie rzeczywistym"
+        ]
+      },
+      {
+        "question": "* Co to jest 'engagement rate' w kontekście mediów społecznościowych?",
+        "correct_answer": "Wskaźnik mierzący stopień zaangażowania użytkowników w treści",
+        "incorrect_answers": [
+          "Liczba kliknięć w linki",
+          "Procent osób, które opuściły stronę po krótkim czasie",
+          "Liczba wyświetleń strony"
+        ]
+      },
+      {
+        "question": "* Jakie są najlepsze praktyki dla SEO na stronie (on-page SEO)?",
+        "correct_answer": "Optymalizacja metatagów, odpowiednia struktura URL, używanie słów kluczowych",
+        "incorrect_answers": [
+          "Kupowanie linków, dodawanie niezwiązanych słów kluczowych, nadmierna optymalizacja",
+          "Ignorowanie tagów alt w obrazach, używanie starych linków, brak aktualizacji treści",
+          "Użycie dużej ilości grafik, ukrywanie tekstu, zapominanie o nagłówkach"
+        ]
+      },
+      {
+        "question": "* Co to jest 'click-through rate' (CTR)?",
+        "correct_answer": "Procent użytkowników, którzy kliknęli na link w stosunku do liczby wyświetleń",
+        "incorrect_answers": [
+          "Procent użytkowników, którzy zakupili produkt po kliknięciu",
+          "Liczba kliknięć podzielona przez liczbę odsłon strony",
+          "Procent odrzuceń po kliknięciu na reklamę"
+        ]
+      },
+      {
+        "question": "* Jakie działania należy podjąć, aby zwiększyć 'open rate' w e-mail marketingu?",
+        "correct_answer": "Używanie spersonalizowanych tematów, optymalizacja czasu wysyłki, segmentacja odbiorców",
+        "incorrect_answers": [
+          "Zwiększenie częstotliwości wysyłek, użycie większej liczby obrazów, ograniczenie treści",
+          "Ignorowanie preferencji odbiorców, jednorazowe wysyłki, brak testowania A/B",
+          "Stosowanie ogólnych tematów, wysyłka w godzinach szczytu, używanie jednego formatu dla wszystkich"
+        ]
+      },
+      {
+        "question": "* Co to jest 'retargeting'?",
+        "correct_answer": "Technika reklamowa polegająca na ponownym dotarciu do użytkowników, którzy wcześniej odwiedzili stronę",
+        "incorrect_answers": [
+          "Metoda pozyskiwania nowych użytkowników poprzez reklamy",
+          "Technika polegająca na zwiększeniu widoczności marki w mediach",
+          "Proces optymalizacji strony pod kątem wyszukiwarek"
+        ]
+      },
+      {
+        "question": "* Co to jest 'content curation'?",
+        "correct_answer": "Proces selekcjonowania, organizowania i udostępniania najbardziej relewantnych treści dla określonej grupy odbiorców",
+        "incorrect_answers": [
+          "Tworzenie nowych, oryginalnych treści",
+          "Automatyczne generowanie treści przez AI",
+          "Publikowanie reklam w formie treści"
+        ]
+      },
+      {
+        "question": "* Jakie jest główne zastosowanie 'Google Analytics'?",
+        "correct_answer": "Analiza ruchu na stronie i zachowań użytkowników",
+        "incorrect_answers": [
+          "Zarządzanie kampaniami reklamowymi w Google Ads",
+          "Monitorowanie konkurencji w branży",
+          "Automatyczne generowanie treści na stronie"
+        ]
+      },
+      {
+        "question": "* Co to jest 'A/B testing'?",
+        "correct_answer": "Metoda porównywania dwóch wersji strony lub kampanii, aby zobaczyć, która działa lepiej",
+        "incorrect_answers": [
+          "Testowanie bezpieczeństwa strony internetowej",
+          "Analiza danych demograficznych odbiorców",
+          "Proces wybierania najlepszych słów kluczowych dla SEO"
+        ]
+      },
+      {
+        "question": "* Jakie są cechy skutecznej strony docelowej (landing page)?",
+        "correct_answer": "Czysty design, jasny przekaz, silne wezwanie do działania",
+        "incorrect_answers": [
+          "Dużo treści tekstowych, skomplikowana nawigacja, minimalne grafiki",
+          "Szybkie przekierowania, dużo reklam, automatycznie odtwarzane wideo",
+          "Stałe pop-upy, ogólne wezwania do działania, wysoki poziom interaktywności"
+        ]
+      },
+      {
+        "question": "* Jakie są korzyści z marketingu w wyszukiwarkach (SEM)?",
+        "correct_answer": "Natychmiastowa widoczność, zwiększenie ruchu, precyzyjne targetowanie",
+        "incorrect_answers": [
+          "Długoterminowa budowa marki, niskie koszty, wysoka ROI",
+          "Organiczne pozyskiwanie użytkowników, minimalne koszty, zwiększenie lojalności",
+          "Bezpośrednia sprzedaż, stały koszt mediów, niska konkurencja"
+        ]
+      },
+      {
+        "question": "* Co to jest 'conversion funnel'?",
+        "correct_answer": "Proces, przez który klient przechodzi od świadomości marki do zakupu",
+        "incorrect_answers": [
+          "Narzędzie do pomiaru efektywności kampanii reklamowych",
+          "Model biznesowy e-commerce",
+          "Technika badania satysfakcji klientów"
+        ]
+      }
+
 ]
