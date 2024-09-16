@@ -704,18 +704,18 @@
         "question": "Co oznacza pojęcie “spam”?",
         "correct_answer": "Niezamówiona korespondencja przesyłana drogą elektroniczną, często masowo.",
         "incorrect_answers": [
-            "Spam oznacza ważne wiadomości e-mailowe.",
-            "Spam to kategoria wysokiej jakości treści.",
-            "Spam to specjalne powiadomienia od znanych marek."
+            "To ogólne określenie na nieistotne wiadomości e-mailowe.",
+            "Spam to kategoria e-mailowych widomości marketingowych.",
+            "Spam to specjalne powiadomienia od znanych marek dla osób, które wyraziły zgodę na takie otrzymywanie takich e-maili."
         ]
     },
     {
         "question": "Co to jest blacklist?",
         "correct_answer": "Blacklist to lista nadawców, których wiadomości nie są akceptowane przez dostawców skrzynek pocztowych.",
         "incorrect_answers": [
-            "Blacklist to lista polecanych nadawców.",
-            "Blacklist to specjalne wyróżnienie dla najlepszych nadawców.",
-            "Blacklist to lista nadawców z najwyższymi wskaźnikami otwarć."
+            "Blacklist to lista polecanych nadawców zweryfikowana przez specjalistów z PirateBay.org.",
+            "Blacklist to specjalne wyróżnienie dla najlepszych nadawców premium.",
+            "Blacklist to lista nadawców z najwyższymi wskaźnikami otwarć, często blokowana ze względu na ilość adresatów."
         ]
     },
     {
@@ -1019,8 +1019,8 @@
         "question": "Co to jest lifetime value (LTV) w e-commerce?",
         "correct_answer": "Lifetime value (LTV) to wartość klienta w długim okresie czasu, mierzona na podstawie jego zakupów i lojalności.",
         "incorrect_answers": [
-            "Jest to wartość netto zysków ze sprzedaży produktu.",
-            "Wartość ta określa koszt utrzymania strony e-commerce.",
+            "Lifetime value (LTV) jest to wartość netto zysków ze sprzedaży produktu w ciągu istnienia tego produktu na rynku.",
+            "LTV - wartość ta określa koszt utrzymania oferty jednego produktu na stronie internetowej w ciągu całego trwania oferty.",
             "LTV to czas, przez który serwis e-commerce może funkcjonować bez zarządzania."
         ]
     },
@@ -1028,9 +1028,9 @@
         "question": "Jakie są metody zwiększania konwersji w e-commerce?",
         "correct_answer": "Optymalizacja ścieżki zakupowej, personalizacja oferty, skrócenie procesu realizacji zamówienia, uproszczenie formularzy.",
         "incorrect_answers": [
-            "Wprowadzenie opłat abonamentowych dla użytkowników premium.",
-            "Zwiększenie liczby reklam w serwisie.",
-            "Ograniczenie liczby dostępnych produktów, aby zwiększyć ekskluzywność."
+            "Wprowadzenie opłat abonamentowych dla użytkowników premium, zmiana layoutu strony na dark-mode.",
+            "Zwiększenie liczby reklam w serwisie, personalizacja oferty, automatyzacja mechanizmów zakupowych.",
+            "Ograniczenie liczby dostępnych produktów, aby zwiększyć ekskluzywność, wzbudzenie obaw o wyczerpanie dostępnych towarów przed podjeciem decyzji zakupowej."
         ]
     },
     {
@@ -1388,9 +1388,9 @@
         "question": "Co to jest Addressable TV?",
         "correct_answer": "Addressable TV to możliwość serwowania różnych treści reklamowych dla różnych segmentów odbiorców oglądających ten sam program telewizyjny na dużym ekranie, oparta na specyficznym targetowaniu odbiorców (np. geolokalizacja, demografia).",
         "incorrect_answers": [
-            "Addressable TV oznacza wykorzystanie technologii satelitarnej do dostarczania treści.",
-            "Addressable TV to technika programowania telewizyjnego skierowana na zoptymalizowanie sygnału cyfrowego.",
-            "Addressable TV to strategia marketingowa wykorzystująca wyłącznie cyfrowe billboardy."
+            "Addressable TV oznacza wykorzystanie technologii satelitarnej do dostarczania treści dla wybranych uytkowników na danym terenie. Często z dedykowanymi ofertami produktów dla mieszkańców danego obszaru.",
+            "Addressable TV to technika programowania telewizyjnego skierowana na zoptymalizowanie sygnału cyfrowego oraz reklam z wykorzystaniem specjalnego pasma w tym standardzie.",
+            "Addressable TV to strategia marketingowa wykorzystująca wyłącznie cyfrowe billboardy kierowane do wyselekcjonowanych grup odbiorców."
         ]
     },
     {
