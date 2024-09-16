@@ -145,47 +145,47 @@
     },
     {
         "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM?",
-        "correct_answer": "5 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "5 zł.",
         "incorrect_answers": [
-          "3 zł. To nieprawidłowe obliczenie kosztu CPM dla danej kampanii.",
-          "7 zł. Obliczenie to nie zgadza się z podanymi danymi finansowymi kampanii.",
-          "1 zł. Błąd w kalkulacji, wartość CPM jest znacznie wyższa."
+          "3 zł",
+          "7 zł",
+          "1 zł"
         ]
       },
       {
         "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?",
-        "correct_answer": "400%. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "correct_answer": "400%.",
         "incorrect_answers": [
-          "200%. Wartość ta nie odzwierciedla prawidłowego obliczenia ROI dla tej kampanii.",
-          "600%. To przeszacowanie efektywności inwestycji względem rzeczywistych danych.",
-          "100%. Zbyt niska wartość, nie odpowiada rzeczywistemu zwrotowi z inwestycji."
+          "200%",
+          "600%",
+          "100%"
         ]
       },
       {
         "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
         "correct_answer": "2%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
         "incorrect_answers": [
-          "1%. Wynik niezgodny z obliczeniami, CTR jest wyższy.",
-          "3%. Zbyt wysoki CTR w stosunku do podanych danych.",
-          "0.5%. Zaniżona wartość CTR, nie zgadza się z rzeczywistością kampanii."
+          "1%",
+          "3%",
+          "0.5%"
         ]
       },
       {
         "question": "Koszt kampanii wyniósł 5000 zł, a pozyskano 100 leadów. Jaki był CPL?",
-        "correct_answer": "50 zł. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "correct_answer": "50 zł.",
         "incorrect_answers": [
-          "20 zł. Zaniżony CPL nie odzwierciedla rzeczywistych kosztów.",
-          "100 zł. Przeszacowany koszt pozyskania leada.",
-          "75 zł. Nieprawidłowe obliczenie, które nie odpowiada rzeczywistym kosztom."
+          "20 zł",
+          "100 zł",
+          "75 zł"
         ]
       },
       {
         "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000 zł, a liczba odsłon to 500 000?",
-        "correct_answer": "2 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "2 zł",
         "incorrect_answers": [
-          "1 zł. Nieadekwatna wartość CPM względem danych.",
-          "4 zł. Błąd w kalkulacji, który nie odpowiada podanym statystykom.",
-          "2.5 zł. Nieprawidłowy CPM, który nie jest zgodny z obliczeniami."
+          "1 zł",
+          "4 zł",
+          "2.5 zł"
         ]
       },
       {
@@ -280,11 +280,11 @@
       },
       {
         "question": "Kampania uzyskała 5000 kliknięć przy 1 000 000 wyświetleń. Jaki był CTR?",
-        "correct_answer": "0,5%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "correct_answer": "0,5%",
         "incorrect_answers": [
-          "0,1%. Błędne obliczenie, które zaniża rzeczywisty CTR.",
-          "1%. Przeszacowanie skuteczności kampanii, niewspółmiernie wysoki wynik.",
-          "0,8%. Nieprawidłowy wynik sugerujący większą efektywność niż w rzeczywistości."
+          "0,1%",
+          "1%",
+          "0,8%"
         ]
       },
       {
@@ -309,18 +309,18 @@
         "question": "Jaką dynamikę wzrostu odnotował rynek reklamy internetowej w Polsce w latach 2022-2023?",
         "correct_answer": "+13%",
         "incorrect_answers": [
-          "+10%",
-          "+15%",
-          "+20%"
+          "+9%",
+          "+18%",
+          "+29%"
         ]
       },
       {
         "question": "Od którego roku wydatki na reklamę internetową w Polsce przewyższają wydatki na reklamę w TV?",
         "correct_answer": "Od 2019 roku.",
         "incorrect_answers": [
-          "Od 2015 roku.",
-          "Od 2020 roku.",
-          "Od 2018 roku."
+          "Od 2010 roku.",
+          "Od 2021 roku.",
+          "Od 2017 roku."
         ]
       },
       {
@@ -542,9 +542,9 @@
         "question": "Jeśli 100 osób kliknęło w reklamę, która została wyświetlona 10 000 razy, jaki był CTR kampanii?",
         "correct_answer": "1%",
         "incorrect_answers": [
-            "0.5%",
+            "0,5%",
             "2%",
-            "0.1%"
+            "0,1%"
         ]
     },
     {
@@ -560,7 +560,7 @@
         "question": "Ile wynosił CR, jeśli 10 z 1000 użytkowników dokonało zakupu po kliknięciu w reklamę?",
         "correct_answer": "1%",
         "incorrect_answers": [
-            "0.1%",
+            "0,1%",
             "10%",
             "5%"
         ]
@@ -598,7 +598,7 @@
         "incorrect_answers": [
             "1%",
             "3%",
-            "0.5%"
+            "0,5%"
         ]
     },
     {
@@ -650,27 +650,27 @@
         "question": "Co oznacza wskaźnik OR?",
         "correct_answer": "Open Rate. Wskaźnik otwarć e-maili w stosunku do liczby wysłanych wiadomości.",
         "incorrect_answers": [
-            "Open Rate. Pokazuje procent odblokowań spamu.",
-            "Open Rate. Mierzy liczbę zarchiwizowanych wiadomości.",
-            "Open Rate. Oznacza procent wiadomości przeczytanych ponownie."
+            "Open-to-Recover. Pokazuje procent odblokowań spamu.",
+            "Organize Rate. Mierzy liczbę zarchiwizowanych wiadomości.",
+            "Overlooked Reopen. Oznacza procent wiadomości przeczytanych ponownie."
         ]
     },
     {
         "question": "Co to jest CTOR?",
         "correct_answer": "Click to Open Rate. Wskaźnik kliknięć w linki w mailingu w stosunku do liczby otwartych wiadomości.",
         "incorrect_answers": [
-            "Click to Open Rate. Mierzy liczbę błędów w mailingu.",
-            "Click to Open Rate. Pokazuje liczbę omyłkowych kliknięć na spam.",
-            "Click to Open Rate. Odsetek wiadomości ignorowanych po otwarciu."
+            "Click-To-Error Ratio. Mierzy liczbę błędów w mailingu.",
+            "Click-To-Report. Pokazuje liczbę omyłkowych kliknięć na spam.",
+            "Click-To-Overlook Ratio. Odsetek wiadomości ignorowanych po otwarciu."
         ]
     },
     {
         "question": "Co to jest CR w e-mail marketingu?",
         "correct_answer": "Conversion Rate. Wskaźnik konwersji, obliczany jako stosunek liczby zrealizowanych celów do liczby kliknięć.",
         "incorrect_answers": [
-            "Conversion Rate. Liczba kliknięć bez zakupów.",
-            "Conversion Rate. Procent odbiorców, którzy anulowali subskrypcję.",
-            "Conversion Rate. Odsetek użytkowników, którzy zignorowali e-mail."
+            "Click-Through Response. Liczba kliknięć bez zakupów.",
+            "Cancellation Rate. Procent odbiorców, którzy anulowali subskrypcję.",
+            "Churn Rate). Odsetek użytkowników, którzy zignorowali e-mail."
         ]
     },
     {
@@ -686,9 +686,9 @@
         "question": "Co to jest wskaźnik dostarczalności (DR)?",
         "correct_answer": "Delivery Rate. Procent wysłanych e-maili, które zostały dostarczone do odbiorców.",
         "incorrect_answers": [
-            "Delivery Rate. Odsetek e-maili odrzuconych przez serwery.",
-            "Delivery Rate. Mierzy ilość e-maili zgłoszonych jako spam.",
-            "Delivery Rate. Procent e-maili usuniętych nieotwartych."
+            "Delivery Rejection. Odsetek e-maili odrzuconych przez serwery.",
+            "Dispute Rate. Mierzy ilość e-maili zgłoszonych jako spam.",
+            "Delete Rate. Procent e-maili usuniętych nieotwartych."
         ]
     },
     {
