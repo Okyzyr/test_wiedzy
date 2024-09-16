@@ -881,8 +881,8 @@
         ]
     },
     {
-        "question": "Jakie są metody płatności w e-commerce?",
-        "correct_answer": "Google Pay, Apple Pay, Pay-By-Link.",
+        "question": "Jakie są najczęstsrze metody płatności w e-commerce?",
+        "correct_answer": "Google Pay, Apple Pay, szybki przelew (PayU), karta.",
         "incorrect_answers": [
             "Do metod płatności należą przelewy bankowe, płatności przy odbiorze i kryptowaluty.",
             "Większość sklepów e-commerce obecnie akceptuje tylko płatności kartami kredytowymi.",
