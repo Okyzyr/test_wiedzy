@@ -190,92 +190,92 @@
       },
       {
         "question": "Kampania uzyskała 100 000 wyświetleń i 500 kliknięć. Jaki był CTR?",
-        "correct_answer": "0,5%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "correct_answer": "0,5%",
         "incorrect_answers": [
-          "0,3%. Nie zgadza się z danymi kampanii.",
-          "1%. Błędna wartość, której nie potwierdzają dane.",
-          "0,7%. CTR większy niż rzeczywiste wyniki kampanii."
+          "0,3%",
+          "1%",
+          "0,7%"
         ]
       },
       {
-        "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?",
-        "correct_answer": "500%. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "correct_answer": "500%",
         "incorrect_answers": [
-          "300%. Nie odpowiada rzeczywistemu zwrotowi z inwestycji.",
-          "700%. Przeinaczone dane względem rzeczywistego zysku.",
-          "450%. Nieprecyzyjne obliczenie, niezgodne z faktami."
+          "300%",
+          "700%",
+          "450%"
         ]
       },
       {
-        "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM?",
-        "correct_answer": "5 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM? CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "5 zł",
         "incorrect_answers": [
-          "4 zł. Nieprawidłowa wartość CPM, wynikająca z błędnego obliczenia kosztu na wyświetlenie.",
-          "8 zł. Nadmierna ocena kosztu na wyświetlenie w stosunku do rzeczywistych danych.",
-          "10 zł. To zdecydowanie za duża wartość CPM dla podanych liczb."
+          "50 zł",
+          "8 zł",
+          "10 zł"
         ]
       },
       {
-        "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?",
-        "correct_answer": "400%. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "correct_answer": "400%",
         "incorrect_answers": [
-          "300%. Nie odpowiada rzeczywistemu zwrotowi z inwestycji.",
-          "500%. Przeszacowana wartość ROI, niezgodna z danymi.",
-          "250%. Niedoszacowana wartość ROI."
+          "300%",
+          "500%",
+          "250%"
         ]
       },
       {
         "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
-        "correct_answer": "2%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "correct_answer": "2%",
         "incorrect_answers": [
-          "1.5%. Niedokładne obliczenie, nie odzwierciedlające rzeczywistego CTR.",
-          "2.5%. Zbyt wysokie obliczenie, które nie zgadza się z danymi.",
-          "3%. Omyłkowa ocena skuteczności kampanii."
+          "1.5%",
+          "2.5%",
+          "3%"
         ]
       },
       {
-        "question": "Koszt kampanii wyniósł 5000 zł, a pozyskano 100 leadów. Jaki był CPL?",
-        "correct_answer": "50 zł. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "question": "Koszt kampanii wyniósł 34000 zł, a pozyskano 200 leadów. Jaki był CPL?. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "correct_answer": "170 zł",
         "incorrect_answers": [
-          "30 zł. Zbyt niska wartość CPL, nie pokrywająca się z rzeczywistymi kosztami.",
-          "70 zł. Przeszacowana wartość, przekraczająca rzeczywiste koszty.",
-          "40 zł. Niedokładna kalkulacja kosztu na leada."
+          "130 zł",
+          "270 zł",
+          "40 zł"
         ]
       },
       {
         "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000 zł, a liczba odsłon to 500 000?",
-        "correct_answer": "2 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "2 zł",
         "incorrect_answers": [
-          "1.5 zł. Błędne obliczenie, które nie odpowiada faktycznym wydatkom.",
-          "3 zł. Wyższa wartość CPM, która nie zgadza się z podanymi danymi.",
-          "2.5 zł. Zbyt wysoka ocena kosztu na 1000 wyświetleń."
+          "1.5 zł",
+          "3 zł",
+          "2.5 zł"
         ]
       },
       {
         "question": "Kampania uzyskała 100 000 wyświetleń i 500 kliknięć. Jaki był CTR?",
-        "correct_answer": "0,5%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "correct_answer": "0,5%",
         "incorrect_answers": [
-          "0,4%. Wynik poniżej rzeczywistego CTR, sugerujący niższą efektywność.",
-          "0,6%. Lekkie przeszacowanie skuteczności kampanii względem rzeczywistości.",
-          "0,8%. Zdecydowanie za wysoki wynik dla podanych danych."
+          "0,4%",
+          "0,6%",
+          "0,8%"
         ]
       },
       {
         "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?",
-        "correct_answer": "500%. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "correct_answer": "500%",
         "incorrect_answers": [
-          "600%. Przekształcony wynik nie odzwierciedlający faktycznej efektywności.",
-          "450%. Niepełne odzwierciedlenie zysków z kampanii względem inwestycji.",
-          "350%. Zaniżona ocena zwrotu z inwestycji."
+          "600%",
+          "450%",
+          "350%"
         ]
       },
       {
         "question": "Jeśli CPM kampanii wynosił 10 zł, a liczba wyświetleń wyniosła 1 000 000, jaki był łączny koszt kampanii?",
-        "correct_answer": "10 000 zł. Łączny koszt kampanii oblicza się, mnożąc CPM przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "10 000 zł",
         "incorrect_answers": [
-          "5 000 zł. Nieprawidłowe obliczenie kosztu na podstawie błędnej interpretacji danych.",
-          "15 000 zł. Nadmiernie przeszacowany koszt kampanii.",
-          "20 000 zł. Błąd w obliczeniach, wynikający z niewłaściwego zrozumienia CPM."
+          "5 000 zł",
+          "15 000 zł",
+          "20 000 zł"
         ]
       },
       {
@@ -289,54 +289,54 @@
       },
       {
         "question": "Jaki był koszt 1000 wyświetleń (CPM) kampanii, jeśli uzyskano 1 500 000 wyświetleń przy koszcie 15 000 zł?",
-        "correct_answer": "10 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "10 zł",
         "incorrect_answers": [
-          "8 zł. Zaniżona wartość CPM, nieodpowiednia dla danych wyjściowych.",
-          "12 zł. Lekkie przeszacowanie CPM, niezgodne z podanymi danymi.",
-          "15 zł. Silne przeszacowanie kosztu za 1000 wyświetleń."
+          "8 zł",
+          "12 zł",
+          "15 zł"
         ]
       },
       {
         "question": "Jakie były wydatki na reklamę internetową w Polsce w 2023 roku?",
-        "correct_answer": "7,8 mld PLN. To kwota przeznaczona na reklamę digital w Polsce w tym okresie .",
+        "correct_answer": "7,8 mld PLN",
         "incorrect_answers": [
-          "6,5 mld PLN. Zaniżona kwota w stosunku do rzeczywistych wydatków.",
-          "8,5 mld PLN. Nieco przeszacowana suma wydatków na reklamę.",
-          "7 mld PLN. Niepełne odzwierciedlenie faktycznego budżetu reklamowego."
+          "6,5 mld PLN",
+          "12,5 mld PLN",
+          "2 mld PLN"
         ]
       },
       {
         "question": "Jaką dynamikę wzrostu odnotował rynek reklamy internetowej w Polsce w latach 2022-2023?",
-        "correct_answer": "+13%. Rynek reklamy internetowej wzrósł o 13% rok do roku .",
+        "correct_answer": "+13%",
         "incorrect_answers": [
-          "+10%. Nieco zaniżona dynamika wzrostu w stosunku do rzeczywistych danych.",
-          "+15%. Przeszacowany wskaźnik wzrostu.",
-          "+20%. Zbyt wysoki wskaźnik, nieodpowiadający rzeczywistej dynamice wzrostu."
+          "+10%",
+          "+15%",
+          "+20%"
         ]
       },
       {
         "question": "Od którego roku wydatki na reklamę internetową w Polsce przewyższają wydatki na reklamę w TV?",
-        "correct_answer": "Od 2019 roku. Wydatki na reklamę digital są wyższe niż na reklamę telewizyjną od 2019 roku .",
+        "correct_answer": "Od 2019 roku.",
         "incorrect_answers": [
-          "Od 2015 roku. Błędna data, przedwczesne stwierdzenie przewagi wydatków internetowych.",
-          "Od 2020 roku. Późniejsza data, niezgodna z rzeczywistością.",
-          "Od 2018 roku. Nieco wcześniejsza data, choć bliska rzeczywistemu przełomowi."
+          "Od 2015 roku.",
+          "Od 2020 roku.",
+          "Od 2018 roku."
         ]
       },
       {
         "question": "Jakie są główne modele zakupu powierzchni reklamowej online?",
-        "correct_answer": "CPM, CPC, CPA, CPL, CPD, CPS, CPV. Każdy z tych modeli opiera się na różnych zasadach wyceny emisji reklam .",
+        "correct_answer": "CPM, CPC, CPA, CPL, CPD, CPS, CPV.",
         "incorrect_answers": [
-          "CPA, CPM, CPT, CTR. Nie wszystkie wymienione modele są stosowane do zakupu powierzchni reklamowej.",
-          "CPP, CPS, CPE, CPL. Niektóre z modeli są niewłaściwie przypisane do zakupu reklam.",
-          "CPR, CPG, CPW, CPM. Błędne skróty i nieistniejące modele zakupu reklam."
+          "CPA, CPM, CPT, CTR.",
+          "CIA, USB, KGB.",
+          "CPR, CPG, CPW, CPM, CPS, RSA."
         ]
       },
       {
         "question": "Co to jest CPM i jak się go oblicza?",
         "correct_answer": "Cost Per Mille, czyli koszt za 1000 wyświetleń reklamy, obliczany jako całkowity koszt kampanii podzielony przez liczbę tysięcy wyświetleń .",
         "incorrect_answers": [
-          "CPM to Cost Per Millestone sposób mierzenia liczby konwersji na stronie, obliczany jako stosunek konwersji do wyświetleń.",
+          "CPM to Cost Per Millestone sposób mierzenia liczby konwersji na stronie, obliczany jako stosunek konwersji do wyświetleń dla kluczowycg progów.",
           "CPM oblicza się dzieląc liczbę wyświetleń przez koszt kampanii, dając wynik w złotych.",
           "To wskaźnik liczby użytkowników, którzy kliknęli na reklamę, dzielony przez całościowy koszt."
         ]
@@ -352,7 +352,7 @@
       },
       {
         "question": "Co to jest geotargetowanie?",
-        "correct_answer": "Geotargetowanie to kierowanie reklamy do użytkowników na podstawie ich lokalizacji geograficznej .",
+        "correct_answer": "Geotargetowanie to kierowanie reklamy do użytkowników na podstawie ich lokalizacji geograficznej.",
         "incorrect_answers": [
           "Geotargetowanie to segmentacja reklam na podstawie wieku i płci odbiorców.",
           "Geotargetowanie to kierowanie reklam na podstawie historii przeglądania użytkowników.",
@@ -361,7 +361,7 @@
       },
       {
         "question": "Co to jest meteotargetowanie?",
-        "correct_answer": "Meteotargetowanie to kierowanie reklamy na podstawie aktualnych warunków pogodowych w miejscu przebywania użytkownika .",
+        "correct_answer": "Meteotargetowanie to kierowanie reklamy na podstawie aktualnych warunków pogodowych w miejscu przebywania użytkownika.",
         "incorrect_answers": [
           "Meteotargetowanie to ukierunkowywanie reklam według trendów rynkowych i prognoz ekonomicznych.",
           "Meteotargetowanie to technika promocji produktów pogodowych, takich jak parasole i odzież zewnętrzna.",
@@ -370,7 +370,7 @@
       },
       {
         "question": "Jakie są kluczowe elementy briefu w kampanii digitalowej?",
-        "correct_answer": "Informacje o marce, grupa docelowa, insight konsumencki, cele kampanii, wskaźniki efektywności, budżet, oczekiwania wobec agencji .",
+        "correct_answer": "Informacje o marce, grupa docelowa, insight konsumencki, cele kampanii, wskaźniki efektywności, budżet, oczekiwania wobec agencji.",
         "incorrect_answers": [
           "Kluczowe elementy briefu to terminy płatności, klauzule prawne i schematy raportowania.",
           "Do kluczowych elementów briefu należą głównie dane techniczne strony i platformy publikacji.",
@@ -379,16 +379,16 @@
       },
       {
         "question": "Co to jest ROAS i jak się go oblicza?",
-        "correct_answer": "ROAS to Return On Advertising Spend, obliczany jako stosunek przychodów z kampanii do kosztów kampanii, wyrażony w procentach .",
+        "correct_answer": "ROAS to Return On Advertising Spend, obliczany jako stosunek przychodów z kampanii do kosztów kampanii, wyrażony w procentach.",
         "incorrect_answers": [
-          "ROAS to wskaźnik oceny zasięgu reklamy, który nie uwzględnia przychodów.",
-          "ROAS to metoda oceny jakości treści reklamowych, niezwiązana z kosztami.",
-          "ROAS to procentowy udział kosztów reklam w całkowitych wydatkach firmy."
+          "ROAS Reach Over Advertising Spend to wskaźnik oceny zasięgu reklamy, który nie uwzględnia przychodów.",
+          "ROAS to Rating Of Ad Substance, metoda oceny jakości treści reklamowych, niezwiązana z kosztami.",
+          "ROAS (Ratio Of Advertising Spend) to procentowy udział kosztów reklam w całkowitych wydatkach firmy. "
         ]
       },
       {
         "question": "Co oznacza wskaźnik Affinity Index?",
-        "correct_answer": "Affinity Index mierzy stopień dopasowania użytkowników witryny do grupy docelowej, wskazując na efektywność emisji reklamy na danej stronie .",
+        "correct_answer": "Affinity Index mierzy stopień dopasowania użytkowników witryny do grupy docelowej, wskazując na efektywność emisji reklamy na danej stronie.",
         "incorrect_answers": [
           "Affinity Index to wskaźnik satysfakcji klienta z kampanii reklamowej.",
           "Affinity Index oblicza stosunek kliknięć do wyświetleń reklam w kontekście konkurencji.",
@@ -397,7 +397,7 @@
       },
       {
         "question": "Jakie są główne cechy reklamy display?",
-        "correct_answer": "Reklama display to reklamy graficzne, wyświetlane w serwisach internetowych, które mogą zawierać różne elementy multimedialne .",
+        "correct_answer": "Reklama display to reklamy graficzne, wyświetlane w serwisach internetowych, które mogą zawierać różne elementy multimedialne.",
         "incorrect_answers": [
           "Reklama display to przede wszystkim tekstowe ogłoszenia w wyszukiwarkach.",
           "Reklama display opiera się wyłącznie na interaktywnych komponentach, takich jak gry.",
@@ -472,8 +472,8 @@
         "correct_answer": "Search Experience Optimization, czyli optymalizacja doświadczeń użytkownika podczas korzystania z wyszukiwarki.",
         "incorrect_answers": [
             "SXO nie istnieje jako termin, jest błędem terminologicznym.",
-            "Optymalizacja doświadczeń offline, nie dotyczy działań online.",
-            "Dotyczy tylko struktur danych, nie obejmuje doświadczenia użytkownika."
+            "Sensory Xperience Optimization, optymalizacja doświadczeń offline, nie dotyczy działań online.",
+            "Structured Xperience Organization, dotyczy tylko struktur danych, nie obejmuje doświadczenia użytkownika."
         ]
     },
     {
@@ -531,101 +531,101 @@
         ]
     },{
         "question": "Liczba odsłon wyniosła 1 000 000, a łączny koszt ich emisji to 5000 zł. Jaki był CPM kampanii?",
-        "correct_answer": "5 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "5 zł",
         "incorrect_answers": [
-            "10 zł. CPM został obliczony błędnie przez podzielenie całkowitego kosztu przez liczbę wyświetleń.",
-            "3 zł. CPM nie uwzględnia wszystkich wyświetleń w obliczeniach.",
-            "7 zł. CPM zawyżono, nie uwzględniając faktycznego kosztu kampanii."
+            "10 zł",
+            "3 zł",
+            "7 zł"
         ]
     },
     {
         "question": "Jeśli 100 osób kliknęło w reklamę, która została wyświetlona 10 000 razy, jaki był CTR kampanii?",
-        "correct_answer": "1%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń, wyrażony w procentach.",
+        "correct_answer": "1%",
         "incorrect_answers": [
-            "0.5%. CTR został obliczony błędnie, nie uwzględniając wszystkich kliknięć.",
-            "2%. CTR został przeceniony, uwzględniając nieprecyzyjne dane.",
-            "0.1%. CTR jest znacznie niższy, co wskazuje na niską skuteczność kampanii."
+            "0.5%",
+            "2%",
+            "0.1%"
         ]
     },
     {
         "question": "Kampania kosztowała 20 000 zł i wygenerowała przychód 100 000 zł. Jaki był ROI?",
-        "correct_answer": "400%. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "correct_answer": "400%",
         "incorrect_answers": [
-            "200%. ROI został obliczony błędnie, nie uwzględniając wszystkich kosztów.",
-            "500%. ROI jest wyższy, uwzględniając dodatkowe czynniki zewnętrzne.",
-            "300%. ROI jest niższy z powodu ukrytych kosztów."
+            "200%",
+            "500%",
+            "300%"
         ]
     },
     {
         "question": "Ile wynosił CR, jeśli 10 z 1000 użytkowników dokonało zakupu po kliknięciu w reklamę?",
-        "correct_answer": "1%. CR to wskaźnik konwersji, który mierzy, jak skutecznie reklama przekłada się na zakupy, obliczany jako stosunek liczby konwersji do liczby kliknięć.",
+        "correct_answer": "1%",
         "incorrect_answers": [
-            "0.1%. CR jest niższy, co może wynikać z niskiej atrakcyjności produktu.",
-            "10%. CR jest zawyżony, sugerując nieprecyzyjne śledzenie konwersji.",
-            "5%. CR został błędnie obliczony, nie uwzględniając rzeczywistej liczby kliknięć."
+            "0.1%",
+            "10%",
+            "5%"
         ]
     },
     {
         "question": "Jak obliczyć koszt pojedynczego kliknięcia (CPC), jeśli kampania kosztowała 2000 zł, a uzyskano 500 kliknięć?",
-        "correct_answer": "4 zł. CPC to koszt za jedno kliknięcie, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę kliknięć.",
+        "correct_answer": "4 zł",
         "incorrect_answers": [
-            "2 zł. CPC jest niższy, sugerując efektywniejszą kampanię.",
-            "10 zł. CPC jest wyższy z powodu błędów w obliczeniach.",
-            "8 zł. CPC nie zostało właściwie obliczone, brakuje danych."
+            "2 zł",
+            "10 zł",
+            "8 zł"
         ]
     },
     {
         "question": "W kampanii pozyskano 200 leadów, przy czym koszt kampanii wyniósł 10 000 zł. Jaki był CPL?",
-        "correct_answer": "50 zł. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "correct_answer": "50 zł",
         "incorrect_answers": [
-            "25 zł. CPL wynika z błędnej interpretacji danych.",
-            "75 zł. CPL jest wyższy, uwzględniając dodatkowe koszty.",
-            "100 zł. CPL został przeceniony przez błędy w alokacji budżetu."
+            "25 zł",
+            "75 zł",
+            "100 zł"
         ]
     },
     {
         "question": "Jeśli CPM kampanii wynosił 20 zł, a liczba wyświetleń wyniosła 250 000, jaki był łączny koszt kampanii?",
-        "correct_answer": "5000 zł. Łączny koszt kampanii oblicza się, mnożąc CPM przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "5000 zł",
         "incorrect_answers": [
-            "10 000 zł. Koszt został przeliczony z błędnym założeniem o wyższym CPM.",
-            "2500 zł. Koszt jest niższy z powodu błędów w raportowaniu danych.",
-            "7500 zł. Koszt jest wyższy z powodu dodatkowych opłat zewnętrznych."
+            "10 000 zł",
+            "2500 zł",
+            "7500 zł"
         ]
     },
     {
         "question": "Kampania uzyskała 300 000 wyświetleń i 6000 kliknięć. Jaki był CTR?",
-        "correct_answer": "2%. CTR mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "correct_answer": "2%",
         "incorrect_answers": [
-            "1%. CTR jest niższy, co może wynikać z niskiej atrakcyjności reklam.",
-            "3%. CTR jest wyższy, sugerując skuteczniejsze metody targetowania.",
-            "0.5%. CTR jest znacznie niższy, co wskazuje na problemy z odbiorem kampanii."
+            "1%",
+            "3%",
+            "0.5%"
         ]
     },
     {
         "question": "Koszt kampanii wyniósł 15 000 zł, a generowany przychód to 60 000 zł. Jaki był ROAS?",
-        "correct_answer": "400%. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "correct_answer": "400%",
         "incorrect_answers": [
-            "200%. ROAS jest niższy, co może wynikać z błędnej interpretacji przychodów.",
-            "600%. ROAS jest zawyżony, uwzględniając nieprecyzyjne obliczenia.",
-            "100%. ROAS sugeruje, że kampania tylko zwróciła koszty, co jest błędne."
+            "200%",
+            "600%",
+            "100%"
         ]
     },
     {
         "question": "Jeśli koszt kampanii wynosił 8000 zł, a liczba zdobytych leadów to 200, jaki był CPL?",
-        "correct_answer": "40 zł. CPL mierzy koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "correct_answer": "40 zł",
         "incorrect_answers": [
-            "20 zł. CPL wynika z błędnej interpretacji danych.",
-            "60 zł. CPL jest wyższy, co może oznaczać dodatkowe niezidentyfikowane koszty.",
-            "80 zł. CPL został przeceniony, sugerując błędy w alokacji budżetu."
+            "20 zł",
+            "60 zł",
+            "80 zł"
         ]
     },
     {
         "question": "W kampanii uzyskano 500 kliknięć, a koszt kampanii wyniósł 2500 zł. Jaki był CPC?",
-        "correct_answer": "5 zł. CPC to koszt za jedno kliknięcie, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę kliknięć.",
+        "correct_answer": "5 zł",
         "incorrect_answers": [
-            "3,5 zł. Koszt za kliknięcie został obliczony błędnie.",
-            "9 zł. Koszt za kliknięcie nie uwzględnia dodatkowych opłat.",
-            "0.5 zł. Błąd w obliczeniach spowodował znaczne zaniżenie CPC."
+            "3,5 zł",
+            "9 zł",
+            "0.5 zł"
         ]
     },
     {
@@ -641,9 +641,9 @@
         "question": "Co to jest CTR w e-mail marketingu?",
         "correct_answer": "Click Through Rate. Jest to wskaźnik kliknięć w linki w mailingu w stosunku do liczby wysłanych e-maili.",
         "incorrect_answers": [
-            "Click Through Rate. Jest to procent e-maili otwartych, nie kliknięć.",
-            "Click Through Rate. Oznacza procent usuniętych e-maili.",
-            "Click Through Rate. Reprezentuje liczbę spamowych zgłoszeń na wysłane e-maile."
+            "Click-To-Read. Jest to procent e-maili otwartych, nie kliknięć.",
+            "Cleaned Trash Ratio. Oznacza procent usuniętych e-maili.",
+            "Complaint To Report. Reprezentuje liczbę spamowych zgłoszeń na wysłane e-maile."
         ]
     },
     {
@@ -675,11 +675,11 @@
     },
     {
         "question": "Co oznacza ROI?",
-        "correct_answer": "Return on Investment. Wskaźnik zwrotu z inwestycji, obliczany jako stosunek zysku do kosztów kampanii.",
+        "correct_answer": "Return on Investment. Wskaźnik zwrotu z inwestycji.",
         "incorrect_answers": [
-            "Return on Investment. Pokazuje stratę inwestycyjną.",
-            "Return on Investment. Mierzy tylko koszty, nie zyski.",
-            "Return on Investment. Odsetek nieudanych inwestycji."
+            "Return On Investment-loss. Pokazuje stratę inwestycyjną.",
+            "Rate Of Investment-costs. Mierzy tylko koszty, nie zyski.",
+            "Ratio Of Inadequacies. Odsetek nieudanych inwestycji."
         ]
     },
     {
@@ -695,9 +695,9 @@
         "question": "Co to jest UR w e-mail marketingu?",
         "correct_answer": "Unsubscription Rate. Wskaźnik rezygnacji, określa procent osób, które wypisały się po wysyłce wiadomości.",
         "incorrect_answers": [
-            "Unsubscription Rate. Procent nowych subskrybentów.",
-            "Unsubscription Rate. Mierzy wzrost zainteresowania treścią.",
-            "Unsubscription Rate. Procent osób, które zgłosiły e-mail jako spam."
+            "User Recruitment. Procent nowych subskrybentów.",
+            "Uptake Rate. Mierzy wzrost zainteresowania treścią.",
+            "Unsubscribe Rate. Procent osób, które zgłosiły e-mail jako spam."
         ]
     },
     {
