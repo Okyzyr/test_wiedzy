@@ -37,7 +37,7 @@
     },
     {
         "question": "Jakie są trzy główne kategorie kanałów komunikacji w Internecie?",
-        "correct_answer": "Earned media, owned media, paid media.",
+        "correct_answer": "Earned media, owned media, paid media. POEM",
         "incorrect_answers": [
             "Social media, e-mail marketing, i marketing wirusowy.",
             "Public relations, branding, i direct mailing.",
@@ -1896,6 +1896,196 @@
           "Dane pozyskiwane wyłącznie z zewnętrznych baz danych, bez wiedzy użytkowników.",
           "Informacje zbierane bezpośrednio z interakcji z reklamami, bez dodatkowych danych kontekstowych."
         ]
-      }
-      
+      },
+
+    {
+        "question": "Co to jest SEO?",
+        "correct_answer": "Search Engine Optimization",
+        "incorrect_answers": [
+        "Social Media Optimization",
+        "Sales Email Optimization",
+        "Search Engine Operation"
+        ]
+    },
+    {
+        "question": "Jakie są podstawowe metryki w analizie ruchu internetowego?",
+        "correct_answer": "Wszystkie wymienione",
+        "incorrect_answers": [
+        "CPC, CPM, CPA",
+        "ROI, ROAS",
+        "UV, PV"
+        ]
+    },
+    {
+        "question": "Co oznacza termin 'konwersja' w marketingu internetowym?",
+        "correct_answer": "Osiągnięcie określonego celu przez użytkownika",
+        "incorrect_answers": [
+        "Zmiana ustawień kampanii",
+        "Zmiana dostawcy usług internetowych",
+        "Zainstalowanie oprogramowania do śledzenia użytkowników"
+        ]
+    },
+    {
+        "question": "Jaki jest główny cel stosowania remarketingu?",
+        "correct_answer": "Ponowne dotarcie do użytkowników, którzy odwiedzili stronę",
+        "incorrect_answers": [
+        "Zwiększenie ruchu na stronie",
+        "Poprawa widoczności marki",
+        "Zwiększenie sprzedaży poprzez bezpośrednie reklamy"
+        ]
+    },
+    {
+        "question": "Co to jest content marketing?",
+        "correct_answer": "Tworzenie i dystrybucja wartościowych treści dla odbiorców",
+        "incorrect_answers": [
+        "Promocja treści przez influencerów",
+        "Sprzedaż treści reklamowych",
+        "Wszystkie wymienione"
+        ]
+    },
+    {
+        "question": "Jakie narzędzie jest najlepsze do mierzenia efektywności SEO?",
+        "correct_answer": "Google Analytics",
+        "incorrect_answers": [
+        "Google AdWords",
+        "Facebook Insights",
+        "SEMrush"
+        ]
+    },
+    {
+        "question": "Co to jest lead generation?",
+        "correct_answer": "Proces zdobywania nowych klientów",
+        "incorrect_answers": [
+        "Monitorowanie ruchu na stronie",
+        "Analiza konkurencji",
+        "Budowanie świadomości marki"
+        ]
+    },
+    {
+        "question": "Jaką rolę odgrywa 'Call to Action' w kampanii reklamowej?",
+        "correct_answer": "Zachęca użytkowników do podjęcia określonej akcji",
+        "incorrect_answers": [
+        "Informuje użytkowników o marce",
+        "Pomaga w analizie danych",
+        "Żadną z wymienionych"
+        ]
+    },
+    {
+        "question": "Co to jest bounce rate?",
+        "correct_answer": "Procent użytkowników, którzy opuścili stronę po obejrzeniu tylko jednej strony",
+        "incorrect_answers": [
+        "Procent użytkowników, którzy opuścili stronę przed załadowaniem",
+        "Procent użytkowników, którzy zrealizowali zakup",
+        "Procent użytkowników, którzy wrócili na stronę"
+        ]
+    },
+    {
+        "question": "Jakie są korzyści z używania mediów społecznościowych w biznesie?",
+        "correct_answer": "Budowanie relacji z klientami, promocja marki, generowanie ruchu",
+        "incorrect_answers": [
+        "Tylko zwiększenie sprzedaży",
+        "Tylko promocja produktów",
+        "Żadne z wymienionych"
+        ]
+    },
+    {
+        "question": "Co to jest 'responsive web design'?",
+        "correct_answer": "Design, który dynamicznie się dostosowuje do rozmiaru ekranu urządzenia",
+        "incorrect_answers": [
+        "Design oparty na najnowszych trendach",
+        "Design, który jest responsywny tylko na komputerach stacjonarnych",
+        "Design, który używa statycznych obrazów"
+        ]
+    },
+    {
+        "question": "Jakie działania wchodzą w skład procesu optymalizacji konwersji (CRO)?",
+        "correct_answer": "Testowanie A/B, analiza ścieżek użytkowników, dostosowywanie treści",
+        "incorrect_answers": [
+        "Wybór kolorów strony, logo",
+        "Rozmieszczenie reklam na stronie",
+        "Wszystkie wymienione"
+        ]
+    },
+    {
+        "question": "Co to jest 'pay-per-click' (PPC) advertising?",
+        "correct_answer": "Model reklamowy, w którym płaci się za każde kliknięcie w reklamę",
+        "incorrect_answers": [
+        "Model, w którym płaci się za każde wyświetlenie reklamy",
+        "Model, w którym płaci się stałą miesięczną opłatę za reklamę",
+        "Model, w którym płaci się za konwersje wynikające z reklamy"
+        ]
+    },
+    {
+        "question": "Jakie są główne zalety e-mail marketingu?",
+        "correct_answer": "Wszystkie wymienione",
+        "incorrect_answers": [
+        "Niski koszt, wysoka personalizacja, mierzalność",
+        "Szybkość realizacji, niski koszt, globalny zasięg",
+        "Wysoka personalizacja, niski koszt, łatwość realizacji"
+        ]
+    },
+    {
+        "question": "Co oznacza termin 'mobile marketing'?",
+        "correct_answer": "Marketing realizowany na urządzeniach mobilnych, takich jak smartfony i tablety",
+        "incorrect_answers": [
+        "Marketing realizowany za pomocą aplikacji mobilnych",
+        "Marketing realizowany tylko przez SMS",
+        "Marketing realizowany tylko w lokalizacjach mobilnych"
+        ]
+    },
+    {
+        "question": "Co to jest Google AdSense?",
+        "correct_answer": "Program, który pozwala wydawcom internetowym zarabiać na umieszczaniu reklam",
+        "incorrect_answers": [
+        "Narzędzie do zarządzania kampaniami reklamowymi",
+        "Narzędzie do analizy słów kluczowych",
+        "Platforma do zarządzania treścią"
+        ]
+    },
+    {
+        "question": "Jakie techniki należą do 'Black Hat SEO'?",
+        "correct_answer": "Kupowanie linków, ukryte teksty, 'keyword stuffing'",
+        "incorrect_answers": [
+        "Optymalizacja meta tagów, budowanie linków, tworzenie wartościowych treści",
+        "Regularne aktualizacje treści, optymalizacja zdjęć",
+        "Wszystkie wymienione"
+        ]
+    },
+    {
+        "question": "Co to jest 'influencer marketing'?",
+        "correct_answer": "Marketing za pomocą liderów opinii w mediach społecznościowych",
+        "incorrect_answers": [
+        "Marketing za pomocą celebrytów w telewizji",
+        "Marketing za pomocą artykułów sponsorowanych w gazetach",
+        "Marketing za pomocą reklam telewizyjnych"
+        ]
+    },
+    {
+        "question": "Jakie są korzyści z używania analityki internetowej?",
+        "correct_answer": "Wszystkie wymienione",
+        "incorrect_answers": [
+        "Pozwala na śledzenie ruchu na stronie",
+        "Pomaga w optymalizacji stron internetowych",
+        "Umożliwia lepsze zrozumienie zachowań użytkowników"
+        ]
+    },
+    {
+        "question": "Co to jest 'viral marketing'?",
+        "correct_answer": "Marketing, który naturalnie rozprzestrzenia się wśród użytkowników",
+        "incorrect_answers": [
+        "Marketing za pomocą wirusów komputerowych",
+        "Marketing, który wykorzystuje tylko video",
+        "Marketing, który jest bardzo kontrowersyjny"
+        ]
+    },
+    {
+        "question": "Co to jest 'affiliate marketing'?",
+        "correct_answer": "Program partnerski, gdzie partnerzy zarabiają prowizję za promowanie produktów",
+        "incorrect_answers": [
+        "Model marketingowy, w którym płaci się za konwersje",
+        "Bezpośrednia sprzedaż produktów przez internet",
+        "Forma marketingu bezpośredniego"
+        ]
+    }
+          
 ]
