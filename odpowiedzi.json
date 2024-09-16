@@ -1,0 +1,1901 @@
+[
+    {
+        "question": "Jakie są główne segmenty rynku reklamy internetowej w Polsce?",
+        "correct_answer": "Główne segmenty to reklama display, reklama wideo, SEM, reklama mobilna, oraz reklama natywna.",
+        "incorrect_answers": [
+            "Główne segmenty to reklama bilbordowa, reklama zewnętrzna, oraz marketing bezpośredni.",
+            "Reklama kinowa, reklama dźwiękowa w radiu, i reklama na wydarzeniach sportowych.",
+            "Marketing przez e-mail, telemarketing, i kampanie na stronach crowdfundingowych."
+        ]
+    },
+    {
+        "question": "Jakie są trendy wzrostu rynku reklamy internetowej?",
+        "correct_answer": "Trendy obejmują wzrost wydatków na reklamę online, przewyższający wydatki na reklamę telewizyjną od 2019 roku.",
+        "incorrect_answers": [
+            "Spadek zainteresowania reklamami w mediach społecznościowych na rzecz reklam drukowanych.",
+            "Przejście od reklam cyfrowych do tradycyjnych form reklamy, takich jak plakaty i bilbordy.",
+            "Zmniejszenie budżetów na reklamy cyfrowe z powodu rosnącej popularności podcastów."
+        ]
+    },
+    {
+        "question": "Ile osób w Polsce korzysta z internetu?",
+        "correct_answer": "W Polsce z internetu korzysta 29,6 mln osób.",
+        "incorrect_answers": [
+            "W Polsce z internetu korzysta 15,9 mln osób, głównie młodzież i osoby do 35 roku życia.",
+            "W Polsce internet jest używany tylko przez około 17,2 mln osób, co stanowi jedną czwartą populacji.",
+            "Liczba użytkowników internetu w Polsce to około 38 mln, co oznacza niemal całkowitą penetrację rynku."
+        ]
+    },
+    {
+        "question": "Jakie są trendy dotyczące użytkowania internetu w Polsce?",
+        "correct_answer": "Rosnąca liczba użytkowników mobilnych i wzrost multiscreeningu, czyli korzystania z wielu urządzeń jednocześnie.",
+        "incorrect_answers": [
+            "Spadek używania urządzeń mobilnych na rzecz desktopów z powodu lepszej ergonomii i większych ekranów.",
+            "Zmniejszająca się liczba użytkowników internetowych w wieku 18-24 lata, którzy preferują inne formy rozrywki.",
+            "Stagnacja w rozwoju technologii mobilnych, co prowadzi do spadku liczby godzin spędzanych online."
+        ]
+    },
+    {
+        "question": "Jakie są trzy główne kategorie kanałów komunikacji w Internecie?",
+        "correct_answer": "Earned media, owned media, paid media.",
+        "incorrect_answers": [
+            "Social media, e-mail marketing, i marketing wirusowy.",
+            "Public relations, branding, i direct mailing.",
+            "Reklama kontekstowa, programmatic buying, i afiliacja."
+        ]
+    },
+    {
+        "question": "Czym różnią się kanały earned, owned i paid media?",
+        "correct_answer": "Earned media to zasięg uzyskany bez płatnej promocji (np. PR, social media), owned media to własne kanały marki (np. strona internetowa), a paid media to płatne reklamy (np. Google Ads).",
+        "incorrect_answers": [
+            "Earned media to treści sponsorowane, owned media to treści generowane przez użytkowników, a paid media to tradycyjna reklama.",
+            "Wszystkie te kanały oznaczają to samo i są używane wymiennie w branży cyfrowej.",
+            "Nie ma żadnych różnic; wszystkie te terminy są jedynie marketingowym żargonem bez rzeczywistego znaczenia."
+        ]
+    },
+    {
+        "question": "Co to jest marketing afiliacyjny?",
+        "correct_answer": "To technika polegająca na delegowaniu działań marketingowych na partnerów, rozliczana na podstawie modeli takich jak CPA, CPL, czy CPS.",
+        "incorrect_answers": [
+            "Marketing bezpośredni opierający się na osobistym kontakcie z klientem.",
+            "Strategia reklamowa oparta wyłącznie na używaniu mediów społecznościowych.",
+            "System wymiany usług reklamowych między firmami bez finansowego rozliczenia."
+        ]
+    },
+    {
+        "question": "Co to jest ROI i jak się go oblicza?",
+        "correct_answer": "Wskaźnik zwrtou z inwestycji, obliczany jako stosunek zysku netto do kosztu inwestycji, wyrażony w procentach.",
+        "incorrect_answers": [
+            "Wskaźnik mierzący jedynie koszty operacyjne firmy.",
+            "Obliczany jako stosunek zysku brutto do przychodów.",
+            "Wskaźnik efektywności działań marketingowych nie uwzględniający kosztów."
+        ]
+    },
+    {
+        "question": "Co oznacza pojęcie “capping” w kontekście reklam online?",
+        "correct_answer": "Capping to ograniczenie liczby wyświetleń reklamy na jednego unikalnego użytkownika.",
+        "incorrect_answers": [
+            "Strategia bez ograniczeń wyświetleń, promująca jak największe zasięgi.",
+            "Ograniczenie liczby kliknięć na reklamę przez jednego użytkownika.",
+            "System rotacji reklam na stronie bez żadnych ograniczeń wyświetleń."
+        ]
+    },
+    {
+        "question": "Jakie są typy targetowania w kampaniach reklamowych?",
+        "correct_answer": "Demograficzne, psychograficzne, behawioralne, geotargetowanie, meteotargetowanie.",
+        "incorrect_answers": [
+            "Targetowanie wyłącznie na podstawie wieku i płci.",
+            "Używanie jedynie lokalizacji geograficznej do celowania reklam.",
+            "Stosowanie wyłącznie meteotargetowania w kampaniach online."
+        ]
+    },
+    {
+        "question": "Co to jest content marketing?",
+        "correct_answer": "Strategia polegająca na tworzeniu i dystrybucji wartościowych treści w celu przyciągnięcia i zaangażowania grupy docelowej.",
+        "incorrect_answers": [
+            "Technika marketingowa polegająca na kupowaniu gotowych treści zewnętrznych.",
+            "Stosowanie wyłącznie tradycyjnych mediów, takich jak TV i radio, do promocji treści.",
+            "Tworzenie treści bez uwzględnienia potrzeb i preferencji grupy docelowej."
+        ]
+    },
+    {
+        "question": "Jakie są różnice między SEO a SEM?",
+        "correct_answer": "SEO to optymalizacja stron pod kątem wyszukiwarek, a SEM obejmuje SEO oraz płatne reklamy w wyszukiwarkach.",
+        "incorrect_answers": [
+            "SEO odnosi się do płatnych reklam, a SEM do optymalizacji organicznych.",
+            "SEM jest ograniczone do wyszukiwarek internetowych, SEO obejmuje wszystkie kanały cyfrowe.",
+            "SEM zajmuje się wyłącznie optymalizacją grafik, a SEO tekstów."
+        ]
+    },
+    {
+        "question": "Co to jest CRM i jakie funkcje pełni w marketingu?",
+        "correct_answer": "System informatyczny automatyzujący i wspierający procesy związane z obsługą klientów, wspomagający dział sprzedaży, marketingu, programy lojalnościowe oraz wsparcie techniczne. Customer Relationship Management.",
+        "incorrect_answers": [
+            "Narzędzie do zarządzania projektami i zadaniami w małych firmach.",
+            "System do prowadzenia księgowości i zarządzania finansami.",
+            "Technologia używana wyłącznie do analizy danych klientów bez interakcji."
+        ]
+    },
+    {
+        "question": "Co to jest JavaScript i jakie są jego zastosowania w marketingu internetowym?",
+        "correct_answer": "Język programowania najczęściej wykorzystywany przez strony internetowe do zapewnienia interakcji, walidacji danych, tworzenia efektów wizualnych, takich jak animacje 2D/3D oraz wyświetlanie video.",
+        "incorrect_answers": [
+            "Język programowania używany głównie do tworzenia dokumentów tekstowych w środowiskach biurowych.",
+            "Narzędzie do tworzenia aplikacji mobilnych bez funkcji internetowych.",
+            "Technologia używana wyłącznie w bazach danych do zarządzania informacjami."
+        ]
+    },
+    {
+        "question": "Czym jest Responsive Web Design (RWD) i jakie są jego zalety?",
+        "correct_answer": "To projektowanie stron internetowych tak, aby automatycznie dostosowywały swój wygląd i układ do rozmiaru okna przeglądarki lub urządzenia. Jego zalety to oszczędność pieniędzy i czasu oraz lepsza optymalizacja SEO.",
+        "incorrect_answers": [
+            "Technika projektowania stron, która najlepiej sprawdza się na dużych monitorach stacjonarnych.",
+            "Styl projektowania, który polega na tworzeniu wielu wersji strony dla różnych urządzeń.",
+            "Metoda tworzenia stron internetowych, która ignoruje potrzeby użytkowników mobilnych."
+        ]
+    },
+    {
+        "question": "Jakie są główne formaty plików używane w grafice internetowej?",
+        "correct_answer": "Główne formaty to JPEG, GIF, PNG, PSD, AI, EPS, PDF, z których każdy ma swoje specyficzne zastosowania, np. JPEG do zdjęć, GIF do prostych grafik z przezroczystym tłem i animacji, a AI do plików wektorowych.",
+        "incorrect_answers": [
+            "Tylko formaty tekstowe jak DOC i TXT, używane do opisu grafik.",
+            "Formaty muzyczne jak MP3 i WAV, wykorzystywane do tła stron internetowych.",
+            "Formaty video jak AVI i MPG, stosowane głównie w animacjach webowych."
+        ]
+    },
+    {
+        "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM?",
+        "correct_answer": "5 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+          "3 zł. To nieprawidłowe obliczenie kosztu CPM dla danej kampanii.",
+          "7 zł. Obliczenie to nie zgadza się z podanymi danymi finansowymi kampanii.",
+          "1 zł. Błąd w kalkulacji, wartość CPM jest znacznie wyższa."
+        ]
+      },
+      {
+        "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?",
+        "correct_answer": "400%. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "incorrect_answers": [
+          "200%. Wartość ta nie odzwierciedla prawidłowego obliczenia ROI dla tej kampanii.",
+          "600%. To przeszacowanie efektywności inwestycji względem rzeczywistych danych.",
+          "100%. Zbyt niska wartość, nie odpowiada rzeczywistemu zwrotowi z inwestycji."
+        ]
+      },
+      {
+        "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
+        "correct_answer": "2%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "incorrect_answers": [
+          "1%. Wynik niezgodny z obliczeniami, CTR jest wyższy.",
+          "3%. Zbyt wysoki CTR w stosunku do podanych danych.",
+          "0.5%. Zaniżona wartość CTR, nie zgadza się z rzeczywistością kampanii."
+        ]
+      },
+      {
+        "question": "Koszt kampanii wyniósł 5000 zł, a pozyskano 100 leadów. Jaki był CPL?",
+        "correct_answer": "50 zł. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "incorrect_answers": [
+          "20 zł. Zaniżony CPL nie odzwierciedla rzeczywistych kosztów.",
+          "100 zł. Przeszacowany koszt pozyskania leada.",
+          "75 zł. Nieprawidłowe obliczenie, które nie odpowiada rzeczywistym kosztom."
+        ]
+      },
+      {
+        "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000 zł, a liczba odsłon to 500 000?",
+        "correct_answer": "2 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+          "1 zł. Nieadekwatna wartość CPM względem danych.",
+          "4 zł. Błąd w kalkulacji, który nie odpowiada podanym statystykom.",
+          "2.5 zł. Nieprawidłowy CPM, który nie jest zgodny z obliczeniami."
+        ]
+      },
+      {
+        "question": "Kampania uzyskała 100 000 wyświetleń i 500 kliknięć. Jaki był CTR?",
+        "correct_answer": "0,5%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "incorrect_answers": [
+          "0,3%. Nie zgadza się z danymi kampanii.",
+          "1%. Błędna wartość, której nie potwierdzają dane.",
+          "0,7%. CTR większy niż rzeczywiste wyniki kampanii."
+        ]
+      },
+      {
+        "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?",
+        "correct_answer": "500%. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "incorrect_answers": [
+          "300%. Nie odpowiada rzeczywistemu zwrotowi z inwestycji.",
+          "700%. Przeinaczone dane względem rzeczywistego zysku.",
+          "450%. Nieprecyzyjne obliczenie, niezgodne z faktami."
+        ]
+      },
+      {
+        "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM?",
+        "correct_answer": "5 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+          "4 zł. Nieprawidłowa wartość CPM, wynikająca z błędnego obliczenia kosztu na wyświetlenie.",
+          "8 zł. Nadmierna ocena kosztu na wyświetlenie w stosunku do rzeczywistych danych.",
+          "10 zł. To zdecydowanie za duża wartość CPM dla podanych liczb."
+        ]
+      },
+      {
+        "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?",
+        "correct_answer": "400%. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "incorrect_answers": [
+          "300%. Nie odpowiada rzeczywistemu zwrotowi z inwestycji.",
+          "500%. Przeszacowana wartość ROI, niezgodna z danymi.",
+          "250%. Niedoszacowana wartość ROI."
+        ]
+      },
+      {
+        "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
+        "correct_answer": "2%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "incorrect_answers": [
+          "1.5%. Niedokładne obliczenie, nie odzwierciedlające rzeczywistego CTR.",
+          "2.5%. Zbyt wysokie obliczenie, które nie zgadza się z danymi.",
+          "3%. Omyłkowa ocena skuteczności kampanii."
+        ]
+      },
+      {
+        "question": "Koszt kampanii wyniósł 5000 zł, a pozyskano 100 leadów. Jaki był CPL?",
+        "correct_answer": "50 zł. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "incorrect_answers": [
+          "30 zł. Zbyt niska wartość CPL, nie pokrywająca się z rzeczywistymi kosztami.",
+          "70 zł. Przeszacowana wartość, przekraczająca rzeczywiste koszty.",
+          "40 zł. Niedokładna kalkulacja kosztu na leada."
+        ]
+      },
+      {
+        "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000 zł, a liczba odsłon to 500 000?",
+        "correct_answer": "2 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+          "1.5 zł. Błędne obliczenie, które nie odpowiada faktycznym wydatkom.",
+          "3 zł. Wyższa wartość CPM, która nie zgadza się z podanymi danymi.",
+          "2.5 zł. Zbyt wysoka ocena kosztu na 1000 wyświetleń."
+        ]
+      },
+      {
+        "question": "Kampania uzyskała 100 000 wyświetleń i 500 kliknięć. Jaki był CTR?",
+        "correct_answer": "0,5%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "incorrect_answers": [
+          "0,4%. Wynik poniżej rzeczywistego CTR, sugerujący niższą efektywność.",
+          "0,6%. Lekkie przeszacowanie skuteczności kampanii względem rzeczywistości.",
+          "0,8%. Zdecydowanie za wysoki wynik dla podanych danych."
+        ]
+      },
+      {
+        "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?",
+        "correct_answer": "500%. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "incorrect_answers": [
+          "600%. Przekształcony wynik nie odzwierciedlający faktycznej efektywności.",
+          "450%. Niepełne odzwierciedlenie zysków z kampanii względem inwestycji.",
+          "350%. Zaniżona ocena zwrotu z inwestycji."
+        ]
+      },
+      {
+        "question": "Jeśli CPM kampanii wynosił 10 zł, a liczba wyświetleń wyniosła 1 000 000, jaki był łączny koszt kampanii?",
+        "correct_answer": "10 000 zł. Łączny koszt kampanii oblicza się, mnożąc CPM przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+          "5 000 zł. Nieprawidłowe obliczenie kosztu na podstawie błędnej interpretacji danych.",
+          "15 000 zł. Nadmiernie przeszacowany koszt kampanii.",
+          "20 000 zł. Błąd w obliczeniach, wynikający z niewłaściwego zrozumienia CPM."
+        ]
+      },
+      {
+        "question": "Kampania uzyskała 5000 kliknięć przy 1 000 000 wyświetleń. Jaki był CTR?",
+        "correct_answer": "0,5%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "incorrect_answers": [
+          "0,1%. Błędne obliczenie, które zaniża rzeczywisty CTR.",
+          "1%. Przeszacowanie skuteczności kampanii, niewspółmiernie wysoki wynik.",
+          "0,8%. Nieprawidłowy wynik sugerujący większą efektywność niż w rzeczywistości."
+        ]
+      },
+      {
+        "question": "Jaki był koszt 1000 wyświetleń (CPM) kampanii, jeśli uzyskano 1 500 000 wyświetleń przy koszcie 15 000 zł?",
+        "correct_answer": "10 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+          "8 zł. Zaniżona wartość CPM, nieodpowiednia dla danych wyjściowych.",
+          "12 zł. Lekkie przeszacowanie CPM, niezgodne z podanymi danymi.",
+          "15 zł. Silne przeszacowanie kosztu za 1000 wyświetleń."
+        ]
+      },
+      {
+        "question": "Jakie były wydatki na reklamę internetową w Polsce w 2023 roku?",
+        "correct_answer": "7,8 mld PLN. To kwota przeznaczona na reklamę digital w Polsce w tym okresie .",
+        "incorrect_answers": [
+          "6,5 mld PLN. Zaniżona kwota w stosunku do rzeczywistych wydatków.",
+          "8,5 mld PLN. Nieco przeszacowana suma wydatków na reklamę.",
+          "7 mld PLN. Niepełne odzwierciedlenie faktycznego budżetu reklamowego."
+        ]
+      },
+      {
+        "question": "Jaką dynamikę wzrostu odnotował rynek reklamy internetowej w Polsce w latach 2022-2023?",
+        "correct_answer": "+13%. Rynek reklamy internetowej wzrósł o 13% rok do roku .",
+        "incorrect_answers": [
+          "+10%. Nieco zaniżona dynamika wzrostu w stosunku do rzeczywistych danych.",
+          "+15%. Przeszacowany wskaźnik wzrostu.",
+          "+20%. Zbyt wysoki wskaźnik, nieodpowiadający rzeczywistej dynamice wzrostu."
+        ]
+      },
+      {
+        "question": "Od którego roku wydatki na reklamę internetową w Polsce przewyższają wydatki na reklamę w TV?",
+        "correct_answer": "Od 2019 roku. Wydatki na reklamę digital są wyższe niż na reklamę telewizyjną od 2019 roku .",
+        "incorrect_answers": [
+          "Od 2015 roku. Błędna data, przedwczesne stwierdzenie przewagi wydatków internetowych.",
+          "Od 2020 roku. Późniejsza data, niezgodna z rzeczywistością.",
+          "Od 2018 roku. Nieco wcześniejsza data, choć bliska rzeczywistemu przełomowi."
+        ]
+      },
+      {
+        "question": "Jakie są główne modele zakupu powierzchni reklamowej online?",
+        "correct_answer": "CPM, CPC, CPA, CPL, CPD, CPS, CPV. Każdy z tych modeli opiera się na różnych zasadach wyceny emisji reklam .",
+        "incorrect_answers": [
+          "CPA, CPM, CPT, CTR. Nie wszystkie wymienione modele są stosowane do zakupu powierzchni reklamowej.",
+          "CPP, CPS, CPE, CPL. Niektóre z modeli są niewłaściwie przypisane do zakupu reklam.",
+          "CPR, CPG, CPW, CPM. Błędne skróty i nieistniejące modele zakupu reklam."
+        ]
+      },
+      {
+        "question": "Co to jest CPM i jak się go oblicza?",
+        "correct_answer": "Cost Per Mille, czyli koszt za 1000 wyświetleń reklamy, obliczany jako całkowity koszt kampanii podzielony przez liczbę tysięcy wyświetleń .",
+        "incorrect_answers": [
+          "CPM to Cost Per Millestone sposób mierzenia liczby konwersji na stronie, obliczany jako stosunek konwersji do wyświetleń.",
+          "CPM oblicza się dzieląc liczbę wyświetleń przez koszt kampanii, dając wynik w złotych.",
+          "To wskaźnik liczby użytkowników, którzy kliknęli na reklamę, dzielony przez całościowy koszt."
+        ]
+      },
+      {
+        "question": "Jak działa adserwer w kontekście kampanii reklamowych online?",
+        "correct_answer": "Adserwer to system informatyczny umożliwiający emisję, zarządzanie i analizę wyników kampanii reklamowych .",
+        "incorrect_answers": [
+          "Adserwer to urządzenie fizyczne do przechowywania danych reklamowych, używane głównie w telewizji.",
+          "Adserwer to oprogramowanie do generowania treści reklamowych, które tworzy grafiki i teksty.",
+          "Adserwer to sieć sprzedaży reklam, która łączy reklamodawców z witrynami."
+        ]
+      },
+      {
+        "question": "Co to jest geotargetowanie?",
+        "correct_answer": "Geotargetowanie to kierowanie reklamy do użytkowników na podstawie ich lokalizacji geograficznej .",
+        "incorrect_answers": [
+          "Geotargetowanie to segmentacja reklam na podstawie wieku i płci odbiorców.",
+          "Geotargetowanie to kierowanie reklam na podstawie historii przeglądania użytkowników.",
+          "Geotargetowanie to technika pozycjonowania reklam na stronach wyszukiwania według słów kluczowych."
+        ]
+      },
+      {
+        "question": "Co to jest meteotargetowanie?",
+        "correct_answer": "Meteotargetowanie to kierowanie reklamy na podstawie aktualnych warunków pogodowych w miejscu przebywania użytkownika .",
+        "incorrect_answers": [
+          "Meteotargetowanie to ukierunkowywanie reklam według trendów rynkowych i prognoz ekonomicznych.",
+          "Meteotargetowanie to technika promocji produktów pogodowych, takich jak parasole i odzież zewnętrzna.",
+          "Meteotargetowanie to system prognozowania skuteczności reklam na podstawie danych meteorologicznych."
+        ]
+      },
+      {
+        "question": "Jakie są kluczowe elementy briefu w kampanii digitalowej?",
+        "correct_answer": "Informacje o marce, grupa docelowa, insight konsumencki, cele kampanii, wskaźniki efektywności, budżet, oczekiwania wobec agencji .",
+        "incorrect_answers": [
+          "Kluczowe elementy briefu to terminy płatności, klauzule prawne i schematy raportowania.",
+          "Do kluczowych elementów briefu należą głównie dane techniczne strony i platformy publikacji.",
+          "Brief powinien zawierać jedynie cele kampanii i budżet, bez szczegółów dotyczących grupy docelowej."
+        ]
+      },
+      {
+        "question": "Co to jest ROAS i jak się go oblicza?",
+        "correct_answer": "ROAS to Return On Advertising Spend, obliczany jako stosunek przychodów z kampanii do kosztów kampanii, wyrażony w procentach .",
+        "incorrect_answers": [
+          "ROAS to wskaźnik oceny zasięgu reklamy, który nie uwzględnia przychodów.",
+          "ROAS to metoda oceny jakości treści reklamowych, niezwiązana z kosztami.",
+          "ROAS to procentowy udział kosztów reklam w całkowitych wydatkach firmy."
+        ]
+      },
+      {
+        "question": "Co oznacza wskaźnik Affinity Index?",
+        "correct_answer": "Affinity Index mierzy stopień dopasowania użytkowników witryny do grupy docelowej, wskazując na efektywność emisji reklamy na danej stronie .",
+        "incorrect_answers": [
+          "Affinity Index to wskaźnik satysfakcji klienta z kampanii reklamowej.",
+          "Affinity Index oblicza stosunek kliknięć do wyświetleń reklam w kontekście konkurencji.",
+          "Affinity Index to pomiar różnorodności treści na stronie w stosunku do innych mediów."
+        ]
+      },
+      {
+        "question": "Jakie są główne cechy reklamy display?",
+        "correct_answer": "Reklama display to reklamy graficzne, wyświetlane w serwisach internetowych, które mogą zawierać różne elementy multimedialne .",
+        "incorrect_answers": [
+          "Reklama display to przede wszystkim tekstowe ogłoszenia w wyszukiwarkach.",
+          "Reklama display opiera się wyłącznie na interaktywnych komponentach, takich jak gry.",
+          "Reklama display koncentruje się na dużych, statycznych bannerach bez animacji."
+        ]
+      },
+      {
+        "question": "Jakie są zalety systemu GetResponse?",
+        "correct_answer": "Bogata baza szablonów, integracja z Google Analytics, darmowe testowanie przez 30 dni.",
+        "incorrect_answers": [
+            "Bogata baza szablonów, brak integracji z Google Analytics, płatne testowanie od pierwszego dnia.",
+            "Brak bazy szablonów, ograniczona integracja, testowanie płatne.",
+            "Ograniczone szablony, brak integracji z analityką, krótki okres testowy."
+        ]
+    },
+    {
+        "question": "Co to jest SEM?",
+        "correct_answer": "Search Engine Marketing, obejmujący zarówno SEO (organic) jak i SEA (płatne reklamy w wyszukiwarkach).",
+        "incorrect_answers": [
+            "Search Engine Marketing, obejmujący tylko SEO, bez płatnych reklam.",
+            "Ograniczenie do reklam w mediach społecznościowych, nie obejmuje wyszukiwarek.",
+            "Skupienie na tradycyjnych mediach, nie obejmuje działań online."
+        ]
+    },
+    {
+        "question": "Jak działa wyszukiwarka internetowa?",
+        "correct_answer": "Wyszukiwarka indeksuje strony za pomocą robotów, które analizują treści i linki, a następnie katalogują informacje.",
+        "incorrect_answers": [
+            "Wyszukiwarki działają na zasadzie ręcznego wpisywania danych, nie używają robotów.",
+            "Analiza treści stron nie jest wykonywana, wyszukiwarki używają tylko danych użytkownika.",
+            "Katalogowanie informacji jest losowe, nie opiera się na robotach."
+        ]
+    },
+    {
+        "question": "Co to jest SEO?",
+        "correct_answer": "Search Engine Optimization, proces optymalizacji strony internetowej w celu poprawy jej widoczności w organicznych wynikach wyszukiwania.",
+        "incorrect_answers": [
+            "SEO oznacza optymalizację dla social media, nie wyszukiwarek.",
+            "Proces polega tylko na reklamie płatnej, nie dotyczy optymalizacji.",
+            "Optymalizacja dla wyszukiwarek nie ma wpływu na wyniki wyszukiwania."
+        ]
+    },
+    {
+        "question": "Co to jest SEA?",
+        "correct_answer": "Search Engine Advertising, płatne reklamy wyświetlane w wynikach wyszukiwania.",
+        "incorrect_answers": [
+            "SEA to strategia oparta tylko na darmowych metodach promocji.",
+            "Obejmuje tylko reklamy wideo, nie inne formy reklam.",
+            "Płatne reklamy są niedostępne w wyszukiwarkach, tylko w mediach społecznościowych."
+        ]
+    },
+    {
+        "question": "Jakie są główne czynniki wpływające na pozycjonowanie strony?",
+        "correct_answer": "Treści wartościowe dla użytkowników, dostosowanie witryny, linkowanie zewnętrzne, zaufanie do strony.",
+        "incorrect_answers": [
+            "Tylko linkowanie wewnętrzne ma wpływ, inne czynniki są pomijalne.",
+            "Czynniki społecznościowe jak liczba followersów na media społecznościowych.",
+            "Zaufanie do strony nie ma znaczenia, liczy się tylko techniczna optymalizacja."
+        ]
+    },
+    {
+        "question": "Co to są Core Web Vitals?",
+        "correct_answer": "Kluczowe wskaźniki jakości strony internetowej, takie jak szybkość ładowania, stabilność layoutu, dostosowanie do urządzeń mobilnych.",
+        "incorrect_answers": [
+            "Core Web Vitals to dodatkowe narzędzia analityczne, niezwiązane z jakością strony.",
+            "Odnoszą się wyłącznie do reklam online, nie do stron internetowych.",
+            "Tylko dla ekspertów SEO, nie mają znaczenia dla przeciętnego użytkownika."
+        ]
+    },
+    {
+        "question": "Co to jest SXO?",
+        "correct_answer": "Search Experience Optimization, czyli optymalizacja doświadczeń użytkownika podczas korzystania z wyszukiwarki.",
+        "incorrect_answers": [
+            "SXO nie istnieje jako termin, jest błędem terminologicznym.",
+            "Optymalizacja doświadczeń offline, nie dotyczy działań online.",
+            "Dotyczy tylko struktur danych, nie obejmuje doświadczenia użytkownika."
+        ]
+    },
+    {
+        "question": "Jakie znaczniki HTML są kluczowe dla SEO on-site?",
+        "correct_answer": "Meta tagi, takie jak title, description, robots oraz struktura nagłówków H1, H2, H3.",
+        "incorrect_answers": [
+            "Znaczniki HTML nie mają wpływu na SEO, liczą się tylko treści.",
+            "Tylko znaczniki graficzne jak img mają znaczenie dla SEO.",
+            "SEO nie używa znaczników HTML, skupia się na CSS."
+        ]
+    },
+    {
+        "question": "Co to jest sitemap?",
+        "correct_answer": "Mapa witryny, zawierająca spis wszystkich podstron, które chcemy pokazać robotom wyszukiwarki.",
+        "incorrect_answers": [
+            "Mapa witryny jest tylko dla użytkowników, nie dla wyszukiwarek.",
+            "Sitemap to fizyczna mapa serwera, na którym hostowana jest strona.",
+            "Nie używa się już sitemap w nowoczesnym SEO."
+        ]
+    },
+    {
+        "question": "Co oznaczają znaczniki robots.txt?",
+        "correct_answer": "Plik definiujący reguły dostępności witryny dla robotów, np. index/noindex, follow/nofollow.",
+        "incorrect_answers": [
+            "robots.txt to staromodny plik, który już nie jest używany.",
+            "Dotyczy tylko śledzenia przez roboty Google, inne wyszukiwarki mają inne metody.",
+            "Oznacza zbiór reguł dla użytkowników, nie robotów."
+        ]
+    },
+    {
+        "question": "Jakie są dobre praktyki tworzenia treści dla SEO?",
+        "correct_answer": "Tworzenie użytecznych i interesujących treści, nasycenie słowami kluczowymi, struktura tekstu, regularna aktualizacja.",
+        "incorrect_answers": [
+            "Dobre praktyki ograniczają się do kopiowania treści z innych źródeł.",
+            "SEO nie zwraca uwagi na jakość treści, tylko na ich ilość.",
+            "Unikanie słów kluczowych jest zalecane, aby unikać nadmiernej optymalizacji."
+        ]
+    },
+    {
+        "question": "Jakie są narzędzia do sprawdzania popularności słów kluczowych?",
+        "correct_answer": "Google Keywords Planner, Google Trends, ubersuggest.org, answerthepublic.com.",
+        "incorrect_answers": [
+            "Narzędzia do słów kluczowych nie są dostępne publicznie.",
+            "Używa się tylko płatnych narzędzi, żadne darmowe narzędzia nie są wiarygodne.",
+            "Popularność słów kluczowych mierzy się tylko wewnętrznymi narzędziami firmy."
+        ]
+    },
+    {
+        "question": "Co to jest landing page i dlaczego jest ważna w e-mail marketingu?",
+        "correct_answer": "Landing page to strona docelowa, na którą trafia użytkownik po kliknięciu w link w e-mailu, jest kluczowa dla skuteczności kampanii.",
+        "incorrect_answers": [
+            "Landing page jest niepotrzebna, ważniejszy jest bezpośredni kontakt mailowy.",
+            "Strony docelowe są tylko dla dużych firm, małe firmy mogą używać e-maili bezpośrednich.",
+            "W e-mail marketingu landing page ma niskie znaczenie, liczy się treść e-maila."
+        ]
+    },{
+        "question": "Liczba odsłon wyniosła 1 000 000, a łączny koszt ich emisji to 5000 zł. Jaki był CPM kampanii?",
+        "correct_answer": "5 zł. CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+            "10 zł. CPM został obliczony błędnie przez podzielenie całkowitego kosztu przez liczbę wyświetleń.",
+            "3 zł. CPM nie uwzględnia wszystkich wyświetleń w obliczeniach.",
+            "7 zł. CPM zawyżono, nie uwzględniając faktycznego kosztu kampanii."
+        ]
+    },
+    {
+        "question": "Jeśli 100 osób kliknęło w reklamę, która została wyświetlona 10 000 razy, jaki był CTR kampanii?",
+        "correct_answer": "1%. CTR to wskaźnik, który mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń, wyrażony w procentach.",
+        "incorrect_answers": [
+            "0.5%. CTR został obliczony błędnie, nie uwzględniając wszystkich kliknięć.",
+            "2%. CTR został przeceniony, uwzględniając nieprecyzyjne dane.",
+            "0.1%. CTR jest znacznie niższy, co wskazuje na niską skuteczność kampanii."
+        ]
+    },
+    {
+        "question": "Kampania kosztowała 20 000 zł i wygenerowała przychód 100 000 zł. Jaki był ROI?",
+        "correct_answer": "400%. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "incorrect_answers": [
+            "200%. ROI został obliczony błędnie, nie uwzględniając wszystkich kosztów.",
+            "500%. ROI jest wyższy, uwzględniając dodatkowe czynniki zewnętrzne.",
+            "300%. ROI jest niższy z powodu ukrytych kosztów."
+        ]
+    },
+    {
+        "question": "Ile wynosił CR, jeśli 10 z 1000 użytkowników dokonało zakupu po kliknięciu w reklamę?",
+        "correct_answer": "1%. CR to wskaźnik konwersji, który mierzy, jak skutecznie reklama przekłada się na zakupy, obliczany jako stosunek liczby konwersji do liczby kliknięć.",
+        "incorrect_answers": [
+            "0.1%. CR jest niższy, co może wynikać z niskiej atrakcyjności produktu.",
+            "10%. CR jest zawyżony, sugerując nieprecyzyjne śledzenie konwersji.",
+            "5%. CR został błędnie obliczony, nie uwzględniając rzeczywistej liczby kliknięć."
+        ]
+    },
+    {
+        "question": "Jak obliczyć koszt pojedynczego kliknięcia (CPC), jeśli kampania kosztowała 2000 zł, a uzyskano 500 kliknięć?",
+        "correct_answer": "4 zł. CPC to koszt za jedno kliknięcie, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę kliknięć.",
+        "incorrect_answers": [
+            "2 zł. CPC jest niższy, sugerując efektywniejszą kampanię.",
+            "10 zł. CPC jest wyższy z powodu błędów w obliczeniach.",
+            "8 zł. CPC nie zostało właściwie obliczone, brakuje danych."
+        ]
+    },
+    {
+        "question": "W kampanii pozyskano 200 leadów, przy czym koszt kampanii wyniósł 10 000 zł. Jaki był CPL?",
+        "correct_answer": "50 zł. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "incorrect_answers": [
+            "25 zł. CPL wynika z błędnej interpretacji danych.",
+            "75 zł. CPL jest wyższy, uwzględniając dodatkowe koszty.",
+            "100 zł. CPL został przeceniony przez błędy w alokacji budżetu."
+        ]
+    },
+    {
+        "question": "Jeśli CPM kampanii wynosił 20 zł, a liczba wyświetleń wyniosła 250 000, jaki był łączny koszt kampanii?",
+        "correct_answer": "5000 zł. Łączny koszt kampanii oblicza się, mnożąc CPM przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+            "10 000 zł. Koszt został przeliczony z błędnym założeniem o wyższym CPM.",
+            "2500 zł. Koszt jest niższy z powodu błędów w raportowaniu danych.",
+            "7500 zł. Koszt jest wyższy z powodu dodatkowych opłat zewnętrznych."
+        ]
+    },
+    {
+        "question": "Kampania uzyskała 300 000 wyświetleń i 6000 kliknięć. Jaki był CTR?",
+        "correct_answer": "2%. CTR mierzy efektywność kampanii, obliczany jako stosunek liczby kliknięć do liczby wyświetleń.",
+        "incorrect_answers": [
+            "1%. CTR jest niższy, co może wynikać z niskiej atrakcyjności reklam.",
+            "3%. CTR jest wyższy, sugerując skuteczniejsze metody targetowania.",
+            "0.5%. CTR jest znacznie niższy, co wskazuje na problemy z odbiorem kampanii."
+        ]
+    },
+    {
+        "question": "Koszt kampanii wyniósł 15 000 zł, a generowany przychód to 60 000 zł. Jaki był ROAS?",
+        "correct_answer": "400%. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "incorrect_answers": [
+            "200%. ROAS jest niższy, co może wynikać z błędnej interpretacji przychodów.",
+            "600%. ROAS jest zawyżony, uwzględniając nieprecyzyjne obliczenia.",
+            "100%. ROAS sugeruje, że kampania tylko zwróciła koszty, co jest błędne."
+        ]
+    },
+    {
+        "question": "Jeśli koszt kampanii wynosił 8000 zł, a liczba zdobytych leadów to 200, jaki był CPL?",
+        "correct_answer": "40 zł. CPL mierzy koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "incorrect_answers": [
+            "20 zł. CPL wynika z błędnej interpretacji danych.",
+            "60 zł. CPL jest wyższy, co może oznaczać dodatkowe niezidentyfikowane koszty.",
+            "80 zł. CPL został przeceniony, sugerując błędy w alokacji budżetu."
+        ]
+    },
+    {
+        "question": "W kampanii uzyskano 500 kliknięć, a koszt kampanii wyniósł 2500 zł. Jaki był CPC?",
+        "correct_answer": "5 zł. CPC to koszt za jedno kliknięcie, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę kliknięć.",
+        "incorrect_answers": [
+            "3,5 zł. Koszt za kliknięcie został obliczony błędnie.",
+            "9 zł. Koszt za kliknięcie nie uwzględnia dodatkowych opłat.",
+            "0.5 zł. Błąd w obliczeniach spowodował znaczne zaniżenie CPC."
+        ]
+    },
+    {
+        "question": "Jaki odsetek marketerów uważa e-mail marketing za najskuteczniejszą formę komunikacji?",
+        "correct_answer": "26%. E-mail marketing jest wysoko ceniony za swoją skuteczność.",
+        "incorrect_answers": [
+            "35%. E-mail marketing nie jest uznawany za najskuteczniejszą formę.",
+            "10%. E-mail marketing jest rzadko uważany za skuteczną formę komunikacji.",
+            "50%. E-mail marketing jest przeceniany przez większość marketerów."
+        ]
+    },
+    {
+        "question": "Co to jest CTR w e-mail marketingu?",
+        "correct_answer": "Click Through Rate. Jest to wskaźnik kliknięć w linki w mailingu w stosunku do liczby wysłanych e-maili.",
+        "incorrect_answers": [
+            "Click Through Rate. Jest to procent e-maili otwartych, nie kliknięć.",
+            "Click Through Rate. Oznacza procent usuniętych e-maili.",
+            "Click Through Rate. Reprezentuje liczbę spamowych zgłoszeń na wysłane e-maile."
+        ]
+    },
+    {
+        "question": "Co oznacza wskaźnik OR?",
+        "correct_answer": "Open Rate. Wskaźnik otwarć e-maili w stosunku do liczby wysłanych wiadomości.",
+        "incorrect_answers": [
+            "Open Rate. Pokazuje procent odblokowań spamu.",
+            "Open Rate. Mierzy liczbę zarchiwizowanych wiadomości.",
+            "Open Rate. Oznacza procent wiadomości przeczytanych ponownie."
+        ]
+    },
+    {
+        "question": "Co to jest CTOR?",
+        "correct_answer": "Click to Open Rate. Wskaźnik kliknięć w linki w mailingu w stosunku do liczby otwartych wiadomości.",
+        "incorrect_answers": [
+            "Click to Open Rate. Mierzy liczbę błędów w mailingu.",
+            "Click to Open Rate. Pokazuje liczbę omyłkowych kliknięć na spam.",
+            "Click to Open Rate. Odsetek wiadomości ignorowanych po otwarciu."
+        ]
+    },
+    {
+        "question": "Co to jest CR w e-mail marketingu?",
+        "correct_answer": "Conversion Rate. Wskaźnik konwersji, obliczany jako stosunek liczby zrealizowanych celów do liczby kliknięć.",
+        "incorrect_answers": [
+            "Conversion Rate. Liczba kliknięć bez zakupów.",
+            "Conversion Rate. Procent odbiorców, którzy anulowali subskrypcję.",
+            "Conversion Rate. Odsetek użytkowników, którzy zignorowali e-mail."
+        ]
+    },
+    {
+        "question": "Co oznacza ROI?",
+        "correct_answer": "Return on Investment. Wskaźnik zwrotu z inwestycji, obliczany jako stosunek zysku do kosztów kampanii.",
+        "incorrect_answers": [
+            "Return on Investment. Pokazuje stratę inwestycyjną.",
+            "Return on Investment. Mierzy tylko koszty, nie zyski.",
+            "Return on Investment. Odsetek nieudanych inwestycji."
+        ]
+    },
+    {
+        "question": "Co to jest wskaźnik dostarczalności (DR)?",
+        "correct_answer": "Delivery Rate. Procent wysłanych e-maili, które zostały dostarczone do odbiorców.",
+        "incorrect_answers": [
+            "Delivery Rate. Odsetek e-maili odrzuconych przez serwery.",
+            "Delivery Rate. Mierzy ilość e-maili zgłoszonych jako spam.",
+            "Delivery Rate. Procent e-maili usuniętych nieotwartych."
+        ]
+    },
+    {
+        "question": "Co to jest UR w e-mail marketingu?",
+        "correct_answer": "Unsubscription Rate. Wskaźnik rezygnacji, określa procent osób, które wypisały się po wysyłce wiadomości.",
+        "incorrect_answers": [
+            "Unsubscription Rate. Procent nowych subskrybentów.",
+            "Unsubscription Rate. Mierzy wzrost zainteresowania treścią.",
+            "Unsubscription Rate. Procent osób, które zgłosiły e-mail jako spam."
+        ]
+    },
+    {
+        "question": "Co oznacza pojęcie “spam”?",
+        "correct_answer": "Niezamówiona korespondencja przesyłana drogą elektroniczną, często masowo.",
+        "incorrect_answers": [
+            "Spam oznacza ważne wiadomości e-mailowe.",
+            "Spam to kategoria wysokiej jakości treści.",
+            "Spam to specjalne powiadomienia od znanych marek."
+        ]
+    },
+    {
+        "question": "Co to jest blacklist?",
+        "correct_answer": "Blacklist to lista nadawców, których wiadomości nie są akceptowane przez dostawców skrzynek pocztowych.",
+        "incorrect_answers": [
+            "Blacklist to lista polecanych nadawców.",
+            "Blacklist to specjalne wyróżnienie dla najlepszych nadawców.",
+            "Blacklist to lista nadawców z najwyższymi wskaźnikami otwarć."
+        ]
+    },
+    {
+        "question": "Co to jest DMARC?",
+        "correct_answer": "Domain-based Message Authentication Reporting and Conformance. System weryfikujący poprawność wiadomości e-mail w celu ochrony przed fałszowaniem i cyberprzestępstwami.",
+        "incorrect_answers": [
+            "Direct Mail Automated Response Control to system filtrujący treści e-mail bez kontroli nad ich autentycznością.",
+            "Data Monitoring and Reporting Console służy wyłącznie do monitorowania i raportowania statystyk e-mail bez funkcji ochrony.",
+            "Digital Mail Advertisement Response Coordinator jest protokołem do zarządzania reklamami e-mail, nie zabezpiecza przed fałszerstwami."
+        ]
+    },
+    {
+        "question": "Co to jest permission marketing?",
+        "correct_answer": "Marketing za przyzwoleniem, gdzie odbiorca sam wyraża chęć otrzymywania przekazów marketingowych.",
+        "incorrect_answers": [
+            "Permission marketing polega na wysyłaniu e-maili bez zgody odbiorców.",
+            "To strategia polegająca na ograniczaniu komunikacji marketingowej do jednorazowych akcji.",
+            "Marketing za przyzwoleniem oznacza wysyłkę informacji tylko po negatywnym potwierdzeniu odbiorcy."
+        ]
+    },
+    {
+        "question": "Co oznacza model double opt-in?",
+        "correct_answer": "Proces, który wymaga potwierdzenia chęci otrzymywania wiadomości przez osobę dodaną do listy odbiorców.",
+        "incorrect_answers": [
+            "Double opt-in to model, w którym odbiorca musi odrzucić subskrypcję, by przestać otrzymywać wiadomości.",
+            "Jest to metoda, w której subskrypcja jest automatyczna bez potwierdzenia przez użytkownika.",
+            "Model ten zakłada, że odbiorca jest domyślnie zapisany i nie może zrezygnować."
+        ]
+    },
+    {
+        "question": "Jakie są metody pozyskiwania subskrybentów?",
+        "correct_answer": "Formularz na stronie, pop-up, rejestracja w serwisie, social media, stopka w mailu, dedykowane aplikacje.",
+        "incorrect_answers": [
+            "Zdobycie subskrybentów poprzez kupno gotowych baz danych i masowe wysyłki.",
+            "Wyłącznie poprzez automatyczne zapisywanie każdego, kto odwiedził stronę internetową.",
+            "Pozyskiwanie subskrybentów jest możliwe tylko przez telefoniczne umawianie spotkań."
+        ]
+    },
+    {
+        "question": "Co to jest baza własna?",
+        "correct_answer": "Baza danych zebrana i zarządzana bezpośrednio przez firmę, używana do wysyłki newsletterów i mailingów.",
+        "incorrect_answers": [
+            "Baza danych pozyskana od zewnętrznego dostawcy bez zgody użytkowników.",
+            "Zbiór przypadkowych adresów e-mail, wykorzystywanych do spamowania.",
+            "Baza własna to lista adresów e-mail z forum internetowego bez wiedzy użytkowników."
+        ]
+    },
+    {
+        "question": "Jakie są kryteria segmentacji bazy mailingowej?",
+        "correct_answer": "Dane deklaratywne, dane o zachowaniu, historia zakupów, dane behawioralne.",
+        "incorrect_answers": [
+            "Segmentacja odbywa się losowo, bez opierania się na konkretnych danych.",
+            "Bazy są segmentowane wyłącznie na podstawie geograficznej lokalizacji.",
+            "Segmentacja nie uwzględnia danych o zachowaniu, tylko dane demograficzne."
+        ]
+    },
+    {
+        "question": "Co to jest deliverability?",
+        "correct_answer": "Dostarczalność e-maili, optymalny poziom to 97% w bazie mailingowej.",
+        "incorrect_answers": [
+            "Deliverability to miara, jak często e-maile są oznaczane jako spam.",
+            "Wskaźnik ten pokazuje procent usuniętych wiadomości przed ich przeczytaniem.",
+            "Deliverability mierzy tylko zdolność serwerów do wysyłania maksymalnej ilości e-maili."
+        ]
+    },
+    {
+        "question": "Co to są twarde odbicia w e-mail marketingu?",
+        "correct_answer": "Odbicia uniemożliwiające dostarczenie wiadomości, np. z powodu nieistniejącego adresu.",
+        "incorrect_answers": [
+            "Twarde odbicia to wiadomości, które zostały dostarczone, ale nie otwarte.",
+            "Oznaczają one e-maile, które zostały odczytane i natychmiast usunięte.",
+            "Twarde odbicia to e-maile, które zawsze są automatycznie przekierowywane do folderu spam."
+        ]
+    },
+    {
+        "question": "Co to są miękkie odbicia?",
+        "correct_answer": "Odbicia tymczasowe, np. przepełniona skrzynka odbiorcy, które mogą być dostarczone później.",
+        "incorrect_answers": [
+            "Miękkie odbicia to e-maile, które zostały otwarte, ale nie kliknięte.",
+            "To e-maile, które zostają oznaczone jako przeczytane, ale nie przynoszą konwersji.",
+            "Miękkie odbicia to odrzucenia wynikające z błędów w treści e-maili."
+        ]
+    },
+    {
+        "question": "Jak dbać o bazy danych?",
+        "correct_answer": "Usuwanie martwych kontaktów, potwierdzanie subskrypcji, dbanie o poprawność danych.",
+        "incorrect_answers": [
+            "Dbanie o bazy polega na ciągłym dodawaniu nowych kontaktów bez ich weryfikacji.",
+            "Najlepsza praktyka to rzadkie aktualizacje, aby nie przeszkadzać użytkownikom.",
+            "Bazy danych są samoregulujące się i nie wymagają interwencji po ich utworzeniu."
+        ]
+    },
+    {
+        "question": "Co to jest CTA?",
+        "correct_answer": "Call to Action. Widoczny i klarowny element zachęcający do wykonania konkretnej akcji w mailingu.",
+        "incorrect_answers": [
+            "Commercial Tracking Analysis to metoda oceny efektywności reklam, nie odnosi się do mailingu.",
+            "Computational Trend Analysis jest techniką analizy danych, nie elementem reklamowym.",
+            "Content Transmission Authorization oznacza kontrolę treści aplikacji, używaną w bezpieczeństwie IT."
+        ]
+    },
+    {
+        "question": "Co to jest ALT w e-mail marketingu?",
+        "correct_answer": "Alternatywny tekst opisujący obrazki, używany w przypadku, gdy grafika się nie załaduje.",
+        "incorrect_answers": [
+            "ALT to kod śledzenia e-maili używany w analizie danych.",
+            "Alternatywny tekst ALT nie jest związany z e-mail marketingiem, a z kodowaniem stron.",
+            "ALT to skrót od 'Altered Text', używany do oznaczania zmienionych wersji dokumentów."
+        ]
+    },
+    {
+        "question": "Jakie są najważniejsze wskaźniki w kampaniach e-mailowych?",
+        "correct_answer": "CTR, OR, CTOR, CR, ROI, DR, UR.",
+        "incorrect_answers": [
+            "Najważniejszymi wskaźnikami są CTA, CSS, HTML, JSON w kampaniach e-mailowych.",
+            "Kluczowe metryki to OpenSSL, S/MIME, PGP w zabezpieczeniach e-maili.",
+            "Najistotniejsze są wskaźniki związane z dostawą serwerów, takie jak HTTP, FTP, SMTP."
+        ]
+    },
+    {
+        "question": "Co to jest marketing automation?",
+        "correct_answer": "Automatyzacja działań marketingowych z wykorzystaniem specjalnego oprogramowania do usprawnienia procesów sprzedażowych.",
+        "incorrect_answers": [
+            "To narzędzie służące do automatycznego umieszczania reklam w mediach.",
+            "Marketing automation to automatyczna generacja treści na stronach internetowych.",
+            "Jest to zautomatyzowane planowanie budżetu reklamowego, nie dotyczy bezpośrednio działań."
+        ]
+    },
+    {
+        "question": "Jakie są rodzaje zautomatyzowanych e-maili?",
+        "correct_answer": "Wiadomość powitalna, podziękowanie, zamówienie w drodze, przypomnienie o wydarzeniu, porzucony koszyk.",
+        "incorrect_answers": [
+            "Automatyczne e-maile to głównie potwierdzenia subskrypcji i anulowania.",
+            "Zautomatyzowane e-maile obejmują newslettery i codzienne wiadomości przeglądowe.",
+            "E-maile takie jak newslettery weekendowe, zaproszenia do ankiety i alertów cenowych."
+        ]
+    },
+    {
+        "question": "Co to jest omnichannel?",
+        "correct_answer": "Omnichannel to integracja wszystkich kanałów sprzedaży marki, zapewniająca spójność komunikacji i obsługi.",
+        "incorrect_answers": [
+            "Omnichannel oznacza wykorzystanie jednego kanału sprzedaży w wielu różnych regionach.",
+            "To strategia opierająca się wyłącznie na komunikacji cyfrowej, bez integracji fizycznych punktów sprzedaży.",
+            "Omnichannel to nowa technologia w zakresie zarządzania danymi, niezwiązana z marketingiem."
+        ]
+    },
+    {
+        "question": "Jakie są kluczowe elementy strony produktu w e-commerce?",
+        "correct_answer": "Opis produktu, zdjęcia, słowa kluczowe, recenzje klientów.",
+        "incorrect_answers": [
+            "Główne elementy to historia marki, misja firmy oraz warunki zwrotu produktu.",
+            "Elementy takie jak czas dostawy, koszty przesyłki oraz gwarancja są kluczowe.",
+            "Opis produktu, FAQ produktowe, informacje o subskrypcji i dane kontaktowe firmy."
+        ]
+    },
+    {
+        "question": "Co to jest porzucony koszyk?",
+        "correct_answer": "Porzucony koszyk to sytuacja, gdy klient dodaje produkty do koszyka, ale nie finalizuje zakupu.",
+        "incorrect_answers": [
+            "To funkcja w sklepie internetowym pozwalająca na zapisywanie produktów do późniejszego zakupu.",
+            "Porzucony koszyk to błąd systemowy, który usuwa produkty z koszyka po odświeżeniu strony.",
+            "Jest to nazwa promocji, w której produkty są sprzedawane z dużym rabatem."
+        ]
+    },
+    {
+        "question": "Jakie są metody płatności w e-commerce?",
+        "correct_answer": "Google Pay, Apple Pay, Pay-By-Link.",
+        "incorrect_answers": [
+            "Do metod płatności należą przelewy bankowe, płatności przy odbiorze i kryptowaluty.",
+            "Większość sklepów e-commerce obecnie akceptuje tylko płatności kartami kredytowymi.",
+            "Płatności za pośrednictwem aplikacji mobilnych oraz systemów punktów lojalnościowych."
+        ]
+    },
+    {
+        "question": "Co to jest livechat w e-commerce?",
+        "correct_answer": "Livechat to narzędzie umożliwiające dwustronną komunikację między marką a klientem w czasie rzeczywistym.",
+        "incorrect_answers": [
+            "Jest to system automatycznych odpowiedzi, które nie wymagają interakcji człowieka.",
+            "Livechat to funkcja, która pozwala klientom na oglądanie produktów na żywo przed zakupem.",
+            "To platforma dla sprzedawców do przeprowadzania webinariów na temat swoich produktów."
+        ]
+    },
+    {
+        "question": "Co to jest Q-commerce?",
+        "correct_answer": "Q-commerce to szybki handel, skoncentrowany głównie na rynku e-grocery, z dostawą w krótkim czasie.",
+        "incorrect_answers": [
+            "To strategia marketingowa skupiająca się na szybkiej sprzedaży produktów luksusowych.",
+            "Q-commerce to system kwantowego komputowania stosowany w handlu elektronicznym.",
+            "Jest to model biznesowy oparty na sprzedaży produktów cyfrowych, takich jak oprogramowanie."
+        ]
+    },
+    {
+        "question": "Co to jest multichannel?",
+        "correct_answer": "Multichannel to umożliwienie klientowi zakupów w różnych kanałach sprzedaży, które mogą się różnić między sobą.",
+        "incorrect_answers": [
+            "Multichannel odnosi się do wykorzystania wielu kanałów reklamowych do promocji jednego produktu.",
+            "To technika zarządzania wieloma kontami klienta w jednym oprogramowaniu CRM.",
+            "Jest to strategia komunikacji, w której firma używa wielu platform mediów społecznościowych."
+        ]
+    },
+    {
+        "question": "Co to jest RWD i AMP?",
+        "correct_answer": "RWD to Responsive Web Design, czyli strony dostosowujące się do urządzenia, AMP to Accelerated Mobile Pages, czyli szybkie ładowanie stron mobilnych.",
+        "incorrect_answers": [
+            "Rapid Web Development to standard rozwoju oprogramowania, a Automated Management Platform to system zarządzania treścią.",
+            "RWD: Robust Web Data encryption, AMP: Advanced Merchant Protection to techniki szyfrowania danych używane w handlu elektronicznym do ochrony transakcji.",
+            "RWD - Real-time Web Diagnostics, AMP - Application Monitoring Protocol To narzędzia analityczne używane do mierzenia wydajności stron internetowych i aplikacji."
+        ]
+    },
+    {
+        "question": "Jakie są kluczowe wskaźniki efektywności w e-commerce?",
+        "correct_answer": "Wskaźnik porzuceń koszyka, koszt pozyskania klienta, lifetime value, NPS, wskaźnik konwersji CR.",
+        "incorrect_answers": [
+            "Kluczowe wskaźniki to stopa zwrotu, czas na stronie, stopa odrzuceń, liczba sesji na użytkownika.",
+            "Efektywność mierzy się poprzez analizę czasu dostawy, satysfakcji klienta i częstotliwości zakupów.",
+            "Wskaźniki takie jak liczba odwiedzin, liczba unikalnych użytkowników i średni czas trwania sesji."
+        ]
+    },
+    {
+        "question": "Co to jest Google Analytics 4?",
+        "correct_answer": "Google Analytics 4 to narzędzie do analizy ruchu użytkowników na stronach i w aplikacjach, z raportami według cyklu życia klienta.",
+        "incorrect_answers": [
+            "To zaawansowana wersja Google AdWords, skoncentrowana na automatyzacji kampanii reklamowych.",
+            "GA4 to system zarządzania treścią zaprojektowany do optymalizacji SEO i treści na stronach internetowych.",
+            "To nowa technologia Google skoncentrowana na sztucznej inteligencji, używana do analizy danych."
+        ]
+    },
+    {
+        "question": "Jakie są problemy w Google Analytics związane z kampaniami?",
+        "correct_answer": "Problemy mogą wynikać z nieprawidłowego połączenia kont Google Ads i Google Analytics, co powoduje brak danych o źródle ruchu.",
+        "incorrect_answers": [
+            "Problemy mogą wynikać z nadmiernego użycia filtrów, które blokują ważne dane.",
+            "Częstym problemem jest błędna konfiguracja śledzenia zdarzeń, co wpływa na raporty.",
+            "Niepoprawne tagowanie URL może skutkować nieprawidłowymi raportami o ruchu."
+        ]
+    },
+    {
+        "question": "Co to jest utm_source i utm_medium?",
+        "correct_answer": "Są to tagi UTM (Urchin Tracking Module) używane do śledzenia źródeł ruchu na stronie w Google Analytics.",
+        "incorrect_answers": [
+            "Tagi UTM służą do identyfikacji automatycznych botów odwiedzających stronę.",
+            "Oznaczają one unikalne identyfikatory użytkowników w celach bezpieczeństwa.",
+            "Są to skróty od Ultimate Tracking Mechanism, używane wyłącznie w reklamach."
+        ]
+    },
+    {
+        "question": "Co to jest raport sekwencji ścieżki użytkownika?",
+        "correct_answer": "Raport ten pokazuje, jak użytkownik porusza się między stronami serwisu, analizując jego ścieżkę.",
+        "incorrect_answers": [
+            "To narzędzie służące do oceny wydajności serwera.",
+            "Raport wskazuje na najczęściej używane funkcje aplikacji przez użytkowników.",
+            "Jest to analiza szybkości ładowania strony i jej wpływu na użytkowników."
+        ]
+    },
+    {
+        "question": "Jakie są kluczowe elementy sklepu internetowego?",
+        "correct_answer": "Kategoria, opis produktu, słowa kluczowe, zdjęcia produktu, możliwość filtrowania i sortowania produktów.",
+        "incorrect_answers": [
+            "System rekomendacji produktów i integracja z mediami społecznościowymi.",
+            "Cechy te dotyczą tylko platform handlowych B2B.",
+            "Ważne jest posiadanie sekcji FAQ i kontaktowej dla klientów."
+        ]
+    },
+    {
+        "question": "Co to jest Thank You Page w e-commerce?",
+        "correct_answer": "Thank You Page to strona wyświetlana po dokonaniu zakupu, gdzie można umieścić kod mierzący, zliczający zrealizowaną sprzedaż.",
+        "incorrect_answers": [
+            "Strona, która zawiera informacje o nadchodzących promocjach.",
+            "To strona z poradami, jak najlepiej wykorzystać zakupiony produkt.",
+            "Strona z ankieta satysfakcji, która pomaga zgromadzić opinie klientów."
+        ]
+    },
+    {
+        "question": "Jakie są najczęstsze powody porzucania koszyków w e-commerce?",
+        "correct_answer": "Długi proces realizacji zamówienia, brak widocznych kosztów wysyłki, skomplikowane formularze, brak opcji zakupów jako gość.",
+        "incorrect_answers": [
+            "Zbyt wysokie ceny produktów i niedostępność popularnych metod płatności.",
+            "Niska jakość zdjęć produktów i nieaktualne opisy.",
+            "Problemy techniczne strony i błędy podczas finalizacji zakupów."
+        ]
+    },
+    {
+        "question": "Co to jest marketing automation w kontekście e-commerce?",
+        "correct_answer": "Marketing automation to automatyzacja procesów marketingowych, takich jak przypomnienia o porzuconych koszykach czy personalizowane oferty.",
+        "incorrect_answers": [
+            "Jest to wykorzystanie SI do tworzenia treści reklamowych.",
+            "Technologia ta pozwala na automatyczne zarządzanie zapasami.",
+            "Systemy te służą do analizy konkurencji na rynku."
+        ]
+    },
+    {
+        "question": "Jakie są modele biznesowe w e-commerce?",
+        "correct_answer": "B2B (Business to Business), B2C (Business to Consumer), SaaS (Software as a Service), model subskrypcyjny, dropshipping, click & collect.",
+        "incorrect_answers": [
+            "Wyróżnia się tylko dwa podstawowe modele: B2B i B2C.",
+            "Modele te różnią się głównie liczbą dostępnych produktów w ofercie.",
+            "Każdy model biznesowy w e-commerce opiera się na systemach CRM."
+        ]
+    },
+    {
+        "question": "Co to jest lifetime value (LTV) w e-commerce?",
+        "correct_answer": "Lifetime value (LTV) to wartość klienta w długim okresie czasu, mierzona na podstawie jego zakupów i lojalności.",
+        "incorrect_answers": [
+            "Jest to wartość netto zysków ze sprzedaży produktu.",
+            "Wartość ta określa koszt utrzymania strony e-commerce.",
+            "LTV to czas, przez który serwis e-commerce może funkcjonować bez zarządzania."
+        ]
+    },
+    {
+        "question": "Jakie są metody zwiększania konwersji w e-commerce?",
+        "correct_answer": "Optymalizacja ścieżki zakupowej, personalizacja oferty, skrócenie procesu realizacji zamówienia, uproszczenie formularzy.",
+        "incorrect_answers": [
+            "Wprowadzenie opłat abonamentowych dla użytkowników premium.",
+            "Zwiększenie liczby reklam w serwisie.",
+            "Ograniczenie liczby dostępnych produktów, aby zwiększyć ekskluzywność."
+        ]
+    },
+    {
+        "question": "Co to jest cross-selling i up-selling?",
+        "correct_answer": "Cross-selling to technika sprzedaży polegająca na proponowaniu produktów komplementarnych, up-selling to przekonywanie klienta do zakupu droższych produktów lub w wyższym standardzie.",
+        "incorrect_answers": [
+            "Są to strategie obniżania cen produktów, aby przyciągnąć więcej klientów.",
+            "Techniki te opierają się na sprzedaży produktów poza głównymi kanałami dystrybucji.",
+            "Obejmują one używanie reklam kontekstowych i programów lojalnościowych."
+        ]
+    },
+    {
+        "question": "Co to jest e-mail marketing?",
+        "correct_answer": "Forma marketingu bezpośredniego wykorzystująca pocztę elektroniczną jako narzędzie komunikacji.",
+        "incorrect_answers": [
+            "Jest to forma reklamy wykorzystująca tradycyjne media do dystrybucji treści.",
+            "To strategia oparta na korzystaniu z mediów społecznościowych do promocji.",
+            "E-mail marketing to technika wykorzystywania drukowanych newsletterów do informowania klientów."
+        ]
+    },
+    {
+        "question": "Ile osób na świecie korzysta z poczty e-mail w 2023 roku?",
+        "correct_answer": "4,3 miliarda. Poczta e-mail pozostaje jednym z najpopularniejszych narzędzi komunikacji na świecie.",
+        "incorrect_answers": [
+            "Mniej niż 1 miliard, gdyż nowe technologie zastępują e-mail jak na przykład komunikatory Signal czy Messenger.",
+            "Około 8,5 miliarda, włączając wielokrotne konta na osobę. Poczta e-mail pozostaje jednym z najpopularniejszych narzędzi komunikacji na świecie.",
+            "Niemal 2,4 miliarda, głównie w krajach rozwiniętych. Kraje tak zwanego trzeciego świata ze względu na słabą infrastrukturę mają utrudniony dostęp do tego rozwiązania."
+        ]
+    },
+    {
+        "question": "Jaka była wartość rynku e-mail marketingu w 2023 roku?",
+        "correct_answer": "11 miliardów USD. Rynek e-mail marketingu dynamicznie rośnie.",
+        "incorrect_answers": [
+            "Około 490 milionów USD, w wyniku spadku popularności e-maili.",
+            "Niemal 18 miliardów USD, z uwagi na rosnącą efektywność e-mail marketingu.",
+            "Zaledwie 6 miliardów USD, ponieważ inne formy marketingu stają się dominujące."
+        ]
+    },
+    {
+        "question": "Co to jest BIMI?",
+        "correct_answer": "Brand Indicators for Message Identification. To technologia pozwalająca na dodanie logotypu marki w wysyłanych wiadomościach.",
+        "incorrect_answers": [
+            "Broadcast Image Media Integration Technology technika optymalizacji grafik dla mediów społecznościowych.",
+            "Browser Integrated Media Interface system zarządzania treścią na stronach internetowych.",
+            "Biometric Internet Message Encryption metoda szyfrowania danych osobowych w komunikacji internetowej."
+        ]
+    },
+    {
+        "question": "Co to są testy A/B?",
+        "correct_answer": "Testy A/B to metoda porównania dwóch wersji strony w celu wybrania lepszej pod kątem konwersji.",
+        "incorrect_answers": [
+            "Metoda oceny szybkości ładowania stron internetowych.",
+            "Analiza skuteczności różnych typów reklam na stronie.",
+            "System automatycznego tłumaczenia treści na stronie."
+        ]
+    },
+    {
+        "question": "Co to jest sortowanie kart?",
+        "correct_answer": "Sortowanie kart to metoda budowania intuicyjnej architektury informacji przez grupowanie elementów w kategorie.",
+        "incorrect_answers": [
+            "Proces przeglądania stron internetowych w poszukiwaniu błędów.",
+            "Technika organizacji zakładek w przeglądarce internetowej.",
+            "Metoda testowania wydajności serwerów internetowych."
+        ]
+    },
+    {
+        "question": "Na czym polega test drzewa?",
+        "correct_answer": "Test drzewa polega na ocenie, jak użytkownicy rozumieją kategorie serwisu i co spodziewają się znaleźć po ich kliknięciu.",
+        "incorrect_answers": [
+            "Technika oceny odporności strony na ataki zewnętrzne.",
+            "Metoda analizy działania witryny na różnych przeglądarkach.",
+            "Proces wykorzystania mapy witryny do automatycznego indeksowania treści."
+        ]
+    },
+    {
+        "question": "Co to jest audyt UX?",
+        "correct_answer": "Audyt UX to analiza użyteczności serwisu internetowego pod kątem zgodności z oczekiwaniami użytkowników.",
+        "incorrect_answers": [
+            "Kontrola zgodności strony internetowej z międzynarodowymi standardami bezpieczeństwa.",
+            "Analiza skuteczności kodu HTML w kontekście SEO.",
+            "Ocena jakości grafik i multimediów na stronie pod kątem optymalizacji."
+        ]
+    },
+    {
+        "question": "Co to są mapy ciepła?",
+        "correct_answer": "Mapy ciepła to graficzna prezentacja danych dotyczących zachowania użytkowników na stronie, pokazująca obszary najczęściej odwiedzane i klikane.",
+        "incorrect_answers": [
+            "Narzędzie do analizy temperatury procesorów w serwerowniach.",
+            "System monitorowania zmian temperatur w danych geograficznych.",
+            "Technologia śledzenia ruchu osób w przestrzeniach publicznych."
+        ]
+    },
+    {
+        "question": "Jakie metody badania użyteczności wykorzystują eyetracking?",
+        "correct_answer": "Eyetracking analizuje ruchy gałek ocznych (sakkady i fiksacje) podczas korzystania ze strony.",
+        "incorrect_answers": [
+            "Analiza interakcji użytkowników z interfejsem przez śledzenie ruchu myszy.",
+            "Testowanie szybkości reakcji na zmiany na stronie.",
+            "Ocena wpływu kolorystyki strony na odczucia użytkowników."
+        ]
+    },
+    {
+        "question": "Co to jest multiscreening?",
+        "correct_answer": "Multiscreening to jednoczesne lub sekwencyjne korzystanie przez użytkownika z wielu ekranów lub urządzeń.",
+        "incorrect_answers": [
+            "Technologia umożliwiająca emisję treści multimedialnych na wielu urządzeniach jednocześnie.",
+            "Metoda prezentacji danych na różnych rodzajach ekranów jednocześnie.",
+            "Technika projektowania grafiki na różne typy ekranów."
+        ]
+    },
+    {
+        "question": "Co to jest RWD (Responsive Web Design)?",
+        "correct_answer": "RWD to projektowanie stron WWW w taki sposób, aby dostosowywały się do różnych rozdzielczości ekranów.",
+        "incorrect_answers": [
+            "Metoda kodowania stron pod kątem szybkości ładowania.",
+            "System zarządzania treścią dostosowany do potrzeb użytkowników mobilnych.",
+            "Technologia automatycznego skalowania obrazów na stronach internetowych."
+        ]
+    },
+    {
+        "question": "Co to jest AMP (Accelerated Mobile Pages)?",
+        "correct_answer": "AMP to inicjatywa Google mająca na celu szybkie ładowanie stron internetowych na urządzeniach mobilnych.",
+        "incorrect_answers": [
+            "Technika kompresji danych umożliwiająca szybsze przesyłanie treści multimedialnych.",
+            "Protokół sieciowy zapewniający lepszą jakość przesyłania strumieniowego na urządzeniach mobilnych.",
+            "Platforma do tworzenia aplikacji na smartfony z wyższą wydajnością."
+        ]
+    },
+    {
+        "question": "Co to jest NFC?",
+        "correct_answer": "Near Field Communication to technologia krótkiego zasięgu umożliwiająca bezprzewodową wymianę danych na odległość do 20 centymetrów.",
+        "incorrect_answers": [
+            "System lokalizacji przestrzennej stosowany w nowoczesnych urządzeniach mobilnych.",
+            "Near Field Connect to technologia pozwalająca na szybkie ładowanie urządzeń mobilnych.",
+            "Native File Component - protokół sieciowy służący do szybkiej wymiany plików między urządzeniami w lokalnej sieci."
+        ]
+    },
+    {
+        "question": "Co to jest beacon?",
+        "correct_answer": "Beacon to urządzenie wykorzystujące technologię Bluetooth do wyzwalania akcji w aplikacji mobilnej w określonym obszarze.",
+        "incorrect_answers": [
+            "Beacon tonarzędzie do monitorowania i analizy ruchu internetowego w czasie rzeczywistym.",
+            "Beacon to urządzenie służące do wzmocnienia sygnału Wi-Fi w dużych przestrzeniach.",
+            "Beacon to czujnik środowiskowy do pomiaru jakości powietrza w miejskich aglomeracjach."
+        ]
+    },
+    {
+        "question": "Co to jest IoT (Internet of Things)?",
+        "correct_answer": "IoT to koncepcja, w której urządzenia połączone z siecią mogą gromadzić, przetwarzać i wymieniać dane.",
+        "incorrect_answers": [
+            "Internet rzeczy to nowa technologia dostępu do internetu za pomocą urządzeń mobilnych.",
+            "System zarządzania inteligentnymi domami za pośrednictwem aplikacji na smartfony.",
+            "Platforma do tworzenia aplikacji internetowych bazujących na danych z sensorów i urządzeń."
+        ]
+    },
+    {
+        "question": "Jakie są najważniejsze aspekty w projektowaniu stron mobilnych?",
+        "correct_answer": "Strona mobilna powinna być responsywna, szybka w ładowaniu, z intuicyjną nawigacją i dostosowana do różnych rozdzielczości.",
+        "incorrect_answers": [
+            "Ważne jest dostosowanie treści i grafik pod kątem mniejszych ekranów.",
+            "Zoptymalizowanie strony pod kątem szybkości działania na starych urządzeniach.",
+            "Zabezpieczenie transakcji mobilnych za pomocą zaawansowanych technologii szyfrowania."
+        ]
+    },
+    {
+        "question": "Co to jest geofencing?",
+        "correct_answer": "Geofencing to metoda wyznaczania granic danego obszaru geograficznego w celu wykrywania obiektów poruszających się w jego obrębie.",
+        "incorrect_answers": [
+            "Technologia wykorzystywana do śledzenia pozycji GPS w celach marketingowych.",
+            "System do automatycznego sterowania pojazdami w zdefiniowanych strefach geograficznych.",
+            "Technika ograniczania dostępu do treści cyfrowych na podstawie lokalizacji użytkownika."
+        ]
+    },
+    {
+        "question": "Co to jest geotrapping?",
+        "correct_answer": "Geotrapping umożliwia określenie położenia użytkownika w przeszłości, np. na potrzeby kierowania reklam.",
+        "incorrect_answers": [
+            "System zapobiegający wchodzeniu osób niepowołanych na określone obszary.",
+            "Metoda pozwalająca na blokowanie sygnału GPS w strefach ograniczonego dostępu.",
+            "Narzędzie do monitorowania historycznych danych lokalizacyjnych użytkowników."
+        ]
+    },
+    {
+        "question": "Co to jest e-commerce?",
+        "correct_answer": "E-commerce to sprzedaż produktów lub usług przez internet.",
+        "incorrect_answers": [
+            "Metoda przeprowadzania transakcji elektronicznych za pomocą aplikacji mobilnej.",
+            "System zarządzania sklepami internetowymi i ich logistyką.",
+            "Platforma do wymiany towarów i usług między użytkownikami sieci."
+        ]
+    },
+    {
+        "question": "Co oznacza ROPO w e-commerce?",
+        "correct_answer": "ROPO to Research Online, Purchase Offline – szukanie informacji online i zakup offline.",
+        "incorrect_answers": [
+            "Research Online, Purchase Offline metoda analizy zachowań klientów porównujących ceny online, a kupujących w sklepach stacjonarnych.",
+            "Rewarding Offline Purchase Opinions system lojalnościowy nagradzający klientów za recenzje produktów zakupionych offline.",
+            "Retail Online Promotion Optimization strategia marketingowa integrująca działania online z ofertą sklepu fizycznego."
+        ]
+    },
+    {
+        "question": "Co to jest dropshipping?",
+        "correct_answer": "Dropshipping to model logistyczny, w którym wysyłka towaru jest realizowana przez dostawcę, a nie sprzedawcę.",
+        "incorrect_answers": [
+            "System dystrybucji produktów bez potrzeby utrzymywania magazynu.",
+            "Metoda sprzedaży, w której sprzedawca nie posiada fizycznie towaru, a jedynie pośredniczy w jego sprzedaży.",
+            "Model biznesowy opierający się na sprzedaży produktów po niższej cenie nabywanych bezpośrednio od producenta."
+        ]
+    },
+    {
+        "question": "Jakie są modele rozliczeń w e-commerce?",
+        "correct_answer": "Revenue Share, CPS (Cost Per Sale), CPO (Cost Per Order).",
+        "incorrect_answers": [
+            "Model subskrypcyjny, płatności jednorazowe, przewalutowania.",
+            "System rabatów ilościowych, negocjacje cenowe, warunki płatności.",
+            "Opcje leasingu, finansowania, i systemy barterowe."
+        ]
+    },
+    {
+        "question": "Co to jest CPM i jak się go oblicza?",
+        "correct_answer": "CPM (Cost Per Mille) to koszt za 1000 wyświetleń reklamy. Oblicza się go dzieląc całkowity koszt kampanii przez liczbę tysięcy wyświetleń.",
+        "incorrect_answers": [
+            "CPM (Click Price Measurement ) to cena za jedno kliknięcie w reklamę.",
+            "CPM (Commercial Performance Metric) mierzy efektywność sprzedaży bezpośredniej z reklamy.",
+            "CPM (Channel Promotion Medium) jest stosowany tylko w telewizji i radiu."
+        ]
+    },
+    {
+        "question": "Co oznacza model CPC?",
+        "correct_answer": "CPC (Cost Per Click) to model, w którym reklamodawca płaci za każde kliknięcie w reklamę.",
+        "incorrect_answers": [
+            "CPC (Client Pay Contact) to model, w którym płaci się za każdy kontakt z klientem.",
+            "CPC (Cost Per Campaign ) oznacza koszt jednego wyświetlenia reklamy.",
+            "CPC (Consumer Purchase Course) to strategia bezpośredniej sprzedaży produktów."
+        ]
+    },
+    {
+        "question": "Co to jest domena?",
+        "correct_answer": "Domena to unikalna nazwa nadawana stronie internetowej, składająca się z nazwy głównej i rozszerzenia (np. .com, .pl).",
+        "incorrect_answers": [
+            "Domena to lokalizacja serwera internetowego.",
+            "Domena to oprogramowanie do zarządzania stroną internetową.",
+            "Domena to termin używany wyłącznie w kontekście sieci lokalnych."
+        ]
+    },
+    {
+        "question": "Co to jest User Generated Content (UGC)?",
+        "correct_answer": "UGC to treści tworzone przez użytkowników, takie jak komentarze, posty, zdjęcia, filmy, które są publikowane na platformach internetowych.",
+        "incorrect_answers": [
+            "UGC to automatycznie generowane treści przez algorytmy AI.",
+            "UGC to profesjonalne treści tworzone przez agencje reklamowe.",
+            "UGC to skrót od Unified Graphics Content, standard w grafice komputerowej."
+        ]
+    },
+    {
+        "question": "Co to jest CTR?",
+        "correct_answer": "CTR (Click-Through Rate) to wskaźnik kliknięć, obliczany jako liczba kliknięć w reklamę podzielona przez liczbę wyświetleń, wyrażona w procentach.",
+        "incorrect_answers": [
+            "CTR (Cost Through Rate) to wskaźnik kosztu mediów cyfrowych.",
+            "CTR to wskaźnik konwersji sprzedaży.",
+            "CTR (Commercial Time Rate) to czas trwania reklamy."
+        ]
+    },
+    {
+        "question": "Jakie narzędzia służą do analizy ruchu na stronie internetowej?",
+        "correct_answer": "Google Analytics, CMS (Content Management System).",
+        "incorrect_answers": [
+            "SEO tools i narzędzia do zarządzania bazą danych.",
+            "Systemy zarządzania treścią i narzędzia antywirusowe.",
+            "CRM i systemy do zarządzania bazami danych."
+        ]
+    },
+    {
+        "question": "Jakie są główne różnice między marketingiem offline a online?",
+        "correct_answer": "Marketing online umożliwia precyzyjne targetowanie, monitorowanie wyników w czasie rzeczywistym i interaktywność, podczas gdy marketing offline jest bardziej tradycyjny i trudniejszy do śledzenia pod kątem efektywności.",
+        "incorrect_answers": [
+            "Marketing offline wykorzystuje wyłącznie media cyfrowe.",
+            "Marketing online polega na dystrybucji fizycznych materiałów promocyjnych.",
+            "Marketing offline jest mniej kosztowny i łatwiejszy do zaimplementowania."
+        ]
+    },
+    {
+        "question": "Co to jest questvertising?",
+        "correct_answer": "Questvertising to forma reklamy polegająca na zadawaniu pytania użytkownikowi dotyczącego reklamy, za co jest nagradzany dostępem do treści.",
+        "incorrect_answers": [
+            "Questvertising to nowa technologia druku 3D w reklamie.",
+            "Questvertising to termin opisujący błędy w kodzie reklamowym.",
+            "Questvertising to strategia oparta na grach wideo."
+        ]
+    },
+    {
+        "question": "Co to jest adblocking?",
+        "correct_answer": "Adblocking to zjawisko blokowania wyświetlania reklam przez użytkowników za pomocą specjalnego oprogramowania.",
+        "incorrect_answers": [
+            "Adblocking to strategia marketingowa oparta na unikaniu reklam.",
+            "Adblocking to proces projektowania reklam mniej nachalnych.",
+            "Adblocking to technika tworzenia reklam, które automatycznie omijają blokery."
+        ]
+    },
+    {
+        "question": "Co to jest remarketing?",
+        "correct_answer": "Remarketing to docieranie z płatną reklamą do użytkowników, którzy już odwiedzili stronę internetową.",
+        "incorrect_answers": [
+            "Remarketing to analiza danych sprzedaży w celu identyfikacji nowych rynków.",
+            "Remarketing to przebrandowanie produktu do nowej grupy demograficznej.",
+            "Remarketing to dystrybucja starych kampanii w nowych mediach."
+        ]
+    },
+    {
+        "question": "Co to jest retargeting?",
+        "correct_answer": "Retargeting to docieranie z reklamą do użytkowników, którzy mieli kontakt z marką w inny sposób niż odwiedziny strony, np. są w bazie klientów.",
+        "incorrect_answers": [
+            "Retargeting to proces przeszkolenia zespołu sprzedaży w nowych technikach.",
+            "Retargeting to cykliczne przeglądy i aktualizacje celów sprzedażowych.",
+            "Retargeting to systematyczna wymiana starych sloganów reklamowych na nowe."
+        ]
+    },
+    {
+        "question": "Co to jest post third party cookie?",
+        "correct_answer": "Post third party cookie to era, w której reklamodawcy nie będą mogli korzystać z ciasteczek stron trzecich do targetowania reklam.",
+        "incorrect_answers": [
+            "Post third party cookie to okres po zakończeniu kampanii wykorzystującej cookies.",
+            "Post third party cookie to technologia ciasteczek, która zastąpiła tradycyjne metody śledzenia.",
+            "Post third party cookie to termin określający nową generację ciasteczek bardziej zgodnych z prywatnością."
+        ]
+    },
+    {
+        "question": "Co to jest kodeks dobrych praktyk programmatic?",
+        "correct_answer": "Kodeks określa standardy i praktyki dla wszystkich uczestników łańcucha programmatic, zapewniając jakość, bezpieczeństwo i przejrzystość w kampaniach.",
+        "incorrect_answers": [
+            "Kodeks dobrych praktyk programmatic to zbiór zaleceń dla programistów reklamowych.",
+            "Kodeks to dokument opisujący etykę pracy w mediach cyfrowych.",
+            "Kodeks dobrych praktyk programmatic to przewodnik po najlepszych narzędziach analitycznych."
+        ]
+    },
+    {
+        "question": "Co to jest QUALID?",
+        "correct_answer": "QUALID to standard jakości w reklamie cyfrowej, obejmujący obszary takie jak brand safety, programmatic, anti-fraud, viewability.",
+        "incorrect_answers": [
+            "QUALID to oprogramowanie do zarządzania jakością w reklamie.",
+            "QUALID to międzynarodowa konferencja poświęcona jakości w mediach cyfrowych.",
+            "QUALID to certyfikat przyznawany agencjom reklamowym za wysokie standardy etyczne."
+        ]
+    },
+    {
+        "question": "Co to jest laddering w kontekście copywritingu?",
+        "correct_answer": "Laddering to technika opisu cech produktu, korzyści funkcjonalnych i emocjonalnych, a także potwierdzenie korzyści poprzez testimoniale, opinie, case studies.",
+        "incorrect_answers": [
+            "Laddering oznacza korzystanie z kreatywnych skrótów w pisaniu tekstów reklamowych.",
+            "Laddering to technika maksymalizacji używania języka korporacyjnego w treści.",
+            "Laddering jest metodą minimalizowania treści w komunikatach marketingowych."
+        ]
+    },
+    {
+        "question": "Co to jest Addressable TV?",
+        "correct_answer": "Addressable TV to możliwość serwowania różnych treści reklamowych dla różnych segmentów odbiorców oglądających ten sam program telewizyjny na dużym ekranie, oparta na specyficznym targetowaniu odbiorców (np. geolokalizacja, demografia).",
+        "incorrect_answers": [
+            "Addressable TV oznacza wykorzystanie technologii satelitarnej do dostarczania treści.",
+            "Addressable TV to technika programowania telewizyjnego skierowana na zoptymalizowanie sygnału cyfrowego.",
+            "Addressable TV to strategia marketingowa wykorzystująca wyłącznie cyfrowe billboardy."
+        ]
+    },
+    {
+        "question": "Co oznacza termin „konwergencja mediów”?",
+        "correct_answer": "Konwergencja mediów odnosi się do upodabniania się form przekazu w różnych mediach, takich jak emisja filmu w TV i streaming telewizji na żywo w internecie.",
+        "incorrect_answers": [
+            "Konwergencja mediów oznacza konsolidację stacji radiowych i telewizyjnych pod jedną marką.",
+            "Konwergencja mediów to spadek popularności tradycyjnych mediów na rzecz nowych technologii.",
+            "Konwergencja mediów oznacza połączenie funkcji telefonów komórkowych z funkcjami mediów społecznościowych."
+        ]
+    },
+    {
+        "question": "Co to jest OTT (Over The Top)?",
+        "correct_answer": "OTT to forma dostarczania treści wideo, audio i innych mediów w internecie z pominięciem dostawcy internetu (np. Spotify, Tidal).",
+        "incorrect_answers": [
+            "OTT (Over-The-Top Television) oznacza nadmierną produkcję treści telewizyjnych i filmowych.",
+            "OTT (Optimal Telecom Technology) to branża telekomunikacyjna skupiająca się na danych i analityce.",
+            "OTT (Online Transmission Technology) to technologia pozwalająca na bezpośrednią komunikację za pomocą internetu bez pośredników."
+        ]
+    },
+    {
+        "question": "Jakie są różnice między VoD, sVOD i AVOD?",
+        "correct_answer": "VoD to wideo na żądanie, sVOD to subskrypcyjna wersja VoD, a AVOD to usługi wideo na żądanie finansowane z reklam.",
+        "incorrect_answers": [
+            "VoD dotyczy transmisji wideo na żywo, sVOD obejmuje tylko seriale, a AVOD jest dedykowany dla filmów.",
+            "VoD jest bezpłatny, sVOD wymaga miesięcznej subskrypcji, a AVOD jest wspierany przez reklamy.",
+            "VoD jest dostępny na żądanie, sVOD obsługuje więcej użytkowników jednocześnie, a AVOD pozwala na oglądanie bez dostępu do sieci."
+        ]
+    },
+    {
+        "question": "Co to jest HbbTV?",
+        "correct_answer": "HbbTV (Hybrid Broadcast Broadband TV) to standard telewizji hybrydowej łączący emisję sygnałów telewizyjnych z multimedialnymi treściami dostarczanymi przez internet.",
+        "incorrect_answers": [
+            "HbbTV (Hybrid Bluetooth-based Television) to technologia umożliwiająca oglądanie telewizji za pomocą technologii Bluetooth.",
+            "HbbTV (Hybrid Broadcast Broadband TV ) to usługa telewizji cyfrowej zapewniająca dostęp do programów na żądanie.",
+            "HbbTV (Hybrid Broadcast-Based TeleVoting) to interaktywna platforma dla widzów umożliwiająca głosowanie w czasie rzeczywistym."
+        ]
+    },
+    {
+        "question": "Co oznacza pojęcie „zasięg inkrementalny”?",
+        "correct_answer": "Zasięg inkrementalny to dodatkowy zasięg kampanii wygenerowany np. poza TV, opisujący procent konsumentów, do których kampania dotarła wyłącznie kanałem internetowym.",
+        "incorrect_answers": [
+            "Zasięg inkrementalny to metryka w mediach społecznościowych mierząca zasięg poza zaplanowanymi postami.",
+            "Zasięg inkrementalny to wzrost zasięgu kampanii po wprowadzeniu zmian w jej treści.",
+            "Zasięg inkrementalny mierzy efektywność kampanii w docieraniu do nowych, niewykorzystanych dotąd grup odbiorców."
+        ]
+    },
+    {
+        "question": "Co to jest bitrate w kontekście transmisji cyfrowej?",
+        "correct_answer": "Bitrate to prędkość transmisji cyfrowej, gdzie wyższy bitrate oznacza lepszą jakość filmu, ale większy plik.",
+        "incorrect_answers": [
+            "Bitrate to ilość danych przesłanych przez sieć w ciągu sekundy.",
+            "Bitrate mierzy poziom kompresji danych w plikach multimedialnych.",
+            "Bitrate to stosunek długości filmu do jego rozmiaru pliku."
+        ]
+    },
+    {
+        "question": "Jakie są różnice między jakością HD a 4K?",
+        "correct_answer": "HD to rozdzielczość video 720p lub 1080p, natomiast 4K to wyższy standard rozdzielczości filmów cyfrowych, czterokrotnie większy od Full HD.",
+        "incorrect_answers": [
+            "HD jest przeznaczone głównie dla telewizorów, a 4K jest najlepsze dla monitorów komputerowych gdzie odwzorowanie kolorów jast bardzo istotne.",
+            "HD to skompresowany format przysyłu obrazu, który używa mniej danych do przesyłania, a 4K jest bardziej wymagające pod względem prędkości internetu.",
+            "HD jest standardem w telewizji kablowej, a 4K jest używane wyłącznie w domowych salach kinowch, gdzie dzięki bardzo wysokiej rozdzielczoci jakość obrazu jest bardzo wysoka."
+        ]
+    },
+    {
+        "question": "Co to jest sVOD?",
+        "correct_answer": "sVOD (subscription Video On Demand) to pakiet oferujący dostęp do pełnej, płatnej biblioteki VoD lub do wybranej części.",
+        "incorrect_answers": [
+            "sVOD (Single-payment Video On Demand) to model biznesowy bazujący na jednorazowych opłatach za dostęp do treści.",
+            "sVOD (Standard Video Output Device) to format plików wideo, który jest kompatybilny z większością odtwarzaczy.",
+            "sVOD (Studio Video Output Definition) to standard kodowania wideo stosowany w przemyśle filmowym."
+        ]
+    },
+    {
+        "question": "Jakie są formaty reklam wideo?",
+        "correct_answer": "In-stream, In-banner/in-page, Out-stream, Bumper Ads, Masthead.",
+        "incorrect_answers": [
+            "Formaty reklam wideo to głównie MP4, AVI, i MOV.",
+            "Formaty reklam wideo różnią się głównie typem i wielkością pliku.",
+            "Reklamy wideo są zazwyczaj w formatach podobnych do reklam radiowych."
+        ]
+    },
+    {
+        "question": "Co to jest UX (User Experience)?",
+        "correct_answer": "UX to doświadczenie użytkownika, czyli jak użytkownik odbiera i korzysta z produktu lub usługi.",
+        "incorrect_answers": [
+            "User eXperience Toolkit odnosi się do narzędzi programistycznych używanych do budowania interfejsów użytkownika.",
+            "UX (Uploading Xpress) to termin techniczny określający prędkość ładowania strony internetowej.",
+            "UX to skrót od 'User eXchange', co oznacza wymianę informacji między użytkownikami."
+        ]
+    },
+    {
+        "question": "Co oznacza termin „usability” według normy ISO 9241?",
+        "correct_answer": "Usability to skuteczność, wydajność i satysfakcja użytkownika podczas korzystania z produktu.",
+        "incorrect_answers": [
+            "Usability to termin opisujący bezpieczeństwo danych użytkownika w systemie.",
+            "Usability odnosi się do uniwersalnej dostępności aplikacji na różnych urządzeniach.",
+            "Usability to cecha systemów operacyjnych, nie produktów cyfrowych."
+        ]
+    },
+    {
+        "question": "Co jest celem optymalizacji UX?",
+        "correct_answer": "Eliminacja potencjalnych problemów z użyciem produktu.",
+        "incorrect_answers": [
+            "Zwiększenie sprzedaży poprzez marketing internetowy.",
+            "Integracja produktu z najnowszymi technologiami sztucznej inteligencji.",
+            "Rozwój interaktywnych elementów, które przyciągają uwagę użytkowników."
+        ]
+    },
+    {
+        "question": "Czym zajmuje się UX designer?",
+        "correct_answer": "Projektowaniem i optymalizacją doświadczenia użytkownika poprzez tworzenie klikalnych prototypów i wireframe’ów.",
+        "incorrect_answers": [
+            "Tworzeniem grafiki i animacji dla aplikacji mobilnych.",
+            "Programowaniem aplikacji zgodnie z zasadami odpowiedniego kodowania.",
+            "Analizowaniem danych ruchu na stronie dla marketingu cyfrowego."
+        ]
+    },
+    {
+        "question": "Co to jest wireframe?",
+        "correct_answer": "Wireframe to statyczna makieta ilustrująca kształt docelowego rozwiązania w odcieniach szarości.",
+        "incorrect_answers": [
+            "Wireframe to proces tworzenia graficznego szkicu aplikacji.",
+            "Wireframe to wstępny szkic użytkownika, opisujący jego potencjalne ścieżki na stronie.",
+            "Wireframe to technika programowania używana do tworzenia struktury baz danych."
+        ]
+    },
+    {
+        "question": "Co to jest prototyp w kontekście UX?",
+        "correct_answer": "Prototyp to symulacja ostatecznej wersji produktu tworzona na potrzeby testów i weryfikacji założeń.",
+        "incorrect_answers": [
+            "Prototyp to wersja produktu używana wyłącznie wewnętrznie przez zespoły developerskie.",
+            "Prototyp to ostateczny produkt sprzedawany klientowi przed oficjalnym uruchomieniem.",
+            "Prototyp to dokument opisujący funkcjonalności produktu przed jego zaprojektowaniem."
+        ]
+    },
+    {
+        "question": "Jakie narzędzia są używane do prototypowania?",
+        "correct_answer": "UXPin, Axure RP, Invision, Marvel.",
+        "incorrect_answers": [
+            "Google Analytics, Adobe Photoshop, Sketch.",
+            "Java, Python, C# w kontekście tworzenia frameworków.",
+            "Microsoft Word, Google Docs, Sheets."
+        ]
+    },
+    {
+        "question": "Co to jest test użyteczności według Steve’a Kruga?",
+        "correct_answer": "Test polega na ocenie, czy użytkownik szybko odnajduje kluczowe elementy strony internetowej.",
+        "incorrect_answers": [
+            "Test skupia się na estetyce strony, jak postrzegana jest przez nowych użytkowników.",
+            "Test obejmuje badanie, jak szybko strona ładuje się na różnych urządzeniach.",
+            "Test używa zaawansowanych algorytmów do śledzenia ruchu myszy na stronie."
+        ]
+    },
+    {
+        "question": "Co to jest ocena heurystyczna?",
+        "correct_answer": "Ocena heurystyczna to technika badania użyteczności strony oparta na liście „dobrych praktyk” – heurystyk.",
+        "incorrect_answers": [
+            "Ocena heurystyczna to algorytm oceniający szybkość reakcji aplikacji.",
+            "Ocena heurystyczna to system oceniania efektywności kampanii reklamowych.",
+            "Ocena heurystyczna to metoda szacowania kosztów projektów IT."
+        ]
+    },
+    {
+        "question": "Wymień przykłady heurystyk Jakoba Nielsena.",
+        "correct_answer": "Pokazywanie statusu systemu, zgodność systemu z rzeczywistością, zapewnienie pełnej kontroli użytkownika.",
+        "incorrect_answers": [
+            "Zarządzanie bazami danych, szybkość przetwarzania, redundancja danych.",
+            "Minimalizm w projektowaniu, maksymalizacja zysków, optymalizacja kosztów.",
+            "Skalowalność rozwiązań, zrównoważony rozwój, dostępność globalna."
+        ]
+    },
+    {
+        "question": "Co to jest content marketing?",
+        "correct_answer": "Content marketing to strategiczne podejście do marketingu polegające na tworzeniu i dystrybucji wartościowych treści dla zdefiniowanego odbiorcy.",
+        "incorrect_answers": [
+            "Content marketing to promowanie treści przez płatne reklamy w mediach tradycyjnych.",
+            "Content marketing to bezpośrednia sprzedaż produktów poprzez internetowe kanały.",
+            "Content marketing to tworzenie grafik i logo dla firm bez strategicznego planowania."
+        ]
+    },
+    {
+        "question": "Jakie są główne cele content marketingu?",
+        "correct_answer": "Przyciąganie i utrzymywanie uwagi ściśle określonej grupy docelowej oraz budowanie lojalności wobec marki.",
+        "incorrect_answers": [
+            "Generowanie szybkich sprzedaży poprzez kampanie reklamowe.",
+            "Rekrutacja nowych pracowników przez platformy z treściami wideo.",
+            "Tworzenie wirusowego kontentu dla szybkiego rozprzestrzeniania informacji."
+        ]
+    },
+    {
+        "question": "Co to jest prosument?",
+        "correct_answer": "Prosument to konsument zaangażowany we współtworzenie i promowanie produktów ulubionej marki lub w jednoczesną produkcję i konsumpcję dóbr lub usług.",
+        "incorrect_answers": [
+            "Prosument to konsument, który kupuje produkty tylko przez internet.",
+            "Prosument to profesjonalny konsument pracujący w branży reklamowej.",
+            "Prosument to konsument prowadzący bloga na temat zakupionych produktów."
+        ]
+    },
+    {
+        "question": "Jakie są rodzaje treści w content marketingu?",
+        "correct_answer": "Artykuły, posty na blogu, infografiki, wideo, e-booki, podcasty.",
+        "incorrect_answers": [
+            "Płatne reklamy w telewizji, radiu i na bilbordach.",
+            "Teksty prawne i dokumentacja techniczna dla urządzeń.",
+            "Treści generowane automatycznie przez AI bez udziału człowieka."
+        ]
+    },
+    {
+        "question": "Co to jest storytelling w marketingu?",
+        "correct_answer": "Storytelling to technika marketingowa polegająca na opowiadaniu historii, która ma na celu budowanie emocjonalnego związku z marką.",
+        "incorrect_answers": [
+            "Storytelling to codzienne opowiadanie o działaniach firmy na blogu.",
+            "Storytelling to publikowanie krótkich, humorystycznych postów na Twitterze.",
+            "Storytelling to technika sprzedaży bezpośredniej podczas prezentacji produktu."
+        ]
+    },
+    {
+        "question": "Co oznacza zasada „Content is King, distribution is Queen”?",
+        "correct_answer": "Oznacza to, że jakość treści jest kluczowa, ale równie ważne jest ich skuteczne dystrybuowanie.",
+        "incorrect_answers": [
+            "To odniesienie do podziału zadań w zespole marketingowym.",
+            "To stwierdzenie, że dobra treść nie potrzebuje dodatkowej promocji.",
+            "To powiedzenie mówiące, że treść jest ważniejsza od kontekstu."
+        ]
+    },
+    {
+        "question": "Jakie są kanały dystrybucji treści w content marketingu?",
+        "correct_answer": "Media społecznościowe, blogi, strony internetowe, e-maile, serwisy wertykalne i horyzontalne.",
+        "incorrect_answers": [
+            "Konferencje branżowe, seminaria, spotkania networkingowe.",
+            "Dystrybucja ulotek, broszur i innych materiałów drukowanych.",
+            "Wyłącznie płatne kampanie w mediach społecznościowych."
+        ]
+    },
+    {
+        "question": "Co to jest real-time marketing (RTM)?",
+        "correct_answer": "RTM to forma komunikacji marketingowej polegająca na szybkim reagowaniu na aktualne wydarzenia poprzez tworzenie angażujących treści.",
+        "incorrect_answers": [
+            "RTM to strategia marketingowa polegająca na stałym przesyłaniu reklam użytkownikom.",
+            "RTM to wykorzystywanie automatycznych systemów do zarządzania treścią.",
+            "RTM to nadawanie reklam w czasie rzeczywistym tylko podczas dużych wydarzeń."
+        ]
+    },
+    {
+        "question": "Jakie są dobre praktyki tworzenia treści w internecie?",
+        "correct_answer": "Tworzenie użytecznych, interesujących treści, stosowanie słów kluczowych, struktura tekstu z nagłówkami, pogrubienia, i wypunktowania.",
+        "incorrect_answers": [
+            "Tworzenie treści, które są wyłącznie promocyjne i sprzedażowe.",
+            "Użycie jak najwięcej technicznego jargonu, aby zaimponować fachowością.",
+            "Skupienie się na ilości treści kosztem ich jakości."
+        ]
+    },
+    {
+        "question": "Co to jest webwriting?",
+        "correct_answer": "Webwriting to sztuka pisania treści przeznaczonych do publikacji w internecie, dostosowanych do specyfiki tego medium.",
+        "incorrect_answers": [
+            "Webwriting to kopiowanie treści z innych stron internetowych.",
+            "Webwriting to pisanie kodów HTML i CSS dla stron internetowych.",
+            "Webwriting to tworzenie automatycznych odpowiedzi dla chatbotów."
+        ]
+    },
+    {
+        "question": "Czym jest „inverted pyramid” w kontekście webwritingu?",
+        "correct_answer": "Jest to zasada, według której najważniejsze informacje są umieszczane na początku tekstu, a mniej istotne na końcu.",
+        "incorrect_answers": [
+            "Jest to strategia polegająca na zwiększaniu ilości informacji na końcu tekstu.",
+            "Jest to struktura tekstu, gdzie najmniej istotne informacje znajdują się na początku.",
+            "Jest to technika pisania, gdzie każdy akapit jest ważniejszy od poprzedniego."
+        ]
+    },
+    {
+        "question": "Co to jest „F-shaped pattern” w czytaniu treści w internecie?",
+        "correct_answer": "Jest to wzór, w którym użytkownicy skanują stronę w kształcie litery F – najpierw poziomo na górze, potem wzdłuż lewego boku.",
+        "incorrect_answers": [
+            "Jest to wzór, gdzie treść jest czytana od środka strony do jej brzegów.",
+            "Jest to metoda, gdzie użytkownicy czytają tylko pierwsze zdanie każdego akapitu.",
+            "Jest to formatowanie tekstu na stronie, które układa treść w kształcie litery F."
+        ]
+    },
+    {
+        "question": "Co to jest Above The Fold (ATF)?",
+        "correct_answer": "ATF to część strony internetowej widoczna dla użytkownika bez konieczności scrollowania.",
+        "incorrect_answers": [
+            "ATF to technika projektowania stron, gdzie treść jest ukryta do momentu przewinięcia.",
+            "ATF to górna część strony używana wyłącznie do reklam.",
+            "ATF to obszar strony, który jest najczęściej ignorowany przez użytkowników."
+        ]
+    },
+    {
+        "question": "Co to jest Below The Fold (BTF)?",
+        "correct_answer": "BTF to część strony internetowej widoczna dopiero po przewinięciu strony w dół.",
+        "incorrect_answers": [
+            "BTF to technika SEO skupiająca się na treści umieszczonej u dołu strony.",
+            "BTF to obszar strony, który jest najmniej rentowny dla reklamodawców.",
+            "BTF to dolna część strony, gdzie umieszcza się mniej istotne linki nawigacyjne."
+        ]
+    },
+    {
+        "question": "Jakie są kluczowe elementy skutecznego nagłówka?",
+        "correct_answer": "Prostota, jasność przekazu, unikalność, konkretność, przydatność.",
+        "incorrect_answers": [
+            "Skomplikowane słownictwo, długie zdania, ogólnikowe stwierdzenia.",
+            "Duża liczba słów kluczowych, bez względu na kontekst czy czytelność.",
+            "Wyłącznie pytania retoryczne, niezależnie od treści artykułu."
+        ]
+    },
+    {
+        "question": "Co to jest reklama display?",
+        "correct_answer": "Reklama display to forma reklamy internetowej obejmująca grafiki, wideo, lub animacje wyświetlane na stronach internetowych.",
+        "incorrect_answers": [
+            "Reklama display to każda forma reklamy drukowanej.",
+            "Reklama display obejmuje wyłącznie statyczne banery reklamowe.",
+            "Reklama display to emisja reklam tylko w aplikacjach mobilnych."
+        ]
+    },
+    {
+        "question": "Jakie są rodzaje reklam display?",
+        "correct_answer": "Billboard, DoubleBillboard, TripleBillboard, Skyscraper, Halfpage, Rectangle, Interstitial, Top Layer.",
+        "incorrect_answers": [
+            "Papierowa, zewnętrzna, radiowa, telewizyjna.",
+            "Tylko wielkoformatowe reklamy zewnętrzne.",
+            "Reklamy display są wyłącznie animowane i wideo."
+        ]
+    },
+    {
+        "question": "Co to jest programmatic?",
+        "correct_answer": "Programmatic to zautomatyzowana metoda zakupu i sprzedaży reklamy online, oparta na technologii.",
+        "incorrect_answers": [
+            "Programmatic to tradycyjny sposób zakupu czasu antenowego w telewizji.",
+            "Programmatic to bezpośrednia sprzedaż przestrzeni reklamowej.",
+            "Programmatic to system wymiany reklam wykorzystujący wyłącznie kontakty bezpośrednie."
+        ]
+    },
+    {
+        "question": "Co to jest Real-Time Bidding (RTB)?",
+        "correct_answer": "RTB to metoda zakupu reklamy w czasie rzeczywistym, w której powierzchnia reklamowa jest sprzedawana w aukcji podczas ładowania strony internetowej.",
+        "incorrect_answers": [
+            "RTB to system kupowania reklam tygodnie lub miesiące przed ich emisją.",
+            "RTB to metoda, gdzie reklama jest sprzedawana w pakietach z innymi usługami.",
+            "RTB to negocjacje cen reklam prowadzone bezpośrednio z reklamodawcami."
+        ]
+    },
+    {
+        "question": "Co to jest Floor Price w kontekście reklamy programmatic?",
+        "correct_answer": "Floor Price to minimalna cena ustalona przez wydawcę, poniżej której nie sprzedaje się powierzchni reklamowej.",
+        "incorrect_answers": [
+            "Floor Price to maksymalna cena, jaką reklamodawca jest skłonny zapłacić.",
+            "Floor Price to standardowa stawka za reklamę bez możliwości negocjacji.",
+            "Floor Price to cena wywoławcza na aukcji reklam."
+        ]
+    },
+    {
+        "question": "Co to jest viewability w kontekście reklamy online?",
+        "correct_answer": "Viewability to miara widoczności reklamy na ekranie użytkownika, np. co najmniej 50% pikseli reklamy musi być widoczne przez min. 1 sekundę.",
+        "incorrect_answers": [
+            "Viewability to pomiar zasięgu reklamy niezależnie od jej widoczności na ekranie.",
+            "Viewability to stopień interakcji z reklamą, w tym kliknięcia i konwersje.",
+            "Viewability to statystyka pokazująca jedynie procent odsłon reklamy."
+        ]
+    },
+    {
+        "question": "Jakie są standardy reklamy display?",
+        "correct_answer": "Różne formaty reklam, takie jak Billboard, Skyscraper, Rectangle, Expand baner, Interstitial, Top Layer.",
+        "incorrect_answers": [
+            "Standardy ograniczone wyłącznie do statycznych reklam tekstowych.",
+            "Tylko reklamy tekstowe bez grafik lub animacji.",
+            "Standardy wykluczające dynamiczne lub interaktywne formy reklam."
+        ]
+    },
+    {
+        "question": "Co to jest brand safety?",
+        "correct_answer": "Brand safety to działania mające na celu zabezpieczenie marki przed negatywnym wpływem otoczenia, w którym wyświetlana jest jej reklama.",
+        "incorrect_answers": [
+            "Brand safety to strategia wyboru tylko bezpiecznych, zweryfikowanych platform reklamowych.",
+            "Brand safety to unikanie kontrowersyjnych tematów w treściach reklam.",
+            "Brand safety to działania ograniczające reklamy do niewielkiego, kontrolowanego kręgu odbiorców."
+        ]
+    },
+    {
+        "question": "Co to jest adfraud?",
+        "correct_answer": "Adfraud to oszustwo reklamowe polegające na generowaniu fałszywych kliknięć lub wyświetleń reklamy.",
+        "incorrect_answers": [
+            "Adfraud to strategia marketingowa mająca na celu zwiększenie zasięgu reklam.",
+            "Adfraud to legalne użycie botów do testowania skuteczności reklam.",
+            "Adfraud to wykorzystanie reklam do zbierania danych bez zgody użytkowników."
+        ]
+    },
+    {
+        "question": "Jakie są rodzaje danych wykorzystywanych w programmatic?",
+        "correct_answer": "1st party data (dane własne), 2nd party data (dane udostępnione przez partnerów), 3rd party data (dane zebrane i udostępniane przez specjalistyczne firmy).",
+        "incorrect_answers": [
+            "Tylko dane demograficzne i psychograficzne użytkowników.",
+            "Dane zbierane wyłącznie przez zewnętrzne agencje bez udziału reklamodawcy.",
+            "Informacje pozyskiwane tylko z mediów społecznościowych."
+        ]
+    },
+    {
+        "question": "Co to jest CTR i jak się go oblicza?",
+        "correct_answer": "Click Through Ratio, obliczany jako liczba kliknięć w reklamę podzielona przez liczbę wyświetleń reklamy, pomnożona przez 100% .",
+        "incorrect_answers": [
+          "Cost-to-Response Ratio wskaźnik efektywności wydatków na reklamę, obliczany przez podzielenie kosztów przez kliknięcia.",
+          "Conversion Tracking Rate określa liczbę konwersji podzieloną przez liczby wyświetleń, mnożoną przez 100%.",
+          "Content to Reach Ratio to wskaźnik oceny treści reklamowej, bazujący na stosunku wyświetleń do osiągniętego zasięgu."
+        ]
+      },
+      {
+        "question": "Co oznacza wskaźnik CR i jak się go oblicza?",
+        "correct_answer": "CR to Conversion Rate, obliczany jako stosunek liczby konwersji do liczby kliknięć, wyrażony w procentach .",
+        "incorrect_answers": [
+          "CR to Click Ratio, wskaźnik kliknięć na stronie.",
+          "CR to Conversion Rate Miscalculation, oblicza się przez podzielenie liczby wyświetleń przez konwersje.",
+          "CR to Campaign Reach, wskaźnik efektywności wyświetleń reklam."
+        ]
+      },
+      {
+        "question": "Co to jest reklama display?",
+        "correct_answer": "Reklama display to forma reklamy internetowej obejmująca grafiki, wideo, lub animacje wyświetlane na stronach internetowych.",
+        "incorrect_answers": [
+          "Reklama display odnosi się wyłącznie do fizycznych reklam wyświetlanych na billboardach i plakatach.",
+          "Reklama display to specyficzna forma marketingu bezpośredniego dotycząca tylko kampanii e-mailowych.",
+          "Reklama display to wyłącznie reklamy tekstowe prezentowane na portalach informacyjnych."
+        ]
+      },
+      {
+        "question": "Jakie są rodzaje reklam display?",
+        "correct_answer": "Billboard, DoubleBillboard, TripleBillboard, Skyscraper, Halfpage, Rectangle, Interstitial, Top Layer.",
+        "incorrect_answers": [
+          "Reklamy display to głównie reklamy świetlne, które pojawiają się na zewnątrz budynków.",
+          "Reklamy display ograniczają się tylko do banerów reklamowych i pop-upów.",
+          "Reklamy display obejmują wyłącznie reklamy tekstowe i reklamy typu banner."
+        ]
+      },
+      {
+        "question": "Co to jest programmatic?",
+        "correct_answer": "Programmatic to zautomatyzowana metoda zakupu i sprzedaży reklamy online, oparta na technologii.",
+        "incorrect_answers": [
+          "Programmatic to ręczne planowanie i kupowanie przestrzeni reklamowej w tradycyjnych mediach.",
+          "Programmatic to metoda bezpośredniego zakupu reklam od wydawców bez wykorzystania technologii.",
+          "Programmatic to prosty system wymiany reklam między dwoma stronami bez zastosowania algorytmów."
+        ]
+      },
+      {
+        "question": "Co to jest Real-Time Bidding (RTB)?",
+        "correct_answer": "RTB to metoda zakupu reklamy w czasie rzeczywistym, w której powierzchnia reklamowa jest sprzedawana w aukcji podczas ładowania strony internetowej.",
+        "incorrect_answers": [
+          "RTB to metoda sprzedaży reklam z wyprzedzeniem, planowana na kilka miesięcy przed publikacją.",
+          "RTB to technika negocjowania cen za reklamę bezpośrednio z wydawcami i bez aukcji.",
+          "RTB to system zamawiania reklam tylko przez specjalne oprogramowanie bez aukcji."
+        ]
+      },
+      {
+        "question": "Co to jest Floor Price w kontekście reklamy programmatic?",
+        "correct_answer": "Floor Price to minimalna cena ustalona przez wydawcę, poniżej której nie sprzedaje się powierzchni reklamowej.",
+        "incorrect_answers": [
+          "Floor Price to sugerowana maksymalna cena za reklamę, którą można negocjować.",
+          "Floor Price to średnia cena za jednostkę reklamową w danej sieci reklamowej.",
+          "Floor Price to minimalna stawka za reklamę, ustalana tylko dla największych kampanii."
+        ]
+      },
+      {
+        "question": "Co to jest viewability w kontekście reklamy online?",
+        "correct_answer": "Viewability to miara widoczności reklamy na ekranie użytkownika, np. co najmniej 50% pikseli reklamy musi być widoczne przez min. 1 sekundę.",
+        "incorrect_answers": [
+          "Viewability mierzy liczbę wyświetleń strony, na której umieszczona jest reklama, bez względu na jej widoczność.",
+          "Viewability to stopień zaangażowania użytkownika z reklamą, mierzony przez czas spędzony na stronie.",
+          "Viewability to odsetek osób, które kliknęły reklamę w stosunku do liczby, które ją zobaczyły."
+        ]
+      },
+      {
+        "question": "Jakie są standardy reklamy display?",
+        "correct_answer": "Różne formaty reklam, takie jak Billboard, Skyscraper, Rectangle, Expand baner, Interstitial, Top Layer.",
+        "incorrect_answers": [
+          "Standardy są ustalane indywidualnie przez każdego reklamodawcę i nie obejmują formatów interaktywnych.",
+          "Standardy obejmują tylko proste animacje bez interakcji użytkownika.",
+          "Standardy reklamy display ograniczają się do prostych reklam tekstowych bez grafik."
+        ]
+      },
+      {
+        "question": "Co to jest brand safety?",
+        "correct_answer": "Brand safety to działania mające na celu zabezpieczenie marki przed negatywnym wpływem otoczenia, w którym wyświetlana jest jej reklama.",
+        "incorrect_answers": [
+          "Brand safety to strategia marketingowa skupiona na tworzeniu bezpiecznych reklam, które nie zawierają ryzykownych treści.",
+          "Brand safety to wybór platform reklamowych, które gwarantują 100% widoczności reklamy.",
+          "Brand safety to filtracja treści na stronach, gdzie wyświetlane są reklamy, by unikać kontrowersji."
+        ]
+      },
+      {
+        "question": "Co to jest adfraud?",
+        "correct_answer": "Adfraud to oszustwo reklamowe polegające na generowaniu fałszywych kliknięć lub wyświetleń reklamy.",
+        "incorrect_answers": [
+          "Adfraud to legalne wykorzystanie danych użytkowników do optymalizacji kampanii reklamowych.",
+          "Adfraud to zastosowanie zaawansowanych technik SEO do zwiększenia widoczności reklam.",
+          "Adfraud to system monitorowania reklam, który zapobiega nadużyciom w branży."
+        ]
+      },
+      {
+        "question": "Jakie są rodzaje danych wykorzystywanych w programmatic?",
+        "correct_answer": "1st party data (dane własne), 2nd party data (dane udostępnione przez partnerów), 3rd party data (dane zebrane i udostępniane przez specjalistyczne firmy).",
+        "incorrect_answers": [
+          "Tylko dane anonimowe zbierane z publicznych źródeł, bez możliwości identyfikacji użytkowników.",
+          "Dane pozyskiwane wyłącznie z zewnętrznych baz danych, bez wiedzy użytkowników.",
+          "Informacje zbierane bezpośrednio z interakcji z reklamami, bez dodatkowych danych kontekstowych."
+        ]
+      }
+      
+]
