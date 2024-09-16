@@ -334,7 +334,7 @@
       },
       {
         "question": "Co to jest CPM i jak się go oblicza?",
-        "correct_answer": "Cost Per Mille, czyli koszt za 1000 wyświetleń reklamy, obliczany jako całkowity koszt kampanii podzielony przez liczbę tysięcy wyświetleń .",
+        "correct_answer": "Cost Per Mille, czyli koszt za 1000 wyświetleń reklamy, obliczany jako całkowity koszt kampanii podzielony przez liczbę tysięcy wyświetleń.",
         "incorrect_answers": [
           "CPM to Cost Per Millestone sposób mierzenia liczby konwersji na stronie, obliczany jako stosunek konwersji do wyświetleń dla kluczowycg progów.",
           "CPM oblicza się dzieląc liczbę wyświetleń przez koszt kampanii, dając wynik w złotych.",
@@ -343,7 +343,7 @@
       },
       {
         "question": "Jak działa adserwer w kontekście kampanii reklamowych online?",
-        "correct_answer": "Adserwer to system informatyczny umożliwiający emisję, zarządzanie i analizę wyników kampanii reklamowych .",
+        "correct_answer": "Adserwer to system informatyczny umożliwiający emisję, zarządzanie i analizę wyników kampanii reklamowych.",
         "incorrect_answers": [
           "Adserwer to urządzenie fizyczne do przechowywania danych reklamowych, używane głównie w telewizji.",
           "Adserwer to oprogramowanie do generowania treści reklamowych, które tworzy grafiki i teksty.",
@@ -1791,7 +1791,7 @@
     },
     {
         "question": "Co to jest CTR i jak się go oblicza?",
-        "correct_answer": "Click Through Ratio, obliczany jako liczba kliknięć w reklamę podzielona przez liczbę wyświetleń reklamy, pomnożona przez 100% .",
+        "correct_answer": "Click Through Ratio, obliczany jako liczba kliknięć w reklamę podzielona przez liczbę wyświetleń reklamy, pomnożona przez 100%.",
         "incorrect_answers": [
           "Cost-to-Response Ratio wskaźnik efektywności wydatków na reklamę, obliczany przez podzielenie kosztów przez kliknięcia.",
           "Conversion Tracking Rate określa liczbę konwersji podzieloną przez liczby wyświetleń, mnożoną przez 100%.",
@@ -1800,7 +1800,7 @@
       },
       {
         "question": "Co oznacza wskaźnik CR i jak się go oblicza?",
-        "correct_answer": "CR to Conversion Rate, obliczany jako stosunek liczby konwersji do liczby kliknięć, wyrażony w procentach .",
+        "correct_answer": "CR to Conversion Rate, obliczany jako stosunek liczby konwersji do liczby kliknięć, wyrażony w procentach.",
         "incorrect_answers": [
           "CR to Click Ratio, wskaźnik kliknięć na stronie.",
           "CR to Conversion Rate Miscalculation, oblicza się przez podzielenie liczby wyświetleń przez konwersje.",
