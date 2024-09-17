@@ -144,16 +144,16 @@
         ]
     },
     {
-        "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM?",
-        "correct_answer": "5 zł.",
+        "question": "W kampanii uzyskano 2\u00A0000\u00A0000 wyświetleń przy koszcie 10\u00A0000\u00A0zł. Jaki był CPM?",
+        "correct_answer": "5\u00A0zł.",
         "incorrect_answers": [
-          "3 zł",
-          "7 zł",
-          "1 zł"
+          "3\u00A0zł",
+          "7\u00A0zł",
+          "1\u00A0zł"
         ]
       },
       {
-        "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?",
+        "question": "Kampania wygenerowała 150\u00A0000\u00A0zł przychodu przy koszcie 30\u00A0000\u00A0zł. Jaki był ROI?",
         "correct_answer": "400%.",
         "incorrect_answers": [
           "200%",
@@ -162,7 +162,7 @@
         ]
       },
       {
-        "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
+        "question": "Jeśli kampania uzyskała 10\u00A0000 kliknięć przy 500\u00A0000 wyświetleń, jaki był CTR?",
         "correct_answer": "2%",
         "incorrect_answers": [
           "1%",
@@ -171,25 +171,25 @@
         ]
       },
       {
-        "question": "Koszt kampanii wyniósł 5000 zł, a pozyskano 100 leadów. Jaki był CPL?",
-        "correct_answer": "50 zł",
+        "question": "Koszt kampanii wyniósł 5000\u00A0zł, a pozyskano 100 leadów. Jaki był CPL?",
+        "correct_answer": "50\u00A0zł",
         "incorrect_answers": [
-          "20 zł",
-          "100 zł",
-          "75 zł"
+          "20\u00A0zł",
+          "100\u00A0zł",
+          "75\u00A0zł"
         ]
       },
       {
-        "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000 zł, a liczba odsłon to 500 000?",
-        "correct_answer": "2 zł",
+        "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000\u00A0zł, a liczba odsłon to 500\u00A0000?",
+        "correct_answer": "2\u00A0zł",
         "incorrect_answers": [
-          "1 zł",
-          "4 zł",
-          "2.5 zł"
+          "1\u00A0zł",
+          "4\u00A0zł",
+          "2.5\u00A0zł"
         ]
       },
       {
-        "question": "Kampania uzyskała 100 000 wyświetleń i 500 kliknięć. Jaki był CTR?",
+        "question": "Kampania uzyskała 100\u00A0000 wyświetleń i 500 kliknięć. Jaki był CTR?",
         "correct_answer": "0,5%",
         "incorrect_answers": [
           "0,3%",
@@ -198,7 +198,7 @@
         ]
       },
       {
-        "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
+        "question": "Koszt kampanii wyniósł 50\u00A0000\u00A0zł, a wygenerowano 250\u00A0000\u00A0zł przychodu. Jaki był ROAS?. ROAS to wskaźnik, który mierzy efektywność wydatków reklamowych, obliczany jako stosunek przychodów do kosztów kampanii.",
         "correct_answer": "500%",
         "incorrect_answers": [
           "300%",
@@ -207,16 +207,16 @@
         ]
       },
       {
-        "question": "W kampanii uzyskano 2 000 000 wyświetleń przy koszcie 10 000 zł. Jaki był CPM? CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
-        "correct_answer": "5 zł",
+        "question": "W kampanii uzyskano 2\u00A0000\u00A0000 wyświetleń przy koszcie 10\u00A0000\u00A0zł. Jaki był CPM? CPM to koszt za 1000 wyświetleń reklamy, obliczony poprzez podzielenie łącznego kosztu kampanii przez liczbę tysięcy wyświetleń.",
+        "correct_answer": "5\u00A0zł",
         "incorrect_answers": [
-          "50 zł",
-          "8 zł",
-          "10 zł"
+          "50\u00A0zł",
+          "8\u00A0zł",
+          "10\u00A0zł"
         ]
       },
       {
-        "question": "Kampania wygenerowała 150 000 zł przychodu przy koszcie 30 000 zł. Jaki był ROI?. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
+        "question": "Kampania wygenerowała 150\u00A0000\u00A0zł przychodu przy koszcie 30\u00A0000\u00A0zł. Jaki był ROI?. ROI mierzy zwrot z inwestycji, obliczany jako stosunek zysków do kosztów, wyrażony w procentach.",
         "correct_answer": "400%",
         "incorrect_answers": [
           "300%",
@@ -225,7 +225,7 @@
         ]
       },
       {
-        "question": "Jeśli kampania uzyskała 10 000 kliknięć przy 500 000 wyświetleń, jaki był CTR?",
+        "question": "Jeśli kampania uzyskała 10\u00A0000 kliknięć przy 500\u00A0000 wyświetleń, jaki był CTR?",
         "correct_answer": "2%",
         "incorrect_answers": [
           "1.5%",
@@ -234,25 +234,25 @@
         ]
       },
       {
-        "question": "Koszt kampanii wyniósł 34000 zł, a pozyskano 200 leadów. Jaki był CPL?. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
-        "correct_answer": "170 zł",
+        "question": "Koszt kampanii wyniósł 34000\u00A0zł, a pozyskano 200 leadów. Jaki był CPL?. CPL to koszt pozyskania jednego leada, obliczany poprzez podzielenie łącznego kosztu kampanii przez liczbę leadów.",
+        "correct_answer": "170\u00A0zł",
         "incorrect_answers": [
-          "130 zł",
-          "270 zł",
-          "40 zł"
+          "130\u00A0zł",
+          "270\u00A0zł",
+          "40\u00A0zł"
         ]
       },
       {
-        "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000 zł, a liczba odsłon to 500 000?",
-        "correct_answer": "2 zł",
+        "question": "Ile wynosił koszt jednej odsłony (CPM) kampanii, jeśli łączny koszt wyniósł 1000\u00A0zł, a liczba odsłon to 500\u00A0000?",
+        "correct_answer": "2\u00A0zł",
         "incorrect_answers": [
-          "1.5 zł",
-          "3 zł",
-          "2.5 zł"
+          "1.5\u00A0zł",
+          "3\u00A0zł",
+          "2.5\u00A0zł"
         ]
       },
       {
-        "question": "Kampania uzyskała 100 000 wyświetleń i 500 kliknięć. Jaki był CTR?",
+        "question": "Kampania uzyskała 100\u00A0000 wyświetleń i 500 kliknięć. Jaki był CTR?",
         "correct_answer": "0,5%",
         "incorrect_answers": [
           "0,4%",
@@ -261,7 +261,7 @@
         ]
       },
       {
-        "question": "Koszt kampanii wyniósł 50 000 zł, a wygenerowano 250 000 zł przychodu. Jaki był ROAS?",
+        "question": "Koszt kampanii wyniósł 50\u00A0000\u00A0zł, a wygenerowano 250\u00A0000\u00A0zł przychodu. Jaki był ROAS?",
         "correct_answer": "500%",
         "incorrect_answers": [
           "600%",
@@ -270,16 +270,16 @@
         ]
       },
       {
-        "question": "Jeśli CPM kampanii wynosił 10 zł, a liczba wyświetleń wyniosła 1 000 000, jaki był łączny koszt kampanii?",
-        "correct_answer": "10 000 zł",
+        "question": "Jeśli CPM kampanii wynosił 10\u00A0zł, a liczba wyświetleń wyniosła 1\u00A0000\u00A0000, jaki był łączny koszt kampanii?",
+        "correct_answer": "10\u00A0000\u00A0zł",
         "incorrect_answers": [
-          "5 000 zł",
-          "15 000 zł",
-          "20 000 zł"
+          "5\u00A0000\u00A0zł",
+          "15\u00A0000\u00A0zł",
+          "20\u00A0000\u00A0zł"
         ]
       },
       {
-        "question": "Kampania uzyskała 5000 kliknięć przy 1 000 000 wyświetleń. Jaki był CTR?",
+        "question": "Kampania uzyskała 5000 kliknięć przy 1\u00A0000\u00A0000 wyświetleń. Jaki był CTR?",
         "correct_answer": "0,5%",
         "incorrect_answers": [
           "0,1%",
@@ -288,21 +288,21 @@
         ]
       },
       {
-        "question": "Jaki był koszt 1000 wyświetleń (CPM) kampanii, jeśli uzyskano 1 500 000 wyświetleń przy koszcie 15 000 zł?",
-        "correct_answer": "10 zł",
+        "question": "Jaki był koszt 1000 wyświetleń (CPM) kampanii, jeśli uzyskano 1 500\u00A0000 wyświetleń przy koszcie 15\u00A0000\u00A0zł?",
+        "correct_answer": "10\u00A0zł",
         "incorrect_answers": [
-          "8 zł",
-          "12 zł",
-          "15 zł"
+          "8\u00A0zł",
+          "12\u00A0zł",
+          "15\u00A0zł"
         ]
       },
       {
         "question": "Jakie były wydatki na reklamę internetową w Polsce w 2023 roku?",
-        "correct_answer": "7,8 mld PLN",
+        "correct_answer": "7,8\u00A0mld\u00A0PLN",
         "incorrect_answers": [
-          "6,5 mld PLN",
-          "12,5 mld PLN",
-          "2 mld PLN"
+          "6,5\u00A0mld\u00A0PLN",
+          "12,5\u00A0mld\u00A0PLN",
+          "2\u00A0mld\u00A0PLN"
         ]
       },
       {
@@ -337,7 +337,7 @@
         "correct_answer": "Cost Per Mille, czyli koszt za 1000 wyświetleń reklamy, obliczany jako całkowity koszt kampanii podzielony przez liczbę tysięcy wyświetleń.",
         "incorrect_answers": [
           "CPM to Cost Per Millestone sposób mierzenia liczby konwersji na stronie, obliczany jako stosunek konwersji do wyświetleń dla kluczowycg progów.",
-          "CPM oblicza się dzieląc liczbę wyświetleń przez koszt kampanii, dając wynik w złotych.",
+          "CPM oblicza się dzieląc liczbę wyświetleń przez koszt kampanii, dając wynik w\u00A0złotych.",
           "To wskaźnik liczby użytkowników, którzy kliknęli na reklamę, dzielony przez całościowy koszt."
         ]
       },
@@ -530,16 +530,16 @@
             "W e-mail marketingu landing page ma niskie znaczenie, liczy się treść e-maila."
         ]
     },{
-        "question": "Liczba odsłon wyniosła 1 000 000, a łączny koszt ich emisji to 5000 zł. Jaki był CPM kampanii?",
-        "correct_answer": "5 zł",
+        "question": "Liczba odsłon wyniosła 1\u00A0000\u00A0000, a łączny koszt ich emisji to 5000\u00A0zł. Jaki był CPM kampanii?",
+        "correct_answer": "5\u00A0zł",
         "incorrect_answers": [
-            "10 zł",
-            "3 zł",
-            "7 zł"
+            "10\u00A0zł",
+            "3\u00A0zł",
+            "7\u00A0zł"
         ]
     },
     {
-        "question": "Jeśli 100 osób kliknęło w reklamę, która została wyświetlona 10 000 razy, jaki był CTR kampanii?",
+        "question": "Jeśli 100 osób kliknęło w reklamę, która została wyświetlona 10\u00A0000 razy, jaki był CTR kampanii?",
         "correct_answer": "1%",
         "incorrect_answers": [
             "0,5%",
@@ -548,7 +548,7 @@
         ]
     },
     {
-        "question": "Kampania kosztowała 20 000 zł i wygenerowała przychód 100 000 zł. Jaki był ROI?",
+        "question": "Kampania kosztowała 20\u00A0000\u00A0zł i wygenerowała przychód 100\u00A0000\u00A0zł. Jaki był ROI?",
         "correct_answer": "400%",
         "incorrect_answers": [
             "200%",
@@ -566,34 +566,34 @@
         ]
     },
     {
-        "question": "Jak obliczyć koszt pojedynczego kliknięcia (CPC), jeśli kampania kosztowała 2000 zł, a uzyskano 500 kliknięć?",
-        "correct_answer": "4 zł",
+        "question": "Jak obliczyć koszt pojedynczego kliknięcia (CPC), jeśli kampania kosztowała 2000\u00A0zł, a uzyskano 500 kliknięć?",
+        "correct_answer": "4\u00A0zł",
         "incorrect_answers": [
-            "2 zł",
-            "10 zł",
-            "8 zł"
+            "2\u00A0zł",
+            "10\u00A0zł",
+            "8\u00A0zł"
         ]
     },
     {
-        "question": "W kampanii pozyskano 200 leadów, przy czym koszt kampanii wyniósł 10 000 zł. Jaki był CPL?",
-        "correct_answer": "50 zł",
+        "question": "W kampanii pozyskano 200 leadów, przy czym koszt kampanii wyniósł 10\u00A0000\u00A0zł. Jaki był CPL?",
+        "correct_answer": "50\u00A0zł",
         "incorrect_answers": [
-            "25 zł",
-            "75 zł",
-            "100 zł"
+            "25\u00A0zł",
+            "75\u00A0zł",
+            "100\u00A0zł"
         ]
     },
     {
-        "question": "Jeśli CPM kampanii wynosił 20 zł, a liczba wyświetleń wyniosła 250 000, jaki był łączny koszt kampanii?",
-        "correct_answer": "5000 zł",
+        "question": "Jeśli CPM kampanii wynosił 20\u00A0zł, a liczba wyświetleń wyniosła 250\u00A0000, jaki był łączny koszt kampanii?",
+        "correct_answer": "5000\u00A0zł",
         "incorrect_answers": [
-            "10 000 zł",
-            "2500 zł",
-            "7500 zł"
+            "10\u00A0000\u00A0zł",
+            "2500\u00A0zł",
+            "7500\u00A0zł"
         ]
     },
     {
-        "question": "Kampania uzyskała 300 000 wyświetleń i 6000 kliknięć. Jaki był CTR?",
+        "question": "Kampania uzyskała 300\u00A0000 wyświetleń i 6000 kliknięć. Jaki był CTR?",
         "correct_answer": "2%",
         "incorrect_answers": [
             "1%",
@@ -602,7 +602,7 @@
         ]
     },
     {
-        "question": "Koszt kampanii wyniósł 15 000 zł, a generowany przychód to 60 000 zł. Jaki był ROAS?",
+        "question": "Koszt kampanii wyniósł 15\u00A0000\u00A0zł, a generowany przychód to 60\u00A0000\u00A0zł. Jaki był ROAS?",
         "correct_answer": "400%",
         "incorrect_answers": [
             "200%",
@@ -611,21 +611,21 @@
         ]
     },
     {
-        "question": "Jeśli koszt kampanii wynosił 8000 zł, a liczba zdobytych leadów to 200, jaki był CPL?",
-        "correct_answer": "40 zł",
+        "question": "Jeśli koszt kampanii wynosił 8000\u00A0zł, a liczba zdobytych leadów to 200, jaki był CPL?",
+        "correct_answer": "40\u00A0zł",
         "incorrect_answers": [
-            "20 zł",
-            "60 zł",
-            "80 zł"
+            "20\u00A0zł",
+            "60\u00A0zł",
+            "80\u00A0zł"
         ]
     },
     {
-        "question": "W kampanii uzyskano 500 kliknięć, a koszt kampanii wyniósł 2500 zł. Jaki był CPC?",
-        "correct_answer": "5 zł",
+        "question": "W kampanii uzyskano 500 kliknięć, a koszt kampanii wyniósł 2500\u00A0zł. Jaki był CPC?",
+        "correct_answer": "5\u00A0zł",
         "incorrect_answers": [
-            "3,5 zł",
-            "9 zł",
-            "0.5 zł"
+            "3,5\u00A0zł",
+            "9\u00A0zł",
+            "0.5\u00A0zł"
         ]
     },
     {
