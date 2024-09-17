@@ -309,9 +309,9 @@
         "question": "Jaką dynamikę wzrostu odnotował rynek reklamy internetowej w Polsce w latach 2022-2023?",
         "correct_answer": "+13%",
         "incorrect_answers": [
-          "+9%",
-          "+18%",
-          "+29%"
+          "+2%",
+          "+118%",
+          "+39%"
         ]
       },
       {
@@ -327,9 +327,9 @@
         "question": "Jakie są główne modele zakupu powierzchni reklamowej online?",
         "correct_answer": "CPM, CPC, CPA, CPL, CPD, CPS, CPV.",
         "incorrect_answers": [
-          "CPA, CPM, CPT, CTR.",
-          "CIA, USB, KGB.",
-          "CPR, CPG, CPW, CPM, CPS, RSA."
+          "CPA, CPM, CDR, CTR.",
+          "CIA, USB, KGB, SLD, LSD, THC.",
+          "CPR, CPG, GPW, CPM, CPS, RSA."
         ]
       },
       {
@@ -471,7 +471,7 @@
         "question": "Co to jest SXO?",
         "correct_answer": "Search Experience Optimization, czyli optymalizacja doświadczeń użytkownika podczas korzystania z wyszukiwarki.",
         "incorrect_answers": [
-            "SXO nie istnieje jako termin, jest błędem terminologicznym.",
+            "SXO nie istnieje jako termin. Istnieje OXS - Online Experience Strategy optymalizacja doświadczeń online.",
             "Sensory Xperience Optimization, optymalizacja doświadczeń offline, nie dotyczy działań online.",
             "Structured Xperience Organization, dotyczy tylko struktur danych, nie obejmuje doświadczenia użytkownika."
         ]
@@ -482,16 +482,16 @@
         "incorrect_answers": [
             "Znaczniki HTML nie mają wpływu na SEO, liczą się tylko treści.",
             "Tylko znaczniki graficzne jak img mają znaczenie dla SEO.",
-            "SEO nie używa znaczników HTML, skupia się na CSS."
+            "SEO nie używa znaczników HTML, skupia się na CSS - transition, padding, display."
         ]
     },
     {
         "question": "Co to jest sitemap?",
         "correct_answer": "Mapa witryny, zawierająca spis wszystkich podstron, które chcemy pokazać robotom wyszukiwarki.",
         "incorrect_answers": [
-            "Mapa witryny jest tylko dla użytkowników, nie dla wyszukiwarek.",
-            "Sitemap to fizyczna mapa serwera, na którym hostowana jest strona.",
-            "Nie używa się już sitemap w nowoczesnym SEO."
+            "Mapa witryny jest tylko dla użytkowników, nie dla wyszukiwarek indeksujących zasoby w sieci.",
+            "Sitemap to fizyczna mapa serwera, na którym hostowana jest strona wykorzystywana do planowania powierzchni reklamowych.",
+            "Nie używa się już sitemap w nowoczesnym SEO. Technika ta była wykorzystywana przed wykorzystywaniem JavaScript."
         ]
     },
     {
@@ -625,16 +625,16 @@
         "incorrect_answers": [
             "3,5\u00A0zł",
             "9\u00A0zł",
-            "0.5\u00A0zł"
+            "0,5\u00A0zł"
         ]
     },
     {
         "question": "Jaki odsetek marketerów uważa e-mail marketing za najskuteczniejszą formę komunikacji?",
         "correct_answer": "26%. E-mail marketing jest wysoko ceniony za swoją skuteczność.",
         "incorrect_answers": [
-            "35%. E-mail marketing nie jest uznawany za najskuteczniejszą formę.",
-            "10%. E-mail marketing jest rzadko uważany za skuteczną formę komunikacji.",
-            "50%. E-mail marketing jest przeceniany przez większość marketerów."
+            "42%. E-mail marketing nie jest uznawany za najskuteczniejszą formę.",
+            "8%. E-mail marketing jest rzadko uważany za skuteczną formę komunikacji.",
+            "72%. E-mail marketing jest przeceniany przez większość marketerów."
         ]
     },
     {
@@ -1107,7 +1107,7 @@
     },
     {
         "question": "Co to jest audyt UX?",
-        "correct_answer": "Audyt UX to analiza użyteczności serwisu internetowego pod kątem zgodności z oczekiwaniami użytkowników.",
+        "correct_answer": "Analiza użyteczności serwisu internetowego pod kątem zgodności z oczekiwaniami użytkowników.",
         "incorrect_answers": [
             "Kontrola zgodności strony internetowej z międzynarodowymi standardami bezpieczeństwa.",
             "Analiza skuteczności kodu HTML w kontekście SEO.",
@@ -1425,7 +1425,7 @@
         "correct_answer": "HbbTV (Hybrid Broadcast Broadband TV) to standard telewizji hybrydowej łączący emisję sygnałów telewizyjnych z multimedialnymi treściami dostarczanymi przez internet.",
         "incorrect_answers": [
             "HbbTV (Hybrid Bluetooth-based Television) to technologia umożliwiająca oglądanie telewizji za pomocą technologii Bluetooth.",
-            "HbbTV (Hybrid Broadcast Broadband TV ) to usługa telewizji cyfrowej zapewniająca dostęp do programów na żądanie.",
+            "HbbTV (Hybrid Broadcast Broadband TV) to usługa telewizji cyfrowej zapewniająca dostęp do programów na żądanie.",
             "HbbTV (Hybrid Broadcast-Based TeleVoting) to interaktywna platforma dla widzów umożliwiająca głosowanie w czasie rzeczywistym."
         ]
     },
@@ -1586,9 +1586,9 @@
         "question": "Co to jest prosument?",
         "correct_answer": "Prosument to konsument zaangażowany we współtworzenie i promowanie produktów ulubionej marki lub w jednoczesną produkcję i konsumpcję dóbr lub usług.",
         "incorrect_answers": [
-            "Prosument to konsument, który kupuje produkty tylko przez internet.",
-            "Prosument to profesjonalny konsument pracujący w branży reklamowej.",
-            "Prosument to konsument prowadzący bloga na temat zakupionych produktów."
+            "Prosument to konsument, który kupuje produkty tylko przez internet i dzieli się opiniami wśród innych klientów tej platformy zakupowej.",
+            "Prosument to profesjonalny konsument pracujący w branży reklamowej, świadomy mechanizmów marketingowych mogących mieć wpływ na decyzje zakupowe.",
+            "Prosument to konsument prowadzący bloga na temat zakupionych produktów i dzielący sie opniami na temat zakupionych towarów w internecie."
         ]
     },
     {
@@ -1767,7 +1767,7 @@
         "correct_answer": "Brand safety to działania mające na celu zabezpieczenie marki przed negatywnym wpływem otoczenia, w którym wyświetlana jest jej reklama.",
         "incorrect_answers": [
             "Brand safety to strategia wyboru tylko bezpiecznych, zweryfikowanych platform reklamowych.",
-            "Brand safety to unikanie kontrowersyjnych tematów w treściach reklam.",
+            "Brand safety to unikanie kontrowersyjnych tematów w treściach reklam mogących uderzać w dobry wizerunek platformy na której reklama jest wyświetlana.",
             "Brand safety to działania ograniczające reklamy do niewielkiego, kontrolowanego kręgu odbiorców."
         ]
     },
@@ -1775,8 +1775,8 @@
         "question": "Co to jest adfraud?",
         "correct_answer": "Adfraud to oszustwo reklamowe polegające na generowaniu fałszywych kliknięć lub wyświetleń reklamy.",
         "incorrect_answers": [
-            "Adfraud to strategia marketingowa mająca na celu zwiększenie zasięgu reklam.",
-            "Adfraud to legalne użycie botów do testowania skuteczności reklam.",
+            "Adfraud to strategia marketingowa mająca na celu zwiększenie zasięgu reklam na stronach obsługiwanych przez AdSense.",
+            "Adfraud to legalne użycie botów do testowania skuteczności reklam na wybranych stronach internetowych.",
             "Adfraud to wykorzystanie reklam do zbierania danych bez zgody użytkowników."
         ]
     },
@@ -1784,7 +1784,7 @@
         "question": "Jakie są rodzaje danych wykorzystywanych w programmatic?",
         "correct_answer": "1st party data (dane własne), 2nd party data (dane udostępnione przez partnerów), 3rd party data (dane zebrane i udostępniane przez specjalistyczne firmy).",
         "incorrect_answers": [
-            "Tylko dane demograficzne i psychograficzne użytkowników.",
+            "Tylko dane demograficzne, psychograficzne użytkowników uwzględniające prawne",
             "Dane zbierane wyłącznie przez zewnętrzne agencje bez udziału reklamodawcy.",
             "Informacje pozyskiwane tylko z mediów społecznościowych."
         ]
