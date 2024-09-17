@@ -129,18 +129,18 @@
         "question": "Czym jest Responsive Web Design (RWD) i jakie są jego zalety?",
         "correct_answer": "To projektowanie stron internetowych tak, aby automatycznie dostosowywały swój wygląd i układ do rozmiaru okna przeglądarki lub urządzenia. Jego zalety to oszczędność pieniędzy i czasu oraz lepsza optymalizacja SEO.",
         "incorrect_answers": [
-            "Technika projektowania stron, która najlepiej sprawdza się na dużych monitorach stacjonarnych.",
+            "Technika projektowania stron internetowych, która automatycznie zwiększa rozmiar grafik i tekstu na dużych ekranach, ale nie działa na mniejszych urządzeniach.",
             "Styl projektowania, który polega na tworzeniu wielu wersji strony dla różnych urządzeń.",
-            "Metoda tworzenia stron internetowych, która ignoruje potrzeby użytkowników mobilnych."
+            "Styl projektowania stron internetowych, który koncentruje się na optymalizacji wyłącznie dla komputerów stacjonarnych, zaniedbując inne urządzenia, co prowadzi do problemów z użytecznością na smartfonach."
         ]
     },
     {
         "question": "Jakie są główne formaty plików używane w grafice internetowej?",
         "correct_answer": "Główne formaty to JPEG, GIF, PNG, PSD, AI, EPS, PDF, z których każdy ma swoje specyficzne zastosowania, np. JPEG do zdjęć, GIF do prostych grafik z przezroczystym tłem i animacji, a AI do plików wektorowych.",
         "incorrect_answers": [
-            "Tylko formaty tekstowe jak DOC i TXT, używane do opisu grafik.",
-            "Formaty muzyczne jak MP3 i WAV, wykorzystywane do tła stron internetowych.",
-            "Formaty video jak AVI i MPG, stosowane głównie w animacjach webowych."
+            "Popularne formaty to BMP, TIFF, RAW, SVG, z których każdy ma swoje specyficzne zastosowania, np. BMP do bitmap, TIFF do zdjęć z wysoką rozdzielczością, a RAW do nieskompresowanych plików graficznych.",
+            "Formaty jak MP3 i WAV, wykorzystywane do tła stron internetowych.",
+            "Najczęściej używane formaty to MP4, AVI, MOV, MKV, z których każdy ma swoje specyficzne zastosowania, np. MP4 do filmów, AVI do prostych animacji, a MOV do edycji wideo."
         ]
     },
     {
@@ -399,9 +399,9 @@
         "question": "Jakie są główne cechy reklamy display?",
         "correct_answer": "Reklama display to reklamy graficzne, wyświetlane w serwisach internetowych, które mogą zawierać różne elementy multimedialne.",
         "incorrect_answers": [
-          "Reklama display to przede wszystkim tekstowe ogłoszenia w wyszukiwarkach.",
+          "Reklama display to głównie reklamy tekstowe, które pojawiają się w wynikach wyszukiwania, a nie na stronach internetowych.",
           "Reklama display opiera się wyłącznie na interaktywnych komponentach, takich jak gry.",
-          "Reklama display koncentruje się na dużych, statycznych bannerach bez animacji."
+          "Reklama display to reklamy wyświetlane tylko na stronach mobilnych, które nie zawierają żadnych animacji ani interaktywnych elementów, co ogranicza ich skuteczność."
         ]
       },
       {
@@ -418,8 +418,8 @@
         "correct_answer": "Search Engine Marketing, obejmujący zarówno SEO (organic) jak i SEA (płatne reklamy w wyszukiwarkach).",
         "incorrect_answers": [
             "Search Engine Marketing, obejmujący tylko SEO, bez płatnych reklam.",
-            "Ograniczenie do reklam w mediach społecznościowych, nie obejmuje wyszukiwarek.",
-            "Skupienie na tradycyjnych mediach, nie obejmuje działań online."
+            "Strategia marketingowa skupiająca się jedynie na reklamach telewizyjnych i radiowych, z wyłączeniem wszelkich działań związanych z wyszukiwarkami internetowymi.",
+            "Metoda promocji, która polega głównie na tworzeniu treści viralowych w mediach społecznościowych, bez jakiejkolwiek współpracy z wyszukiwarkami czy płatnymi reklamami."
         ]
     },
     {
@@ -525,9 +525,9 @@
         "question": "Co to jest landing page i dlaczego jest ważna w e-mail marketingu?",
         "correct_answer": "Landing page to strona docelowa, na którą trafia użytkownik po kliknięciu w link w e-mailu, jest kluczowa dla skuteczności kampanii.",
         "incorrect_answers": [
-            "Landing page jest niepotrzebna, ważniejszy jest bezpośredni kontakt mailowy.",
+            "Landing page to strona główna witryny, do której zawsze prowadzi każdy e-mail, niezależnie od treści kampanii.",
             "Strony docelowe są tylko dla dużych firm, małe firmy mogą używać e-maili bezpośrednich.",
-            "W e-mail marketingu landing page ma niskie znaczenie, liczy się treść e-maila."
+            "Landing page to strona docelowa, w e-mail marketingu landing page nie ma znaczenia, ponieważ użytkownicy zazwyczaj nie klikają w linki, a liczy się jedynie otwarcie e-maila."
         ]
     },{
         "question": "Liczba odsłon wyniosła 1\u00A0000\u00A0000, a łączny koszt ich emisji to 5000\u00A0zł. Jaki był CPM kampanii?",
@@ -722,9 +722,9 @@
         "question": "Co to jest DMARC?",
         "correct_answer": "Domain-based Message Authentication Reporting and Conformance. System weryfikujący poprawność wiadomości e-mail w celu ochrony przed fałszowaniem i cyberprzestępstwami.",
         "incorrect_answers": [
-            "Direct Mail Automated Response Control to system filtrujący treści e-mail bez kontroli nad ich autentycznością.",
+            "Direct Mail Automated Response Control to system filtrujący treści e-mail bez kontroli nad ich autentycznością ale po zabezpieczonym protokole HTTPS.",
             "Data Monitoring and Reporting Console służy wyłącznie do monitorowania i raportowania statystyk e-mail bez funkcji ochrony.",
-            "Digital Mail Advertisement Response Coordinator jest protokołem do zarządzania reklamami e-mail, nie zabezpiecza przed fałszerstwami."
+            "Digital Mail Advertisement Response Coordinator jest protokołem do zarządzania reklamami e-mail, zabezpiecza przed fałszerstwami internetowymi."
         ]
     },
     {
@@ -828,10 +828,10 @@
     },
     {
         "question": "Jakie są najważniejsze wskaźniki w kampaniach e-mailowych?",
-        "correct_answer": "CTR, OR, CTOR, CR, ROI, DR, UR.",
+        "correct_answer": "Najważniejszymi wskaźnikami są CTR, OR, CTOR, CR, ROI, DR, UR.",
         "incorrect_answers": [
             "Najważniejszymi wskaźnikami są CTA, CSS, HTML, JSON w kampaniach e-mailowych.",
-            "Kluczowe metryki to OpenSSL, S/MIME, PGP w zabezpieczeniach e-maili.",
+            "Kluczowe wskaźniki to OpenSSL, S/MIME, PGP w zabezpieczeniach e-maili.",
             "Najistotniejsze są wskaźniki związane z dostawą serwerów, takie jak HTTP, FTP, SMTP."
         ]
     },

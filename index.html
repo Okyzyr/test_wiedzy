@@ -10,13 +10,15 @@
             background-color: #f4f4f4;
             color: #333;
             font-size: 18px;
-            padding: 20px;
+            margin: 0;
+            margin-right: 20px;
+            padding: 5px;
         }
         #quiz-container {
             background: white;
-            width: 100%;
-            max-width: 600px;
-            margin: 0 auto;
+            width: calc(100% - 20px); /* Ustawia szerokość kontenera z dynamicznym marginesem */
+            max-width: 700px;
+            margin: 20px auto;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
@@ -24,6 +26,7 @@
             font-weight: bold;
             font-size: 22px;
             margin-bottom: 20px;
+            text-align: center;
         }
         #answers {
             list-style: none;
